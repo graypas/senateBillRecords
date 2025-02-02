@@ -1,0 +1,2589 @@
+<?xml version="1.0" encoding="UTF-8"?><vote_summary>
+  <congress>110</congress>
+
+  <session>2</session>
+  <congress_year>2008</congress_year>
+  <votes>
+    <vote>
+      <vote_number>00215</vote_number>
+      <vote_date>11-Dec</vote_date>
+      <issue>H.R. 7005</issue>
+      <question>On the Cloture Motion</question>
+      <result>Rejected</result>
+      <vote_tally>
+        <yeas>52</yeas>
+        <nays>35</nays>
+      </vote_tally>
+      <title>Motion to Invoke Cloture on the Motion to Proceed to Consider H.R. 7005.; A bill to amend the Internal Revenue Code of 1986 to provide alternative minimum tax relief for individuals for 2008.</title>
+    </vote>
+    <vote>
+      <vote_number>00214</vote_number>
+      <vote_date>20-Nov</vote_date>
+      <issue>H.R. 6867</issue>
+      <question>On the Cloture Motion</question>
+      <result>Agreed to</result>
+      <vote_tally>
+        <yeas>89</yeas>
+        <nays>6</nays>
+      </vote_tally>
+      <title>Motion to Invoke Cloture on the Motion to Proceed to H.R. 6867; A bill to provide for additional emergency unemployment compensation.</title>
+    </vote>
+    <vote>
+      <vote_number>00213</vote_number>
+      <vote_date>01-Oct</vote_date>
+      <issue>H.R. 1424</issue>
+      <question>On Passage of the Bill</question>
+      <result>Passed</result>
+      <vote_tally>
+        <yeas>74</yeas>
+        <nays>25</nays>
+      </vote_tally>
+      <title>H. R. 1424 As Amended; A bill to provide authority for the Federal Government to purchase and insure certain types of troubled assets for the purposes of providing stability to and preventing disruption in the economy and financial system and protecting taxpayers, to amend the Internal Revenue Code of 1986 to provide incentives for energy production and conservation, to extend certain expiring provisions, to provide individual income tax relief, and for other purposes.</title>
+    </vote>
+    <vote>
+      <vote_number>00212</vote_number>
+      <vote_date>01-Oct</vote_date>
+      <issue>H.R. 1424</issue>
+      <question>On the Amendment <measure>S.Amdt. 5685</measure></question>
+      <result>Agreed to</result>
+      <vote_tally>
+        <yeas>74</yeas>
+        <nays>25</nays>
+      </vote_tally>
+      <title>Dodd Amdt. No. 5685; In the nature of a substitute.</title>
+    </vote>
+    <vote>
+      <vote_number>00211</vote_number>
+      <vote_date>01-Oct</vote_date>
+      <issue>H.R. 7081</issue>
+      <question>On Passage of the Bill</question>
+      <result>Passed</result>
+      <vote_tally>
+        <yeas>86</yeas>
+        <nays>13</nays>
+      </vote_tally>
+      <title>H.R. 7081; A bill to approve the United States-India Agreement for Cooperation on Peaceful Uses of Nuclear Energy, and for other purposes.</title>
+    </vote>
+    <vote>
+      <vote_number>00210</vote_number>
+      <vote_date>01-Oct</vote_date>
+      <issue>H.R. 2095</issue>
+      <question>On the Motion</question>
+      <result>Agreed to</result>
+      <vote_tally>
+        <yeas>74</yeas>
+        <nays>24</nays>
+      </vote_tally>
+      <title>Motion to Concur in the House Amdt. To the Senate Amdt. to H.R. 2095; A bill to amend title 49, United States Code, to prevent railroad fatalities, injuries, and hazardous materials releases, to authorize the Federal Railroad Safety Administration, and for other purposes.</title>
+    </vote>
+    <vote>
+      <vote_number>00209</vote_number>
+      <vote_date>29-Sep</vote_date>
+      <issue>H.R. 2095</issue>
+      <question>On the Cloture Motion</question>
+      <result>Agreed to</result>
+      <vote_tally>
+        <yeas>69</yeas>
+        <nays>17</nays>
+      </vote_tally>
+      <title>Motion to Invoke Cloture on the Motion to Concur in the House Amdt. to the Senate Amdt. to H.R. 2095; A bill to amend title 49, United States Code, to prevent railroad fatalities, injuries, and hazardous materials releases, to authorize the Federal Railroad Safety Administration, and for other purposes.</title>
+    </vote>
+    <vote>
+      <vote_number>00208</vote_number>
+      <vote_date>27-Sep</vote_date>
+      <issue>H.R. 2638</issue>
+      <question>On the Motion</question>
+      <result>Agreed to</result>
+      <vote_tally>
+        <yeas>78</yeas>
+        <nays>12</nays>
+      </vote_tally>
+      <title>Motion to Concur in the House Amendment to the Senate Amendment to H.R.2638; A bill making appropriations for the Department of Homeland Security for the fiscal year ending September 30, 2008, and for other purposes.</title>
+    </vote>
+    <vote>
+      <vote_number>00207</vote_number>
+      <vote_date>27-Sep</vote_date>
+      <issue>H.R. 2638</issue>
+      <question>On the Cloture Motion</question>
+      <result>Agreed to</result>
+      <vote_tally>
+        <yeas>83</yeas>
+        <nays>12</nays>
+      </vote_tally>
+      <title>Motion to Invoke Cloture on the Motion to Concur in the House Amdt. to the Senate Amdt. to H.R.2638; A bill making appropriations for the Department of Homeland Security for the fiscal year ending September 30, 2008, and for other purposes.</title>
+    </vote>
+    <vote>
+      <vote_number>00206</vote_number>
+      <vote_date>26-Sep</vote_date>
+      <issue>S. 3604</issue>
+      <question>On the Motion to Proceed</question>
+      <result>Rejected</result>
+      <vote_tally>
+        <yeas>52</yeas>
+        <nays>42</nays>
+      </vote_tally>
+      <title>Motion to Proceed to Consider S.3604; A bill making emergency supplemental appropriations for economic recovery for the fiscal year ending September 30, 2008, and for other purposes.</title>
+    </vote>
+    <vote>
+      <vote_number>00205</vote_number>
+      <vote_date>23-Sep</vote_date>
+      <issue>H.R. 6049</issue>
+      <question>On Passage of the Bill</question>
+      <result>Passed</result>
+      <vote_tally>
+        <yeas>93</yeas>
+        <nays>2</nays>
+      </vote_tally>
+      <title>H.R.6049 As Amended; A bill to amend the Internal Revenue Code of 1986 to provide incentives for energy production and conservation, to extend certain expiring provisions, to provide individual income tax relief, and for other purposes.</title>
+    </vote>
+    <vote>
+      <vote_number>00204</vote_number>
+      <vote_date>23-Sep</vote_date>
+      <issue>H.R. 6049</issue>
+      <question>On the Motion <measure>S.Amdt. 5635</measure></question>
+      <result>Agreed to</result>
+      <vote_tally>
+        <yeas>84</yeas>
+        <nays>11</nays>
+      </vote_tally>
+      <title>Motion to Waive C.B.A. Baucus Amdt. No.5635; To amend the Internal Revenue Code of 1986 to extend certain expiring provisions, and for other purposes.</title>
+    </vote>
+    <vote>
+      <vote_number>00203</vote_number>
+      <vote_date>23-Sep</vote_date>
+      <issue>H.R. 6049</issue>
+      <question>On the Amendment <measure>S.Amdt. 5634</measure></question>
+      <result>Rejected</result>
+      <vote_tally>
+        <yeas>53</yeas>
+        <nays>42</nays>
+      </vote_tally>
+      <title>Conrad Amdt No. 5634; To provide alternative minimum tax relief, and for other purposes.</title>
+    </vote>
+    <vote>
+      <vote_number>00202</vote_number>
+      <vote_date>23-Sep</vote_date>
+      <issue>H.R. 6049</issue>
+      <question>On the Amendment <measure>S.Amdt. 5633</measure></question>
+      <result>Agreed to</result>
+      <vote_tally>
+        <yeas>93</yeas>
+        <nays>2</nays>
+      </vote_tally>
+      <title>Baucus Amdt. No. 5633; In the nature of a substitute.</title>
+    </vote>
+    <vote>
+      <vote_number>00201</vote_number>
+      <vote_date>17-Sep</vote_date>
+      <issue>S. 3001</issue>
+      <question>On Passage of the Bill</question>
+      <result>Passed</result>
+      <vote_tally>
+        <yeas>88</yeas>
+        <nays>8</nays>
+      </vote_tally>
+      <title>S. 3001 As Amended; An original bill to authorize appropriations for fiscal year 2009 for military activities of the Department of Defense, for military construction, and for defense activities of the Department of Energy, to prescribe military personnel strengths for such fiscal year, and for other purposes.</title>
+    </vote>
+    <vote>
+      <vote_number>00200</vote_number>
+      <vote_date>16-Sep</vote_date>
+      <issue>S. 3001</issue>
+      <question>On the Cloture Motion</question>
+      <result>Agreed to</result>
+      <vote_tally>
+        <yeas>61</yeas>
+        <nays>32</nays>
+      </vote_tally>
+      <title>Motion to Invoke Cloture on S. 3001; An original bill to authorize appropriations for fiscal year 2009 for military activities of the Department of Defense, for military construction, and for defense activities of the Department of Energy, to prescribe military personnel strengths for such fiscal year, and for other purposes.</title>
+    </vote>
+    <vote>
+      <vote_number>00199</vote_number>
+      <vote_date>10-Sep</vote_date>
+      <issue>S. 3001</issue>
+      <question>On the Amendment <measure>S.Amdt. 4979</measure></question>
+      <result>Agreed to</result>
+      <vote_tally>
+        <yeas>94</yeas>
+        <nays>2</nays>
+      </vote_tally>
+      <title>Nelson (FL) Amdt. No. 4979; To repeal the requirement for reduction of survivor annuities under the Survivor Benefit Plan by veterans' dependency and indemnity compensation.</title>
+    </vote>
+    <vote>
+      <vote_number>00198</vote_number>
+      <vote_date>10-Sep</vote_date>
+      <issue>S. 3001</issue>
+      <question>On the Amendment <measure>S.Amdt. 5280</measure></question>
+      <result>Rejected</result>
+      <vote_tally>
+        <yeas>39</yeas>
+        <nays>57</nays>
+      </vote_tally>
+      <title>Vitter Amdt. No. 5280; To authorize, with an offset, an additional $100,000,000 for Procurement, Defense-wide, and an additional $171,000,000 for Research, Development, Test, and Evaluation, Defense-wide, for near-term missile defense programs and activities.</title>
+    </vote>
+    <vote>
+      <vote_number>00197</vote_number>
+      <vote_date>08-Sep</vote_date>
+      <issue>S. 3001</issue>
+      <question>On the Cloture Motion</question>
+      <result>Agreed to</result>
+      <vote_tally>
+        <yeas>83</yeas>
+        <nays>0</nays>
+      </vote_tally>
+      <title>Upon Reconsideration, Motion to Invoke Cloture on the Motion to Proceed to Consider S. 3001; An original bill to authorize appropriations for fiscal year 2009 for military activities of the Department of Defense, for military construction, and for defense activities of the Department of Energy, to prescribe military personnel strengths for such fiscal year, and for other purposes.</title>
+    </vote>
+    <vote>
+      <vote_number>00196</vote_number>
+      <vote_date>31-Jul</vote_date>
+      <issue>H.Con.Res. 398</issue>
+      <question>On the Concurrent Resolution</question>
+      <result>Agreed to</result>
+      <vote_tally>
+        <yeas>48</yeas>
+        <nays>40</nays>
+      </vote_tally>
+      <title>H. Con. Res. 398; A concurrent resolution providing for an adjournment or recess of the two Houses.</title>
+    </vote>
+    <vote>
+      <vote_number>00195</vote_number>
+      <vote_date>31-Jul</vote_date>
+      <issue>S. 3001</issue>
+      <question>On Cloture on the Motion to Proceed</question>
+      <result>Rejected</result>
+      <vote_tally>
+        <yeas>51</yeas>
+        <nays>39</nays>
+      </vote_tally>
+      <title>Motion to Invoke Cloture on the Motion to Proceed to Consider S. 3001; An original bill to authorize appropriations for fiscal year 2009 for military activities of the Department of Defense, for military construction, and for defense activities of the Department of Energy, to prescribe military personnel strengths for such fiscal year, and for other purposes.</title>
+    </vote>
+    <vote>
+      <vote_number>00194</vote_number>
+      <vote_date>31-Jul</vote_date>
+      <issue>H.R. 4137</issue>
+      <question>On the Conference Report</question>
+      <result>Agreed to</result>
+      <vote_tally>
+        <yeas>83</yeas>
+        <nays>8</nays>
+      </vote_tally>
+      <title>H.R. 4137 Conference Report; A bill to amend and extend the Higher Education Act of 1965, and for other purposes.</title>
+    </vote>
+    <vote>
+      <vote_number>00193</vote_number>
+      <vote_date>31-Jul</vote_date>
+      <issue>H.R. 4040</issue>
+      <question>On the Conference Report</question>
+      <result>Agreed to</result>
+      <vote_tally>
+        <yeas>89</yeas>
+        <nays>3</nays>
+      </vote_tally>
+      <title>H.R. 4040 Conference Report; A bill to establish consumer product safety standards and other safety requirements for children's products and to reauthorize and modernize the Consumer Product Safety Commission.</title>
+    </vote>
+    <vote>
+      <vote_number>00192</vote_number>
+      <vote_date>30-Jul</vote_date>
+      <issue>S. 3335</issue>
+      <question>On the Cloture Motion</question>
+      <result>Rejected</result>
+      <vote_tally>
+        <yeas>51</yeas>
+        <nays>43</nays>
+      </vote_tally>
+      <title>Motion to Invoke Cloture on the Motion to Proceed to Consider S.3335; A bill to amend the Internal Revenue Code of 1986 to extend certain expiring provisions, and for other purposes.</title>
+    </vote>
+    <vote>
+      <vote_number>00191</vote_number>
+      <vote_date>30-Jul</vote_date>
+      <issue>S. 2035</issue>
+      <question>On the Cloture Motion</question>
+      <result>Rejected</result>
+      <vote_tally>
+        <yeas>51</yeas>
+        <nays>43</nays>
+      </vote_tally>
+      <title>Motion to Invoke Cloture on the Motion to Proceed to Consider S. 2035; A bill to maintain the free flow of information to the public by providing conditions for the federally compelled disclosure of information by certain persons connected with the news media.</title>
+    </vote>
+    <vote>
+      <vote_number>00190</vote_number>
+      <vote_date>29-Jul</vote_date>
+      <issue>H.R. 6049</issue>
+      <question>On the Cloture Motion</question>
+      <result>Rejected</result>
+      <vote_tally>
+        <yeas>53</yeas>
+        <nays>43</nays>
+      </vote_tally>
+      <title>Upon Reconsideration Motion to Invoke Cloture on the Motion to Proceed to Consider H.R.6049; A bill to amend the Internal Revenue Code of 1986 to provide incentives for energy production and conservation, to extend certain expiring provisions, to provide individual income tax relief, and for other purposes.</title>
+    </vote>
+    <vote>
+      <vote_number>00189</vote_number>
+      <vote_date>28-Jul</vote_date>
+      <issue>S. 3297</issue>
+      <question>On the Cloture Motion</question>
+      <result>Rejected</result>
+      <vote_tally>
+        <yeas>52</yeas>
+        <nays>40</nays>
+      </vote_tally>
+      <title>Motion to Invoke Cloture on the Motion to Proceed to Consider S.3297; A bill to advance America's priorities.</title>
+    </vote>
+    <vote>
+      <vote_number>00188</vote_number>
+      <vote_date>28-Jul</vote_date>
+      <issue>S. 3297</issue>
+      <question>On the Motion</question>
+      <result>Agreed to</result>
+      <vote_tally>
+        <yeas>87</yeas>
+        <nays>3</nays>
+      </vote_tally>
+      <title>Motion to Instruct Sgt. At Arms; A bill to advance America's priorities.</title>
+    </vote>
+    <vote>
+      <vote_number>00187</vote_number>
+      <vote_date>26-Jul</vote_date>
+      <issue>S. 3186</issue>
+      <question>On the Cloture Motion</question>
+      <result>Rejected</result>
+      <vote_tally>
+        <yeas>50</yeas>
+        <nays>35</nays>
+      </vote_tally>
+      <title>Motion to Invoke Cloture on the Motion to Proceed to the Consideration of S. 3186; A bill to provide funding for the Low-Income Home Energy Assistance Program.</title>
+    </vote>
+    <vote>
+      <vote_number>00186</vote_number>
+      <vote_date>26-Jul</vote_date>
+      <issue>H.R. 3221</issue>
+      <question>On the Motion</question>
+      <result>Agreed to</result>
+      <vote_tally>
+        <yeas>72</yeas>
+        <nays>13</nays>
+      </vote_tally>
+      <title>Motion to Concur in the House Amendment to Senate Amendment to the House Amendments to the Senate Amendment to HR 3221; A bill to provide needed housing reform and for other purposes.</title>
+    </vote>
+    <vote>
+      <vote_number>00185</vote_number>
+      <vote_date>25-Jul</vote_date>
+      <issue>H.R. 3221</issue>
+      <question>On the Cloture Motion</question>
+      <result>Agreed to</result>
+      <vote_tally>
+        <yeas>80</yeas>
+        <nays>13</nays>
+      </vote_tally>
+      <title>Motion to Invoke Cloture on the Motion to Concur in the House Amendment to the Senate Amendment to the House Amendments to the Senate Amendment to H.R. 3221; A bill to provide needed housing reform and for other purposes.</title>
+    </vote>
+    <vote>
+      <vote_number>00184</vote_number>
+      <vote_date>25-Jul</vote_date>
+      <issue>S. 3268</issue>
+      <question>On the Cloture Motion</question>
+      <result>Rejected</result>
+      <vote_tally>
+        <yeas>50</yeas>
+        <nays>43</nays>
+      </vote_tally>
+      <title>Motion to Invoke Cloture on S. 3268; A bill to amend the Commodity Exchange Act, to prevent excessive price speculation with respect to energy commodities, and for other purposes.</title>
+    </vote>
+    <vote>
+      <vote_number>00183</vote_number>
+      <vote_date>22-Jul</vote_date>
+      <issue>S. 3268</issue>
+      <question>On Cloture on the Motion to Proceed</question>
+      <result>Agreed to</result>
+      <vote_tally>
+        <yeas>94</yeas>
+        <nays>0</nays>
+      </vote_tally>
+      <title>Motion to Invoke Cloture on the Motion to Proceed to S. 3268; A bill to amend the Commodity Exchange Act, to prevent excessive price speculation with respect to energy commodities, and for other purposes.</title>
+    </vote>
+    <vote>
+      <vote_number>00182</vote_number>
+      <vote_date>16-Jul</vote_date>
+      <issue>H.R. 5501</issue>
+      <question>On Passage of the Bill</question>
+      <result>Passed</result>
+      <vote_tally>
+        <yeas>80</yeas>
+        <nays>16</nays>
+      </vote_tally>
+      <title>H.R. 5501 As Amended; A bill to authorize appropriations for fiscal years 2009 through 2013 to provide assistance to foreign countries to combat HIV AIDS, tuberculosis, and malaria, and for other purposes.</title>
+    </vote>
+    <vote>
+      <vote_number>00181</vote_number>
+      <vote_date>16-Jul</vote_date>
+      <issue>S. 2731</issue>
+      <question>On the Amendment <measure>S.Amdt. 5077</measure></question>
+      <result>Rejected</result>
+      <vote_tally>
+        <yeas>31</yeas>
+        <nays>64</nays>
+      </vote_tally>
+      <title>DeMint Amdt. No. 5077; To reduce to $35,000,000,000 the amount authorized to be appropriated to combat HIV/AIDS, tuberculosis, and malaria in developing countries during the next 5 years.</title>
+    </vote>
+    <vote>
+      <vote_number>00180</vote_number>
+      <vote_date>16-Jul</vote_date>
+      <issue>S. 2731</issue>
+      <question>On the Amendment <measure>S.Amdt. 5082</measure></question>
+      <result>Rejected</result>
+      <vote_tally>
+        <yeas>28</yeas>
+        <nays>67</nays>
+      </vote_tally>
+      <title>Kyl Amdt. No. 5082; To limit the period during which appropriations may be made to carry out this Act and to create a point of order in the Senate against any appropriation to carry out this Act that exceeds the amount authorized for fiscal year 2013.</title>
+    </vote>
+    <vote>
+      <vote_number>00179</vote_number>
+      <vote_date>16-Jul</vote_date>
+      <issue>S. 2731</issue>
+      <question>On the Amendment <measure>S.Amdt. 5081</measure></question>
+      <result>Rejected</result>
+      <vote_tally>
+        <yeas>44</yeas>
+        <nays>51</nays>
+      </vote_tally>
+      <title>Gregg Amdt. No. 5081; To strike the provision requiring the development of coordinated oversight plans and to establish an independent Inspector General at the Office of the Global AIDS Coordinator.</title>
+    </vote>
+    <vote>
+      <vote_number>00178</vote_number>
+      <vote_date>16-Jul</vote_date>
+      <issue>S. 2731</issue>
+      <question>On the Amendment <measure>S.Amdt. 5083</measure></question>
+      <result>Rejected</result>
+      <vote_tally>
+        <yeas>32</yeas>
+        <nays>63</nays>
+      </vote_tally>
+      <title>Cornyn Amdt. No. 5083; To establish a bipartisan commission for the purpose of improving oversight and eliminating wasteful government spending under the President's Emergency Plan for AIDS Relief.</title>
+    </vote>
+    <vote>
+      <vote_number>00177</vote_number>
+      <vote_date>15-Jul</vote_date>
+      <issue>H.R. 6331</issue>
+      <question>On Overriding the Veto</question>
+      <result>Veto Overridden</result>
+      <vote_tally>
+        <yeas>70</yeas>
+        <nays>26</nays>
+      </vote_tally>
+      <title>Shall H.R. 6331 Pass, the objections of the President of the United States to the contrary notwithstanding?; A bill to amend titles XVIII and XIX of the Social Security Act to extend expiring provisions under the Medicare Program, to improve beneficiary access to preventive and mental health services, to enhance low-income benefit programs, and to maintain access to care in rural areas, including pharmacy access, and for other purposes.</title>
+    </vote>
+    <vote>
+      <vote_number>00176</vote_number>
+      <vote_date>15-Jul</vote_date>
+      <issue>S. 2731</issue>
+      <question>On the Amendment <measure>S.Amdt. 5073</measure></question>
+      <result>Rejected</result>
+      <vote_tally>
+        <yeas>16</yeas>
+        <nays>80</nays>
+      </vote_tally>
+      <title>Bunning Amdt. No. 5073; In the nature of a substitute.</title>
+    </vote>
+    <vote>
+      <vote_number>00175</vote_number>
+      <vote_date>15-Jul</vote_date>
+      <issue>S. 2731</issue>
+      <question>On the Motion to Table <measure>S.Amdt. 5078</measure></question>
+      <result>Agreed to</result>
+      <vote_tally>
+        <yeas>70</yeas>
+        <nays>24</nays>
+      </vote_tally>
+      <title>Motion to Table DeMint Amdt. No. 5068; To limit the countries to which Federal financial assistance may be targeted under this Act.</title>
+    </vote>
+    <vote>
+      <vote_number>00174</vote_number>
+      <vote_date>11-Jul</vote_date>
+      <issue>S. 2731</issue>
+      <question>On the Cloture Motion</question>
+      <result>Agreed to</result>
+      <vote_tally>
+        <yeas>65</yeas>
+        <nays>3</nays>
+      </vote_tally>
+      <title>Motion to Invoke Cloture on the Motion to Proceed to Consider S. 2731; A bill to authorize appropriations for fiscal years 2009 through 2013 to provide assistance to foreign countries to combat HIV/AIDS, tuberculosis, and malaria, and for other purposes.</title>
+    </vote>
+    <vote>
+      <vote_number>00173</vote_number>
+      <vote_date>11-Jul</vote_date>
+      <issue>H.R. 3221</issue>
+      <question>On the Motion</question>
+      <result>Agreed to</result>
+      <vote_tally>
+        <yeas>63</yeas>
+        <nays>5</nays>
+      </vote_tally>
+      <title>Motion to Disagree to the Amdts. of the House, Adding a New Title and Inserting a New Section, to the Amdt. of the Senate to H.R. 3221; A bill to provide needed housing reform and for other purposes.</title>
+    </vote>
+    <vote>
+      <vote_number>00172</vote_number>
+      <vote_date>10-Jul</vote_date>
+      <issue>PN1643</issue>
+      <question>On the Nomination</question>
+      <result>Confirmed</result>
+      <vote_tally>
+        <yeas>96</yeas>
+        <nays>1</nays>
+      </vote_tally>
+      <title>Confirmation Lt. Gen. Raymond T. Odierno, USA, to be General</title>
+    </vote>
+    <vote>
+      <vote_number>00171</vote_number>
+      <vote_date>10-Jul</vote_date>
+      <issue>PN1641</issue>
+      <question>On the Nomination</question>
+      <result>Confirmed</result>
+      <vote_tally>
+        <yeas>95</yeas>
+        <nays>2</nays>
+      </vote_tally>
+      <title>Confirmation Gen. David H. Petraeus, USA, to be General</title>
+    </vote>
+    <vote>
+      <vote_number>00170</vote_number>
+      <vote_date>10-Jul</vote_date>
+      <issue>H.R. 3221</issue>
+      <question>On the Cloture Motion</question>
+      <result>Agreed to</result>
+      <vote_tally>
+        <yeas>84</yeas>
+        <nays>12</nays>
+      </vote_tally>
+      <title>Motion to Invoke Cloture on the Motion to Disagree to the Amdts. of the House, Adding a New Title and Inserting a New Section, to the Amdt. of the Senate to H.R. 3221; A bill to provide needed housing reform and for other purposes.</title>
+    </vote>
+    <vote>
+      <vote_number>00169</vote_number>
+      <vote_date>09-Jul</vote_date>
+      <issue>H.R. 6331</issue>
+      <question>On the Cloture Motion</question>
+      <result>Agreed to</result>
+      <vote_tally>
+        <yeas>69</yeas>
+        <nays>30</nays>
+      </vote_tally>
+      <title>Upon Reconsideration, Motion to Invoke Cloture on the Motion to Proceed to Consider H.R. 6331; A bill to amend titles XVIII and XIX of the Social Security Act to extend expiring provisions under the Medicare Program, to improve beneficiary access to preventive and mental health services, to enhance low-income benefit programs, and to maintain access to care in rural areas, including pharmacy access, and for other purposes.</title>
+    </vote>
+    <vote>
+      <vote_number>00168</vote_number>
+      <vote_date>09-Jul</vote_date>
+      <issue>H.R. 6304</issue>
+      <question>On Passage of the Bill</question>
+      <result>Passed</result>
+      <vote_tally>
+        <yeas>69</yeas>
+        <nays>28</nays>
+      </vote_tally>
+      <title>H.R. 6304; A bill to amend the Foreign Intelligence Surveillance Act of 1978 to establish a procedure for authorizing certain acquisitions of foreign intelligence, and for other purposes.</title>
+    </vote>
+    <vote>
+      <vote_number>00167</vote_number>
+      <vote_date>09-Jul</vote_date>
+      <issue>H.R. 6304</issue>
+      <question>On the Cloture Motion</question>
+      <result>Agreed to</result>
+      <vote_tally>
+        <yeas>72</yeas>
+        <nays>26</nays>
+      </vote_tally>
+      <title>Motion to Invoke Cloture on H.R. 6304; A bill to amend the Foreign Intelligence Surveillance Act of 1978 to establish a procedure for authorizing certain acquisitions of foreign intelligence, and for other purposes.</title>
+    </vote>
+    <vote>
+      <vote_number>00166</vote_number>
+      <vote_date>09-Jul</vote_date>
+      <issue>H.R. 6304</issue>
+      <question>On the Amendment <measure>S.Amdt. 5066</measure></question>
+      <result>Rejected</result>
+      <vote_tally>
+        <yeas>42</yeas>
+        <nays>56</nays>
+      </vote_tally>
+      <title>Bingaman Amdt. No. 5066; To stay pending cases against certain telecommunications companies and provide that such companies may not seek retroactive immunity until 90 days after the date the final report of the Inspectors General on the President's Surveillance Program is submitted to Congress.</title>
+    </vote>
+    <vote>
+      <vote_number>00165</vote_number>
+      <vote_date>09-Jul</vote_date>
+      <issue>H.R. 6304</issue>
+      <question>On the Amendment <measure>S.Amdt. 5059</measure></question>
+      <result>Rejected</result>
+      <vote_tally>
+        <yeas>37</yeas>
+        <nays>61</nays>
+      </vote_tally>
+      <title>Specter Amdt. No. 5059; To limit retroactive immunity for providing assistance to the United States to instances in which a Federal court determines the assistance was provided in connection with an intelligence activity that was constitutional.</title>
+    </vote>
+    <vote>
+      <vote_number>00164</vote_number>
+      <vote_date>09-Jul</vote_date>
+      <issue>H.R. 6304</issue>
+      <question>On the Amendment <measure>S.Amdt. 5064</measure></question>
+      <result>Rejected</result>
+      <vote_tally>
+        <yeas>32</yeas>
+        <nays>66</nays>
+      </vote_tally>
+      <title>Dodd Amdt. No. 5064; To strike title II.</title>
+    </vote>
+    <vote>
+      <vote_number>00163</vote_number>
+      <vote_date>07-Jul</vote_date>
+      <issue>H.R. 3221</issue>
+      <question>On the Cloture Motion</question>
+      <result>Agreed to</result>
+      <vote_tally>
+        <yeas>76</yeas>
+        <nays>10</nays>
+      </vote_tally>
+      <title>Motion to Invoke Cloture on the Motion to Concur in the Amendments of the House, Striking Title VI through XI, To the Senate Amendment to H.R. 3221; A bill to provide needed housing reform and for other purposes.</title>
+    </vote>
+    <vote>
+      <vote_number>00162</vote_number>
+      <vote_date>26-Jun</vote_date>
+      <issue>H.R. 2642</issue>
+      <question>On the Motion</question>
+      <result>Agreed to</result>
+      <vote_tally>
+        <yeas>92</yeas>
+        <nays>6</nays>
+      </vote_tally>
+      <title>Motion To Concur In House Amdts To Senate Amdt To House Amdt To Senate Amdt To H.R. 2642; A bill making appropriations for military construction, the Department of Veterans Affairs, and related agencies for the fiscal year ending September 30, 2008, and for other purposes.</title>
+    </vote>
+    <vote>
+      <vote_number>00161</vote_number>
+      <vote_date>26-Jun</vote_date>
+      <issue>H.R. 2642</issue>
+      <question>On the Motion</question>
+      <result>Agreed to</result>
+      <vote_tally>
+        <yeas>77</yeas>
+        <nays>21</nays>
+      </vote_tally>
+      <title>Motion To Waive CBH Re: Motion To Concur In House Amdts To Senate Amdt To House Amdt To Senate Amdt To H.R. 2642; A bill making appropriations for military construction, the Department of Veterans Affairs, and related agencies for the fiscal year ending September 30, 2008, and for other purposes.</title>
+    </vote>
+    <vote>
+      <vote_number>00160</vote_number>
+      <vote_date>26-Jun</vote_date>
+      <issue>H.R. 6331</issue>
+      <question>On Cloture on the Motion to Proceed</question>
+      <result>Rejected</result>
+      <vote_tally>
+        <yeas>58</yeas>
+        <nays>40</nays>
+      </vote_tally>
+      <title>Motion to Invoke Cloture on the Motion to Proceed to Consider H.R. 6331; A bill to amend titles XVIII and XIX of the Social Security Act to extend expiring provisions under the Medicare Program, to improve beneficiary access to preventive and mental health services, to enhance low-income benefit programs, and to maintain access to care in rural areas, including pharmacy access, and for other purposes.</title>
+    </vote>
+    <vote>
+      <vote_number>00159</vote_number>
+      <vote_date>26-Jun</vote_date>
+      <issue>PN1335</issue>
+      <question>On the Nomination</question>
+      <result>Confirmed</result>
+      <vote_tally>
+        <yeas>97</yeas>
+        <nays>0</nays>
+      </vote_tally>
+      <title>Confirmation William T. Lawrence, of Indiana, To Be US District Judge</title>
+    </vote>
+    <vote>
+      <vote_number>00158</vote_number>
+      <vote_date>25-Jun</vote_date>
+      <issue>H.R. 6304</issue>
+      <question>On Cloture on the Motion to Proceed</question>
+      <result>Agreed to</result>
+      <vote_tally>
+        <yeas>80</yeas>
+        <nays>15</nays>
+      </vote_tally>
+      <title>Motion to Invoke Cloture on the Motion to Proceed to H.R. 6304; A bill to amend the Foreign Intelligence Surveillance Act of 1978 to establish a procedure for authorizing certain acquisitions of foreign intelligence, and for other purposes.</title>
+    </vote>
+    <vote>
+      <vote_number>00157</vote_number>
+      <vote_date>25-Jun</vote_date>
+      <issue>H.R. 3221</issue>
+      <question>On the Motion</question>
+      <result>Agreed to</result>
+      <vote_tally>
+        <yeas>79</yeas>
+        <nays>16</nays>
+      </vote_tally>
+      <title>Motion to Concur in the Amdt. of the House, Striking Section 1 through Title V and Inserting Certain Language, to the Senate Amdt. to H.R. 3221, with an Amdt No. 4983, as Amended; A bill to provide needed housing reform and for other purposes.</title>
+    </vote>
+    <vote>
+      <vote_number>00156</vote_number>
+      <vote_date>24-Jun</vote_date>
+      <issue>PN1560</issue>
+      <question>On the Nomination</question>
+      <result>Confirmed</result>
+      <vote_tally>
+        <yeas>63</yeas>
+        <nays>32</nays>
+      </vote_tally>
+      <title>Confirmation Helene N. White, of Michigan, to be US Circuit Judge</title>
+    </vote>
+    <vote>
+      <vote_number>00155</vote_number>
+      <vote_date>24-Jun</vote_date>
+      <issue>H.R. 3221</issue>
+      <question>On the Motion</question>
+      <result>Agreed to</result>
+      <vote_tally>
+        <yeas>83</yeas>
+        <nays>9</nays>
+      </vote_tally>
+      <title>Motion to Invoke Cloture on the Motion to Concur in the House Amendment to the Senate Amendment striking sec. 1 through Title V and Inserting Language to the Senate Amdt. to H.R. 3221, with an Amdt.; A bill to provide needed housing reform and for other purposes.</title>
+    </vote>
+    <vote>
+      <vote_number>00154</vote_number>
+      <vote_date>19-Jun</vote_date>
+      <issue>H.R. 3221</issue>
+      <question>On the Motion</question>
+      <result>Rejected</result>
+      <vote_tally>
+        <yeas>11</yeas>
+        <nays>70</nays>
+      </vote_tally>
+      <title>Bunning Motion to Refer the House Message on H.R. 3221 to the Committee on Banking, Housing, and Urban Affairs; A bill to provide needed housing reform and for other purposes.</title>
+    </vote>
+    <vote>
+      <vote_number>00153</vote_number>
+      <vote_date>19-Jun</vote_date>
+      <issue>H.R. 3221</issue>
+      <question>On the Motion <measure>S.Amdt. 4985</measure></question>
+      <result>Rejected</result>
+      <vote_tally>
+        <yeas>21</yeas>
+        <nays>69</nays>
+      </vote_tally>
+      <title>Motion to Waive CBA Re: Bond Amdt. No. 4985; To strike provisions relating to the HOPE for Homeowners Program.</title>
+    </vote>
+    <vote>
+      <vote_number>00152</vote_number>
+      <vote_date>19-Jun</vote_date>
+      <issue>H.R. 3221</issue>
+      <question>On the Amendment <measure>S.Amdt. 4986</measure></question>
+      <result>Rejected</result>
+      <vote_tally>
+        <yeas>11</yeas>
+        <nays>77</nays>
+      </vote_tally>
+      <title>Bond Amdt. No. 4986 As Modified; To clarify that GSEs have no responsibility for funding housing entities under the Affordable Housing program.</title>
+    </vote>
+    <vote>
+      <vote_number>00151</vote_number>
+      <vote_date>18-Jun</vote_date>
+      <issue>H.R. 6124</issue>
+      <question>On Overriding the Veto</question>
+      <result>Veto Overridden</result>
+      <vote_tally>
+        <yeas>80</yeas>
+        <nays>14</nays>
+      </vote_tally>
+      <title>Upon Reconsideration Shall H.R. 6124 Pass, the Objections of the President to the Contrary Notwithstanding?; A bill to provide for the continuation of agricultural and other programs of the Department of Agriculture through fiscal year 2012, and for other purposes.</title>
+    </vote>
+    <vote>
+      <vote_number>00150</vote_number>
+      <vote_date>17-Jun</vote_date>
+      <issue>H.R. 6049</issue>
+      <question>On the Motion</question>
+      <result>Rejected</result>
+      <vote_tally>
+        <yeas>52</yeas>
+        <nays>44</nays>
+      </vote_tally>
+      <title>Motion to Invoke Cloture on the Motion to Proceed to H. R. 6049; A bill to amend the Internal Revenue Code of 1986 to provide incentives for energy production and conservation, to extend certain expiring provisions, to provide individual income tax relief, and for other purposes.</title>
+    </vote>
+    <vote>
+      <vote_number>00149</vote_number>
+      <vote_date>12-Jun</vote_date>
+      <issue>S. 3101</issue>
+      <question>On the Cloture Motion</question>
+      <result>Rejected</result>
+      <vote_tally>
+        <yeas>54</yeas>
+        <nays>39</nays>
+      </vote_tally>
+      <title>Motion to Invoke Cloture on the Motion to Proceed to Consider S. 3101; A bill to amend titles XVIII and XIX of the Social Security Act to extend expiring provisions under the Medicare program, to improve beneficiary access to preventive and mental health services, to enhance low-income benefit programs, and to maintain access to care in rural areas, including pharmacy access, and for other purposes.</title>
+    </vote>
+    <vote>
+      <vote_number>00148</vote_number>
+      <vote_date>10-Jun</vote_date>
+      <issue>PN1065</issue>
+      <question>On the Nomination</question>
+      <result>Confirmed</result>
+      <vote_tally>
+        <yeas>94</yeas>
+        <nays>0</nays>
+      </vote_tally>
+      <title>Confirmation Mark S. Davis of Virginia, to be US District Judge</title>
+    </vote>
+    <vote>
+      <vote_number>00147</vote_number>
+      <vote_date>10-Jun</vote_date>
+      <issue>H.R. 6049</issue>
+      <question>On the Cloture Motion</question>
+      <result>Rejected</result>
+      <vote_tally>
+        <yeas>50</yeas>
+        <nays>44</nays>
+      </vote_tally>
+      <title>Motion to Invoke Cloture on the Motion to Proceed to Consider H.R. 6049; A bill to amend the Internal Revenue Code of 1986 to provide incentives for energy production and conservation, to extend certain expiring provisions, to provide individual income tax relief, and for other purposes.</title>
+    </vote>
+    <vote>
+      <vote_number>00146</vote_number>
+      <vote_date>10-Jun</vote_date>
+      <issue>S. 3044</issue>
+      <question>On the Cloture Motion</question>
+      <result>Rejected</result>
+      <vote_tally>
+        <yeas>51</yeas>
+        <nays>43</nays>
+      </vote_tally>
+      <title>Motion to Invoke Cloture on the Motion to Proceed to Consider S. 3044; A bill to provide energy price relief and hold oil companies and other entities accountable for their actions with regard to high energy prices, and for other purposes.</title>
+    </vote>
+    <vote>
+      <vote_number>00145</vote_number>
+      <vote_date>06-Jun</vote_date>
+      <issue>S. 3036</issue>
+      <question>On the Cloture Motion <measure>S.Amdt. 4825</measure></question>
+      <result>Rejected</result>
+      <vote_tally>
+        <yeas>48</yeas>
+        <nays>36</nays>
+      </vote_tally>
+      <title>Motion to Invoke Cloture on the Boxer Amdt. No. 4825; In the nature of a substitute.</title>
+    </vote>
+    <vote>
+      <vote_number>00144</vote_number>
+      <vote_date>05-Jun</vote_date>
+      <issue>H.R. 6124</issue>
+      <question>On Passage of the Bill</question>
+      <result>Passed</result>
+      <vote_tally>
+        <yeas>77</yeas>
+        <nays>15</nays>
+      </vote_tally>
+      <title>H.R. 6124; A bill to provide for the continuation of agricultural and other programs of the Department of Agriculture through fiscal year 2012, and for other purposes.</title>
+    </vote>
+    <vote>
+      <vote_number>00143</vote_number>
+      <vote_date>04-Jun</vote_date>
+      <issue>S. 3036</issue>
+      <question>On the Motion</question>
+      <result>Rejected</result>
+      <vote_tally>
+        <yeas>27</yeas>
+        <nays>28</nays>
+      </vote_tally>
+      <title>Motion to Instruct Sgt-At-Arms; A bill to direct the Administrator of the Environmental Protection Agency to establish a program to decrease emissions of greenhouse gases, and for other purposes.</title>
+    </vote>
+    <vote>
+      <vote_number>00142</vote_number>
+      <vote_date>04-Jun</vote_date>
+      <issue>S.Con.Res. 70</issue>
+      <question>On the Conference Report</question>
+      <result>Agreed to</result>
+      <vote_tally>
+        <yeas>48</yeas>
+        <nays>45</nays>
+      </vote_tally>
+      <title>S. Con. Res. 70 Conference Report; An original concurrent resolution setting forth the congressional budget for the United States Government for fiscal year 2009 and including the appropriate budgetary levels for fiscal years 2008 and 2010 through 2013.</title>
+    </vote>
+    <vote>
+      <vote_number>00141</vote_number>
+      <vote_date>02-Jun</vote_date>
+      <issue>S. 3036</issue>
+      <question>On the Cloture Motion</question>
+      <result>Agreed to</result>
+      <vote_tally>
+        <yeas>74</yeas>
+        <nays>14</nays>
+      </vote_tally>
+      <title>Motion to Invoke Cloture on the Motion to Proceed to Consider S.3036; A bill to direct the Administrator of the Environmental Protection Agency to establish a program to decrease emissions of greenhouse gases, and for other purposes.</title>
+    </vote>
+    <vote>
+      <vote_number>00140</vote_number>
+      <vote_date>22-May</vote_date>
+      <issue>H.R. 2419</issue>
+      <question>On Overriding the Veto</question>
+      <result>Veto Overridden</result>
+      <vote_tally>
+        <yeas>82</yeas>
+        <nays>13</nays>
+      </vote_tally>
+      <title>Upon Reconsideration Shall the Bill H.R. 2419 Pass, the Objections of the President of the United States to the Contrary Not Withstanding?; A bill to provide for the continuation of agricultural programs through fiscal year 2012, and for other purposes.</title>
+    </vote>
+    <vote>
+      <vote_number>00139</vote_number>
+      <vote_date>22-May</vote_date>
+      <issue>H.R. 2642</issue>
+      <question>On the Motion <measure>S.Amdt. 4818</measure></question>
+      <result>Agreed to</result>
+      <vote_tally>
+        <yeas>70</yeas>
+        <nays>26</nays>
+      </vote_tally>
+      <title>Motion to Concur to the House Amendment No. 1 to the Senate Amdt. with Amdt. No. 4818; In the nature of a substitute.</title>
+    </vote>
+    <vote>
+      <vote_number>00138</vote_number>
+      <vote_date>22-May</vote_date>
+      <issue>H.R. 2642</issue>
+      <question>On the Motion <measure>S.Amdt. 4817</measure></question>
+      <result>Rejected</result>
+      <vote_tally>
+        <yeas>34</yeas>
+        <nays>63</nays>
+      </vote_tally>
+      <title>Motion to Concur in the House Amdt. No. 1 to the Senate Amdt. to HR 2642, with an Amdt. No. 4817; In the nature of a substitute.</title>
+    </vote>
+    <vote>
+      <vote_number>00137</vote_number>
+      <vote_date>22-May</vote_date>
+      <issue>H.R. 2642</issue>
+      <question>On the Motion <measure>S.Amdt. 4803</measure></question>
+      <result>Agreed to</result>
+      <vote_tally>
+        <yeas>75</yeas>
+        <nays>22</nays>
+      </vote_tally>
+      <title>Motion to Concur in the House Amendment No. 2 with Amdt. No. 4803; In the nature of substitute.</title>
+    </vote>
+    <vote>
+      <vote_number>00136</vote_number>
+      <vote_date>20-May</vote_date>
+      <issue>PN1484</issue>
+      <question>On the Nomination</question>
+      <result>Confirmed</result>
+      <vote_tally>
+        <yeas>96</yeas>
+        <nays>0</nays>
+      </vote_tally>
+      <title>Confirmation G. Steven Agee, of Virginia to be US Circuit Judge</title>
+    </vote>
+    <vote>
+      <vote_number>00135</vote_number>
+      <vote_date>15-May</vote_date>
+      <issue>S.Con.Res. 70</issue>
+      <question>On the Motion</question>
+      <result>Rejected</result>
+      <vote_tally>
+        <yeas>47</yeas>
+        <nays>48</nays>
+      </vote_tally>
+      <title>Gregg Motion to Instruct Conferees (Discretionary Spending) re: S. Con. Res. 70; An original concurrent resolution setting forth the congressional budget for the United States Government for fiscal year 2009 and including the appropriate budgetary levels for fiscal years 2008 and 2010 through 2013.</title>
+    </vote>
+    <vote>
+      <vote_number>00134</vote_number>
+      <vote_date>15-May</vote_date>
+      <issue>S.Con.Res. 70</issue>
+      <question>On the Motion</question>
+      <result>Rejected</result>
+      <vote_tally>
+        <yeas>44</yeas>
+        <nays>51</nays>
+      </vote_tally>
+      <title>Vitter Motion to Instruct Conferees (OCS) re: S. Con. Res. 70; An original concurrent resolution setting forth the congressional budget for the United States Government for fiscal year 2009 and including the appropriate budgetary levels for fiscal years 2008 and 2010 through 2013.</title>
+    </vote>
+    <vote>
+      <vote_number>00133</vote_number>
+      <vote_date>15-May</vote_date>
+      <issue>S.Con.Res. 70</issue>
+      <question>On the Motion</question>
+      <result>Rejected</result>
+      <vote_tally>
+        <yeas>34</yeas>
+        <nays>61</nays>
+      </vote_tally>
+      <title>DeMint Motion to Instruct Conferees (China - India) re: S. Con. Res. 70; An original concurrent resolution setting forth the congressional budget for the United States Government for fiscal year 2009 and including the appropriate budgetary levels for fiscal years 2008 and 2010 through 2013.</title>
+    </vote>
+    <vote>
+      <vote_number>00132</vote_number>
+      <vote_date>15-May</vote_date>
+      <issue>S.Con.Res. 70</issue>
+      <question>On the Motion</question>
+      <result>Agreed to</result>
+      <vote_tally>
+        <yeas>55</yeas>
+        <nays>40</nays>
+      </vote_tally>
+      <title>Boxer Motion to Instruct Conferees (China - India) re: S. Con. Res. 70; An original concurrent resolution setting forth the congressional budget for the United States Government for fiscal year 2009 and including the appropriate budgetary levels for fiscal years 2008 and 2010 through 2013.</title>
+    </vote>
+    <vote>
+      <vote_number>00131</vote_number>
+      <vote_date>15-May</vote_date>
+      <issue>S.Con.Res. 70</issue>
+      <question>On the Motion</question>
+      <result>Rejected</result>
+      <vote_tally>
+        <yeas>44</yeas>
+        <nays>51</nays>
+      </vote_tally>
+      <title>Gregg Motion to Instruct Conferees (Tax Increase) re: S. Con. Res. 70; An original concurrent resolution setting forth the congressional budget for the United States Government for fiscal year 2009 and including the appropriate budgetary levels for fiscal years 2008 and 2010 through 2013.</title>
+    </vote>
+    <vote>
+      <vote_number>00130</vote_number>
+      <vote_date>15-May</vote_date>
+      <issue>H.R. 2419</issue>
+      <question>On the Conference Report</question>
+      <result>Agreed to</result>
+      <vote_tally>
+        <yeas>81</yeas>
+        <nays>15</nays>
+      </vote_tally>
+      <title>Conference Report to Accompany H.R. 2419; A bill to provide for the continuation of agricultural programs through fiscal year 2012, and for other purposes.</title>
+    </vote>
+    <vote>
+      <vote_number>00129</vote_number>
+      <vote_date>15-May</vote_date>
+      <issue>H.R. 2419</issue>
+      <question>On the Motion</question>
+      <result>Agreed to</result>
+      <vote_tally>
+        <yeas>62</yeas>
+        <nays>34</nays>
+      </vote_tally>
+      <title>Motion to Waive Rule XLIV, 8(a) re: H.R. 2419 Conference Report; A bill to provide for the continuation of agricultural programs through fiscal year 2012, and for other purposes.</title>
+    </vote>
+    <vote>
+      <vote_number>00128</vote_number>
+      <vote_date>15-May</vote_date>
+      <issue>H.R. 2419</issue>
+      <question>On the Motion</question>
+      <result>Agreed to</result>
+      <vote_tally>
+        <yeas>74</yeas>
+        <nays>21</nays>
+      </vote_tally>
+      <title>Motion to Waive S. Con. Res. 21, 110th Congress, sect. 203 re: Conference Report to accompany H.R. 2419; A bill to provide for the continuation of agricultural programs through fiscal year 2012, and for other purposes.</title>
+    </vote>
+    <vote>
+      <vote_number>00127</vote_number>
+      <vote_date>14-May</vote_date>
+      <issue>H.R. 980</issue>
+      <question>On the Motion to Table <measure>S.Amdt. 4763</measure></question>
+      <result>Agreed to</result>
+      <vote_tally>
+        <yeas>55</yeas>
+        <nays>42</nays>
+      </vote_tally>
+      <title>Motion to Table Graham Amdt. No. 4763; To improve educational assistance for members of the Armed Forces and veterans in order to enhance recruitment and retention for the Armed Forces.</title>
+    </vote>
+    <vote>
+      <vote_number>00126</vote_number>
+      <vote_date>13-May</vote_date>
+      <issue>H.R. 980</issue>
+      <question>On the Cloture Motion</question>
+      <result>Agreed to</result>
+      <vote_tally>
+        <yeas>69</yeas>
+        <nays>29</nays>
+      </vote_tally>
+      <title>Motion to Invoke Cloture on the Motion to Proceed to H.R. 980; A bill to provide collective bargaining rights for public safety officers employed by States or their political subdivisions.</title>
+    </vote>
+    <vote>
+      <vote_number>00125</vote_number>
+      <vote_date>13-May</vote_date>
+      <issue>H.R. 3121</issue>
+      <question>On Passage of the Bill</question>
+      <result>Passed</result>
+      <vote_tally>
+        <yeas>92</yeas>
+        <nays>6</nays>
+      </vote_tally>
+      <title>H.R. 3121 As Amended; A bill to restore the financial solvency of the national flood insurance program and to provide for such program to make available multiperil coverage for damage resulting from windstorms and floods, and for other purposes.</title>
+    </vote>
+    <vote>
+      <vote_number>00124</vote_number>
+      <vote_date>13-May</vote_date>
+      <issue>S. 2284</issue>
+      <question>On the Amendment <measure>S.Amdt. 4737</measure></question>
+      <result>Agreed to</result>
+      <vote_tally>
+        <yeas>97</yeas>
+        <nays>1</nays>
+      </vote_tally>
+      <title>Reid Amdt. No. 4737; To increase the supply and lower the cost of petroleum by temporarily suspending the acquisition of petroleum for the Strategic Petroleum Reserve.</title>
+    </vote>
+    <vote>
+      <vote_number>00123</vote_number>
+      <vote_date>13-May</vote_date>
+      <issue>S. 2284</issue>
+      <question>On the Amendment <measure>S.Amdt. 4720</measure></question>
+      <result>Rejected</result>
+      <vote_tally>
+        <yeas>42</yeas>
+        <nays>56</nays>
+      </vote_tally>
+      <title>McConnell Amdt. No. 4720; Of a perfecting nature.</title>
+    </vote>
+    <vote>
+      <vote_number>00122</vote_number>
+      <vote_date>08-May</vote_date>
+      <issue>S. 2284</issue>
+      <question>On the Amendment <measure>S.Amdt. 4715</measure></question>
+      <result>Agreed to</result>
+      <vote_tally>
+        <yeas>68</yeas>
+        <nays>24</nays>
+      </vote_tally>
+      <title>Durbin Amdt. No. 4715 as Modified; To provide that no changes in flood insurance status for any areas located in the St. Louis District of the Corps of Engineers can go into effect until the remapping process is completed for that entire District.</title>
+    </vote>
+    <vote>
+      <vote_number>00121</vote_number>
+      <vote_date>08-May</vote_date>
+      <issue>S. 2284</issue>
+      <question>On the Motion <measure>S.Amdt. 4707</measure></question>
+      <result>Agreed to</result>
+      <vote_tally>
+        <yeas>70</yeas>
+        <nays>26</nays>
+      </vote_tally>
+      <title>Motion to Waive S. Con. Res. 21, 110th, Sect. 201, re: Dodd Amdt. No. 4707; In the nature of a substitute.</title>
+    </vote>
+    <vote>
+      <vote_number>00120</vote_number>
+      <vote_date>07-May</vote_date>
+      <issue>S. 2284</issue>
+      <question>On the Amendment <measure>S.Amdt. 4705</measure></question>
+      <result>Rejected</result>
+      <vote_tally>
+        <yeas>30</yeas>
+        <nays>62</nays>
+      </vote_tally>
+      <title>Landrieu Amdt. No. 4705 As Further Modified; To require the Comptroller General to conduct a study regarding mandatory purchasing requirements.</title>
+    </vote>
+    <vote>
+      <vote_number>00119</vote_number>
+      <vote_date>07-May</vote_date>
+      <issue>S. 2284</issue>
+      <question>On the Amendment <measure>S.Amdt. 4723</measure></question>
+      <result>Rejected</result>
+      <vote_tally>
+        <yeas>23</yeas>
+        <nays>69</nays>
+      </vote_tally>
+      <title>Vitter Amdt. No. 4723; To allow for a reasonable 5-year phase-in period for adjusted premiums.</title>
+    </vote>
+    <vote>
+      <vote_number>00118</vote_number>
+      <vote_date>07-May</vote_date>
+      <issue>S. 2284</issue>
+      <question>On the Amendment <measure>S.Amdt. 4722</measure></question>
+      <result>Rejected</result>
+      <vote_tally>
+        <yeas>27</yeas>
+        <nays>66</nays>
+      </vote_tally>
+      <title>Vitter Amdt. No. 4722; To increase maximum coverage limits.</title>
+    </vote>
+    <vote>
+      <vote_number>00117</vote_number>
+      <vote_date>07-May</vote_date>
+      <issue>S. 2284</issue>
+      <question>On the Amendment <measure>S.Amdt. 4719</measure></question>
+      <result>Rejected</result>
+      <vote_tally>
+        <yeas>19</yeas>
+        <nays>74</nays>
+      </vote_tally>
+      <title>Wicker Amdt. No. 4719; To provide for the optional purchase of insurance against loss resulting from physical damage to or loss of real property or personal property related thereto located in the United States arising from any flood or windstorm.</title>
+    </vote>
+    <vote>
+      <vote_number>00116</vote_number>
+      <vote_date>06-May</vote_date>
+      <issue>S. 2284</issue>
+      <question>On the Cloture Motion</question>
+      <result>Agreed to</result>
+      <vote_tally>
+        <yeas>90</yeas>
+        <nays>1</nays>
+      </vote_tally>
+      <title>Motion to Invoke Cloture on the Motion to Proceed to Consider S.2284; An original bill to amend the National Flood Insurance Act of 1968, to restore the financial solvency of the flood insurance fund, and for other purposes.</title>
+    </vote>
+    <vote>
+      <vote_number>00115</vote_number>
+      <vote_date>06-May</vote_date>
+      <issue>H.R. 2881</issue>
+      <question>On the Cloture Motion <measure>S.Amdt. 4627</measure></question>
+      <result>Rejected</result>
+      <vote_tally>
+        <yeas>49</yeas>
+        <nays>42</nays>
+      </vote_tally>
+      <title>Motion to Invoke Cloture on the Rockefeller Amdt. No. 4627 (Subst.) to H.R. 2881; In the nature of a substitute.</title>
+    </vote>
+    <vote>
+      <vote_number>00114</vote_number>
+      <vote_date>28-Apr</vote_date>
+      <issue>H.R. 2881</issue>
+      <question>On the Cloture Motion</question>
+      <result>Agreed to</result>
+      <vote_tally>
+        <yeas>88</yeas>
+        <nays>0</nays>
+      </vote_tally>
+      <title>Motion to Invoke Cloture on the Motion to Proceed to Consider H.R.2881; A bill to amend title 49, United States Code, to authorize appropriations for the Federal Aviation Administration for fiscal years 2008 through 2011, to improve aviation safety and capacity, to provide stable funding for the national aviation system, and for other purposes.</title>
+    </vote>
+    <vote>
+      <vote_number>00113</vote_number>
+      <vote_date>24-Apr</vote_date>
+      <issue>H.R. 493</issue>
+      <question>On Passage of the Bill</question>
+      <result>Passed</result>
+      <vote_tally>
+        <yeas>95</yeas>
+        <nays>0</nays>
+      </vote_tally>
+      <title>H.R.493 as Amended; A bill to prohibit discrimination on the basis of genetic information with respect to health insurance and employment.</title>
+    </vote>
+    <vote>
+      <vote_number>00112</vote_number>
+      <vote_date>24-Apr</vote_date>
+      <issue>S. 1315</issue>
+      <question>On Passage of the Bill</question>
+      <result>Passed</result>
+      <vote_tally>
+        <yeas>96</yeas>
+        <nays>1</nays>
+      </vote_tally>
+      <title>S.1315 as Amended; An act to amend title 38, United States Code, to enhance veterans' insurance and housing benefits, to improve benefits and services for transitioning servicemembers, and for other purposes.</title>
+    </vote>
+    <vote>
+      <vote_number>00111</vote_number>
+      <vote_date>24-Apr</vote_date>
+      <issue>S. 1315</issue>
+      <question>On the Amendment <measure>S.Amdt. 4572</measure></question>
+      <result>Rejected</result>
+      <vote_tally>
+        <yeas>41</yeas>
+        <nays>56</nays>
+      </vote_tally>
+      <title>Burr Amdt. No. 4572; To increase benefits for disabled U.S. veterans and provide a fair benefit to World War II Filipino veterans for their service to the United States.</title>
+    </vote>
+    <vote>
+      <vote_number>00110</vote_number>
+      <vote_date>23-Apr</vote_date>
+      <issue>H.R. 2831</issue>
+      <question>On the Cloture Motion</question>
+      <result>Rejected</result>
+      <vote_tally>
+        <yeas>56</yeas>
+        <nays>42</nays>
+      </vote_tally>
+      <title>Motion to Invoke Cloture on the Motion to Proceed to Consider H.R. 2831; A bill to amend title VII of the Civil Rights Act of 1964, the Age Discrimination in Employment Act of 1967, the Americans With Disabilities Act of 1990, and the Rehabilitation Act of 1973 to clarify that a discriminatory compensation decision or other practice that is unlawful under such Acts occurs each time compensation is paid pursuant to the discriminatory compensation decision or other practice, and for other purposes.</title>
+    </vote>
+    <vote>
+      <vote_number>00109</vote_number>
+      <vote_date>22-Apr</vote_date>
+      <issue>S. 1315</issue>
+      <question>On the Cloture Motion</question>
+      <result>Agreed to</result>
+      <vote_tally>
+        <yeas>94</yeas>
+        <nays>0</nays>
+      </vote_tally>
+      <title>Motion to Invoke Cloture on the Motion to Proceed to S.1315; An act to amend title 38, United States Code, to enhance veterans' insurance and housing benefits, to improve benefits and services for transitioning servicemembers, and for other purposes.</title>
+    </vote>
+    <vote>
+      <vote_number>00108</vote_number>
+      <vote_date>17-Apr</vote_date>
+      <issue>H.R. 1195</issue>
+      <question>On Passage of the Bill</question>
+      <result>Passed</result>
+      <vote_tally>
+        <yeas>88</yeas>
+        <nays>2</nays>
+      </vote_tally>
+      <title>H.R. 1195 As Amended; A bill to amend the Safe, Accountable, Flexible, Efficient Transportation Equity Act: A Legacy for Users to make technical corrections, and for other purposes.</title>
+    </vote>
+    <vote>
+      <vote_number>00107</vote_number>
+      <vote_date>17-Apr</vote_date>
+      <issue>H.R. 1195</issue>
+      <question>On the Cloture Motion <measure>S.Amdt. 4146</measure></question>
+      <result>Agreed to</result>
+      <vote_tally>
+        <yeas>90</yeas>
+        <nays>2</nays>
+      </vote_tally>
+      <title>Motion to Invoke Cloture on the Boxer Amdt. No. 4146 (Subst.); In the nature of a substitute.</title>
+    </vote>
+    <vote>
+      <vote_number>00106</vote_number>
+      <vote_date>17-Apr</vote_date>
+      <issue>H.R. 1195</issue>
+      <question>On the Amendment <measure>S.Amdt. 4538</measure></question>
+      <result>Rejected</result>
+      <vote_tally>
+        <yeas>49</yeas>
+        <nays>43</nays>
+      </vote_tally>
+      <title>Coburn Amdt. No. 4538; To create a bipartisan, bicameral special committee to investigate the improper insertion of an earmark for Coconut Road into the conference report of the 2005 highway bill after both chambers of Congress had approved identical versions of the conference report.</title>
+    </vote>
+    <vote>
+      <vote_number>00105</vote_number>
+      <vote_date>17-Apr</vote_date>
+      <issue>H.R. 1195</issue>
+      <question>On the Amendment <measure>S.Amdt. 4539</measure></question>
+      <result>Agreed to</result>
+      <vote_tally>
+        <yeas>64</yeas>
+        <nays>28</nays>
+      </vote_tally>
+      <title>Boxer Amdt. No. 4539, as Modified; To call for a review by the Department of Justice of allegations of violations of Federal criminal law.</title>
+    </vote>
+    <vote>
+      <vote_number>00104</vote_number>
+      <vote_date>16-Apr</vote_date>
+      <issue>H.R. 1195</issue>
+      <question>On the Motion to Table the Motion to Recommit</question>
+      <result>Agreed to</result>
+      <vote_tally>
+        <yeas>78</yeas>
+        <nays>18</nays>
+      </vote_tally>
+      <title>Motion to Table DeMint Motion to Recommit H.R. 1195, with Instructions; A bill to amend the Safe, Accountable, Flexible, Efficient Transportation Equity Act: A Legacy for Users to make technical corrections, and for other purposes.</title>
+    </vote>
+    <vote>
+      <vote_number>00103</vote_number>
+      <vote_date>14-Apr</vote_date>
+      <issue>H.R. 1195</issue>
+      <question>On the Cloture Motion</question>
+      <result>Agreed to</result>
+      <vote_tally>
+        <yeas>93</yeas>
+        <nays>1</nays>
+      </vote_tally>
+      <title>Motion to Invoke Cloture on the Motion to Proceed to Consider H.R. 1195; A bill to amend the Safe, Accountable, Flexible, Efficient Transportation Equity Act: A Legacy for Users to make technical corrections, and for other purposes.</title>
+    </vote>
+    <vote>
+      <vote_number>00102</vote_number>
+      <vote_date>10-Apr</vote_date>
+      <issue>PN988</issue>
+      <question>On the Nomination</question>
+      <result>Confirmed</result>
+      <vote_tally>
+        <yeas>88</yeas>
+        <nays>0</nays>
+      </vote_tally>
+      <title>Confirmation Brian Stacy Miller, of Arkansas, to be US District Judge</title>
+    </vote>
+    <vote>
+      <vote_number>00101</vote_number>
+      <vote_date>10-Apr</vote_date>
+      <issue>S. 2739</issue>
+      <question>On Passage of the Bill</question>
+      <result>Passed</result>
+      <vote_tally>
+        <yeas>91</yeas>
+        <nays>4</nays>
+      </vote_tally>
+      <title>S.2739; A bill to authorize certain programs and activities in the Department of the Interior, the Forest Service, and the Department of Energy, to implement further the Act approving the Covenant to Establish a Commonwealth of the Northern Mariana Islands in Political Union with the United States of America, to amend the Compact of Free Association Amendments Act of 2003, and for other purposes.</title>
+    </vote>
+    <vote>
+      <vote_number>00100</vote_number>
+      <vote_date>10-Apr</vote_date>
+      <issue>S. 2739</issue>
+      <question>On the Amendment <measure>S.Amdt. 4519</measure></question>
+      <result>Rejected</result>
+      <vote_tally>
+        <yeas>22</yeas>
+        <nays>73</nays>
+      </vote_tally>
+      <title>Coburn Amdt. 4519; To require the transfer of certain funds to be used by the Director of the National Park Service to dispose of assets described in the candidate asset disposition list of the National Park Service.</title>
+    </vote>
+    <vote>
+      <vote_number>00099</vote_number>
+      <vote_date>10-Apr</vote_date>
+      <issue>S. 2739</issue>
+      <question>On the Amendment <measure>S.Amdt. 4520</measure></question>
+      <result>Rejected</result>
+      <vote_tally>
+        <yeas>27</yeas>
+        <nays>67</nays>
+      </vote_tally>
+      <title>Coburn Amdt. No. 4520; To ensure that all individuals who reside, or own property that is located, in a proposed National Heritage Area are informed of the designation of the National Heritage Area.</title>
+    </vote>
+    <vote>
+      <vote_number>00098</vote_number>
+      <vote_date>10-Apr</vote_date>
+      <issue>S. 2739</issue>
+      <question>On the Amendment <measure>S.Amdt. 4521</measure></question>
+      <result>Rejected</result>
+      <vote_tally>
+        <yeas>19</yeas>
+        <nays>76</nays>
+      </vote_tally>
+      <title>Coburn Amdt. No. 4521; To require approval prior to the assumption of control by the Federal Government of State property.</title>
+    </vote>
+    <vote>
+      <vote_number>00097</vote_number>
+      <vote_date>10-Apr</vote_date>
+      <issue>S. 2739</issue>
+      <question>On the Amendment <measure>S.Amdt. 4522</measure></question>
+      <result>Rejected</result>
+      <vote_tally>
+        <yeas>30</yeas>
+        <nays>63</nays>
+      </vote_tally>
+      <title>Coburn Amdt. No. 4522; To require the Director of the Office of Management and Budget to determine on an annual basis the quantity of land that is owned by the Federal Government and the cost to taxpayers of the ownership of the land.</title>
+    </vote>
+    <vote>
+      <vote_number>00096</vote_number>
+      <vote_date>10-Apr</vote_date>
+      <issue>H.R. 3221</issue>
+      <question>On Passage of the Bill</question>
+      <result>Passed</result>
+      <vote_tally>
+        <yeas>84</yeas>
+        <nays>12</nays>
+      </vote_tally>
+      <title>H.R. 3221 As Amended; A bill to provide needed housing reform and for other purposes.</title>
+    </vote>
+    <vote>
+      <vote_number>00095</vote_number>
+      <vote_date>10-Apr</vote_date>
+      <issue>H.R. 3221</issue>
+      <question>On the Amendment <measure>S.Amdt. 4419</measure></question>
+      <result>Agreed to</result>
+      <vote_tally>
+        <yeas>88</yeas>
+        <nays>8</nays>
+      </vote_tally>
+      <title>Ensign Amdt. No. 4419; To amend the Internal Revenue Code of 1986 to provide for the limited continuation of clean energy production incentives and incentives to improve energy efficiency in order to prevent a downturn in these sectors that would result from a lapse in the tax law.</title>
+    </vote>
+    <vote>
+      <vote_number>00094</vote_number>
+      <vote_date>10-Apr</vote_date>
+      <issue>H.R. 3221</issue>
+      <question>On the Amendment <measure>S.Amdt. 4429</measure></question>
+      <result>Rejected</result>
+      <vote_tally>
+        <yeas>15</yeas>
+        <nays>79</nays>
+      </vote_tally>
+      <title>Alexander Amdt. No. 4429; To provide a longer extension of the renewable energy production tax credit and to encourage all emerging renewable sources of electricity, and for other purposes.</title>
+    </vote>
+    <vote>
+      <vote_number>00093</vote_number>
+      <vote_date>08-Apr</vote_date>
+      <issue>H.R. 3221</issue>
+      <question>On the Cloture Motion <measure>S.Amdt. 4387</measure></question>
+      <result>Agreed to</result>
+      <vote_tally>
+        <yeas>92</yeas>
+        <nays>6</nays>
+      </vote_tally>
+      <title>Motion to Invoke Cloture on the Dodd Amdt. No. 4387; In the nature of a substitute.</title>
+    </vote>
+    <vote>
+      <vote_number>00092</vote_number>
+      <vote_date>04-Apr</vote_date>
+      <issue>H.R. 3221</issue>
+      <question>On the Motion <measure>S.Amdt. 4389</measure></question>
+      <result>Agreed to</result>
+      <vote_tally>
+        <yeas>74</yeas>
+        <nays>5</nays>
+      </vote_tally>
+      <title>Motion to Waive S. Con. Res. 21, sec. 204. Re: Landrieu Amdt. No. 4389, As Further Modified; To amend the Internal Revenue Code of 1986 to allow use of amended income tax returns to take into account receipt of certain hurricane-related casualty loss grants by disallowing previously taken casualty loss deductions and to waive the deadline on the construction of GO Zone property which is eligible for bonus depreciation.</title>
+    </vote>
+    <vote>
+      <vote_number>00091</vote_number>
+      <vote_date>04-Apr</vote_date>
+      <issue>H.R. 3221</issue>
+      <question>On the Amendment <measure>S.Amdt. 4406</measure></question>
+      <result>Agreed to</result>
+      <vote_tally>
+        <yeas>76</yeas>
+        <nays>2</nays>
+      </vote_tally>
+      <title>Voinovich Amdt. No. 4406 As Modified; To protect families most vulnerable to foreclosure due to a sudden loss of income by extending the depreciation incentive to loss companies that have accumulated alternative minimum tax and research and development tax credits.</title>
+    </vote>
+    <vote>
+      <vote_number>00090</vote_number>
+      <vote_date>03-Apr</vote_date>
+      <issue>H.R. 3221</issue>
+      <question>On the Motion <measure>S.Amdt. 4407</measure></question>
+      <result>Rejected</result>
+      <vote_tally>
+        <yeas>41</yeas>
+        <nays>44</nays>
+      </vote_tally>
+      <title>Motion to Waive CBA Kyl Amdt. No. 4407; To amend the Internal Revenue Code of 1986 to adjust for inflation the dollar limitation for the principal residence gain exclusion.</title>
+    </vote>
+    <vote>
+      <vote_number>00089</vote_number>
+      <vote_date>03-Apr</vote_date>
+      <issue>H.R. 3221</issue>
+      <question>On the Motion <measure>S.Amdt. 4397</measure></question>
+      <result>Rejected</result>
+      <vote_tally>
+        <yeas>44</yeas>
+        <nays>40</nays>
+      </vote_tally>
+      <title>Motion to Waive CBA Murray Amdt. No. 4397; To increase funding for housing counseling resources.</title>
+    </vote>
+    <vote>
+      <vote_number>00088</vote_number>
+      <vote_date>03-Apr</vote_date>
+      <issue>H.R. 3221</issue>
+      <question>On the Motion to Table <measure>S.Amdt. 4388</measure></question>
+      <result>Agreed to</result>
+      <vote_tally>
+        <yeas>58</yeas>
+        <nays>36</nays>
+      </vote_tally>
+      <title>Motion to Table Durbin Amdt. No. 4388; To address the treatment of primary mortgages in bankruptcy, and for other purposes.</title>
+    </vote>
+    <vote>
+      <vote_number>00087</vote_number>
+      <vote_date>03-Apr</vote_date>
+      <issue>S.Res. 501</issue>
+      <question>On the Resolution</question>
+      <result>Agreed to</result>
+      <vote_tally>
+        <yeas>95</yeas>
+        <nays>0</nays>
+      </vote_tally>
+      <title>S. Res. 501; A resolution honoring the sacrifice of the members of the United States Armed Forces who have been killed in Iraq and Afghanistan.</title>
+    </vote>
+    <vote>
+      <vote_number>00086</vote_number>
+      <vote_date>01-Apr</vote_date>
+      <issue>H.R. 3221</issue>
+      <question>On the Cloture Motion</question>
+      <result>Agreed to</result>
+      <vote_tally>
+        <yeas>94</yeas>
+        <nays>1</nays>
+      </vote_tally>
+      <title>Upon Reconsideration Motion to Invoke Cloture on the Motion to Proceed to H.R. 3221; A bill to provide needed housing reform and for other purposes.</title>
+    </vote>
+    <vote>
+      <vote_number>00085</vote_number>
+      <vote_date>14-Mar</vote_date>
+      <issue>S.Con.Res. 70</issue>
+      <question>On the Concurrent Resolution</question>
+      <result>Agreed to</result>
+      <vote_tally>
+        <yeas>51</yeas>
+        <nays>44</nays>
+      </vote_tally>
+      <title>S. Con. Res. 70 as Amended; An original concurrent resolution setting forth the congressional budget for the United States Government for fiscal year 2009 and including the appropriate budgetary levels for fiscal years 2008 and 2010 through 2013.</title>
+    </vote>
+    <vote>
+      <vote_number>00084</vote_number>
+      <vote_date>14-Mar</vote_date>
+      <issue>S.Con.Res. 70</issue>
+      <question>On the Amendment <measure>S.Amdt. 4299</measure></question>
+      <result>Agreed to</result>
+      <vote_tally>
+        <yeas>73</yeas>
+        <nays>23</nays>
+      </vote_tally>
+      <title>Vitter Amdt. No. 4299; Expressing the sense of the Senate regarding the need for comprehensive legislation to legalize the importation of prescription drugs from highly industrialized countries with safe pharmaceutical infrastructures.</title>
+    </vote>
+    <vote>
+      <vote_number>00083</vote_number>
+      <vote_date>14-Mar</vote_date>
+      <issue>S.Con.Res. 70</issue>
+      <question>On the Amendment <measure>S.Amdt. 4245</measure></question>
+      <result>Agreed to</result>
+      <vote_tally>
+        <yeas>73</yeas>
+        <nays>23</nays>
+      </vote_tally>
+      <title>Biden Amdt. No. 4245; To restore full funding for the international affairs budget, in support of the reconstruction of Iraq and Afghanistan, nuclear nonproliferation, foreign assistance, fighting global AIDS, promoting sustainable development, and other efforts, with an offset.</title>
+    </vote>
+    <vote>
+      <vote_number>00082</vote_number>
+      <vote_date>14-Mar</vote_date>
+      <issue>S.Con.Res. 70</issue>
+      <question>On the Amendment <measure>S.Amdt. 4339</measure></question>
+      <result>Rejected</result>
+      <vote_tally>
+        <yeas>45</yeas>
+        <nays>51</nays>
+      </vote_tally>
+      <title>DeMint Amdt. No. 4339; To provide for a deficit-neutral reserve fund for providing an above the line Federal income tax deduction for individuals purchasing health insurance outside the workplace.</title>
+    </vote>
+    <vote>
+      <vote_number>00081</vote_number>
+      <vote_date>14-Mar</vote_date>
+      <issue>S.Con.Res. 70</issue>
+      <question>On the Amendment <measure>S.Amdt. 4233</measure></question>
+      <result>Rejected</result>
+      <vote_tally>
+        <yeas>46</yeas>
+        <nays>52</nays>
+      </vote_tally>
+      <title>Allard Amdt. No. 4233; To require that legislation to reauthorize SCHIP include provisions codifying the unborn child regulation.</title>
+    </vote>
+    <vote>
+      <vote_number>00080</vote_number>
+      <vote_date>14-Mar</vote_date>
+      <issue>S.Con.Res. 70</issue>
+      <question>On the Amendment <measure>S.Amdt. 4379</measure></question>
+      <result>Agreed to</result>
+      <vote_tally>
+        <yeas>70</yeas>
+        <nays>27</nays>
+      </vote_tally>
+      <title>Boxer Amdt. No. 4379; To facilitate coverage of pregnant women in SCHIP.</title>
+    </vote>
+    <vote>
+      <vote_number>00079</vote_number>
+      <vote_date>13-Mar</vote_date>
+      <issue>S.Con.Res. 70</issue>
+      <question>On the Amendment <measure>S.Amdt. 4380</measure></question>
+      <result>Rejected</result>
+      <vote_tally>
+        <yeas>41</yeas>
+        <nays>57</nays>
+      </vote_tally>
+      <title>DeMint Amdt. No. 4380; To provide for a deficit-neutral reserve fund for transferring funding for Berkeley, CA earmarks to the Marine Corps.</title>
+    </vote>
+    <vote>
+      <vote_number>00078</vote_number>
+      <vote_date>13-Mar</vote_date>
+      <issue>S.Con.Res. 70</issue>
+      <question>On the Amendment <measure>S.Amdt. 4276</measure></question>
+      <result>Rejected</result>
+      <vote_tally>
+        <yeas>47</yeas>
+        <nays>51</nays>
+      </vote_tally>
+      <title>Grassley Amdt. No. 4276 as Modified; To exempt from pay-as-you-go enforcement modifications to the individual alternative minimum tax (AMT) that prevent millions of additional taxpayers from having to pay the AMT.</title>
+    </vote>
+    <vote>
+      <vote_number>00077</vote_number>
+      <vote_date>13-Mar</vote_date>
+      <issue>S.Con.Res. 70</issue>
+      <question>On the Amendment <measure>S.Amdt. 4372</measure></question>
+      <result>Rejected</result>
+      <vote_tally>
+        <yeas>48</yeas>
+        <nays>50</nays>
+      </vote_tally>
+      <title>Kyl Amdt. No. 4372; To protect small businesses, family ranches and farms from the Death Tax by providing a $5 million exemption, a low rate for smaller estates and a maximum rate no higher than 35%.</title>
+    </vote>
+    <vote>
+      <vote_number>00076</vote_number>
+      <vote_date>13-Mar</vote_date>
+      <issue>S.Con.Res. 70</issue>
+      <question>On the Amendment <measure>S.Amdt. 4378</measure></question>
+      <result>Rejected</result>
+      <vote_tally>
+        <yeas>23</yeas>
+        <nays>77</nays>
+      </vote_tally>
+      <title>Landrieu Amdt. No. 4378; To protect family businesses and farmers without increasing our nation's debt by providing for an estate tax that sets the exemption at $5 million and the rate at 35 percent, with the benefits of the exemption recaptured for estates over $100 million, paid for by closing tax loopholes that allow offshore deferral of compensation and transactions entered into solely for the purpose of avoiding taxation.</title>
+    </vote>
+    <vote>
+      <vote_number>00075</vote_number>
+      <vote_date>13-Mar</vote_date>
+      <issue>S.Con.Res. 70</issue>
+      <question>On the Motion <measure>S.Amdt. 4347</measure></question>
+      <result>Rejected</result>
+      <vote_tally>
+        <yeas>29</yeas>
+        <nays>71</nays>
+      </vote_tally>
+      <title>Motion to Waive C.B.A. DeMint Amdt No. 4347; To establish an earmark moratorium for fiscal year 2009.</title>
+    </vote>
+    <vote>
+      <vote_number>00074</vote_number>
+      <vote_date>13-Mar</vote_date>
+      <issue>S.Con.Res. 70</issue>
+      <question>On the Amendment <measure>S.Amdt. 4348</measure></question>
+      <result>Rejected</result>
+      <vote_tally>
+        <yeas>49</yeas>
+        <nays>50</nays>
+      </vote_tally>
+      <title>Kyl Amdt. No. 4348; To provide certainty to taxpayers by extending expiring tax provisions such as the R&amp;D Tax Credit that helps US companies innovate, combat pay exclusion for our soldiers in the field, the education deduction to make colleges more affordable and the alternative energy incentives to make the environment cleaner through the end of 2009.</title>
+    </vote>
+    <vote>
+      <vote_number>00073</vote_number>
+      <vote_date>13-Mar</vote_date>
+      <issue>S.Con.Res. 70</issue>
+      <question>On the Motion <measure>S.Amdt. 4313</measure></question>
+      <result>Rejected</result>
+      <vote_tally>
+        <yeas>27</yeas>
+        <nays>71</nays>
+      </vote_tally>
+      <title>Motion to Waive C.B.A. Cornyn Amdt. No. 4313; To protect the family budget from runaway Government spending by increasing the number of Senators necessary to waive the PAYGO Point of Order from 60 to 100.</title>
+    </vote>
+    <vote>
+      <vote_number>00072</vote_number>
+      <vote_date>13-Mar</vote_date>
+      <issue>S.Con.Res. 70</issue>
+      <question>On the Motion <measure>S.Amdt. 4340</measure></question>
+      <result>Rejected</result>
+      <vote_tally>
+        <yeas>39</yeas>
+        <nays>59</nays>
+      </vote_tally>
+      <title>Motion to Waive C.B.A. DeMint Amdt. No. 4340; To create a point of order against bills that would raise gasoline prices.</title>
+    </vote>
+    <vote>
+      <vote_number>00071</vote_number>
+      <vote_date>13-Mar</vote_date>
+      <issue>S.Con.Res. 70</issue>
+      <question>On the Amendment <measure>S.Amdt. 4335</measure></question>
+      <result>Rejected</result>
+      <vote_tally>
+        <yeas>49</yeas>
+        <nays>49</nays>
+      </vote_tally>
+      <title>Ensign Amdt. No. 4335; To increase funding for the Department of Justice for the vigorous enforcement of a prohibition against taking minors across State lines in circumvention of laws requiring the involvement of parents in abortion decisions consistent with the Child Custody Protection Act, which passed the Senate by a bipartisan vote of 65-34, with an offset.</title>
+    </vote>
+    <vote>
+      <vote_number>00070</vote_number>
+      <vote_date>13-Mar</vote_date>
+      <issue>S.Con.Res. 70</issue>
+      <question>On the Amendment <measure>S.Amdt. 4368</measure></question>
+      <result>Agreed to</result>
+      <vote_tally>
+        <yeas>90</yeas>
+        <nays>5</nays>
+      </vote_tally>
+      <title>Boxer Amdt. No. 4368 as Modified; To increase funding for the Department of Justice for the vigorous enforcement of laws protecting children.</title>
+    </vote>
+    <vote>
+      <vote_number>00069</vote_number>
+      <vote_date>13-Mar</vote_date>
+      <issue>S.Con.Res. 70</issue>
+      <question>On the Motion to Table <measure>S.Amdt. 4309</measure></question>
+      <result>Agreed to</result>
+      <vote_tally>
+        <yeas>58</yeas>
+        <nays>40</nays>
+      </vote_tally>
+      <title>Motion to Table Vitter Amdt. No. 4309; To create a reserve fund to ensure that Federal assistance does not go to sanctuary cities that ignore the immigration laws of the United States and create safe havens for illegal aliens and potential terrorists.</title>
+    </vote>
+    <vote>
+      <vote_number>00068</vote_number>
+      <vote_date>13-Mar</vote_date>
+      <issue>S.Con.Res. 70</issue>
+      <question>On the Amendment <measure>S.Amdt. 4197</measure></question>
+      <result>Agreed to</result>
+      <vote_tally>
+        <yeas>89</yeas>
+        <nays>7</nays>
+      </vote_tally>
+      <title>Kohl Amdt. No. 4197; To establish a deficit-neutral reserve fund for a 3-year extension of the pilot program for national and State background checks on direct patient access employees of long-term care facilities or providers.</title>
+    </vote>
+    <vote>
+      <vote_number>00067</vote_number>
+      <vote_date>13-Mar</vote_date>
+      <issue>S.Con.Res. 70</issue>
+      <question>On the Amendment <measure>S.Amdt. 4284</measure></question>
+      <result>Agreed to</result>
+      <vote_tally>
+        <yeas>49</yeas>
+        <nays>48</nays>
+      </vote_tally>
+      <title>Brownback Amdt. No. 4284; To provide funds for a Commission on Budgetary Accountability and Review of Federal Agencies.</title>
+    </vote>
+    <vote>
+      <vote_number>00066</vote_number>
+      <vote_date>13-Mar</vote_date>
+      <issue>S.Con.Res. 70</issue>
+      <question>On the Amendment <measure>S.Amdt. 4232</measure></question>
+      <result>Rejected</result>
+      <vote_tally>
+        <yeas>29</yeas>
+        <nays>68</nays>
+      </vote_tally>
+      <title>Allard Amdt. No. 4232; To pay down the Federal debt and eliminate government waste by reducing spending 5 percent on programs rated (as mandated under the Government Performance and Results Act (Public Law 103-62)) ineffective by the Office of Management and Budget Program Assessment Rating Tool.</title>
+    </vote>
+    <vote>
+      <vote_number>00065</vote_number>
+      <vote_date>13-Mar</vote_date>
+      <issue>S.Con.Res. 70</issue>
+      <question>On the Amendment <measure>S.Amdt. 4328</measure></question>
+      <result>Rejected</result>
+      <vote_tally>
+        <yeas>41</yeas>
+        <nays>57</nays>
+      </vote_tally>
+      <title>DeMint Amdt. No. 4328; To provide for a deficit-neutral reserve fund for Social Security reform.</title>
+    </vote>
+    <vote>
+      <vote_number>00064</vote_number>
+      <vote_date>13-Mar</vote_date>
+      <issue>S.Con.Res. 70</issue>
+      <question>On the Amendment <measure>S.Amdt. 4218</measure></question>
+      <result>Rejected</result>
+      <vote_tally>
+        <yeas>43</yeas>
+        <nays>55</nays>
+      </vote_tally>
+      <title>Sanders Amdt. No. 4218; To put children ahead of millionaires and billionaires by restoring the pre-2001 top income tax rate for people earning over $1 million, and use this revenue to invest in LIHEAP; IDEA; Head Start; Child Care; nutrition; school construction and deficit reduction.</title>
+    </vote>
+    <vote>
+      <vote_number>00063</vote_number>
+      <vote_date>13-Mar</vote_date>
+      <issue>S.Con.Res. 70</issue>
+      <question>On the Amendment <measure>S.Amdt. 4240</measure></question>
+      <result>Rejected</result>
+      <vote_tally>
+        <yeas>42</yeas>
+        <nays>56</nays>
+      </vote_tally>
+      <title>Ensign Amdt. No. 4240; To require wealthy Medicare beneficiaries to pay a greater share of their Medicare Part D premiums.</title>
+    </vote>
+    <vote>
+      <vote_number>00062</vote_number>
+      <vote_date>13-Mar</vote_date>
+      <issue>S.Con.Res. 70</issue>
+      <question>On the Amendment <measure>S.Amdt. 4246</measure></question>
+      <result>Rejected</result>
+      <vote_tally>
+        <yeas>0</yeas>
+        <nays>97</nays>
+      </vote_tally>
+      <title>Allard Amdt. No. 4246; To raise taxes by an unprecedented $1.4 trillion for the purpose of fully funding 111 new or expanded federal spending programs.</title>
+    </vote>
+    <vote>
+      <vote_number>00061</vote_number>
+      <vote_date>13-Mar</vote_date>
+      <issue>S.Con.Res. 70</issue>
+      <question>On the Motion <measure>S.Amdt. 4242</measure></question>
+      <result>Rejected</result>
+      <vote_tally>
+        <yeas>58</yeas>
+        <nays>40</nays>
+      </vote_tally>
+      <title>Motion to Waive C.B.A. Cornyn Amdt. No. 4242; To protect the family budget by providing for a budget point of order against legislation that increases income taxes on taxpayers, including hard-working middle-income families, entrepreneurs, and college students.</title>
+    </vote>
+    <vote>
+      <vote_number>00060</vote_number>
+      <vote_date>13-Mar</vote_date>
+      <issue>S.Con.Res. 70</issue>
+      <question>On the Amendment <measure>S.Amdt. 4231</measure></question>
+      <result>Agreed to</result>
+      <vote_tally>
+        <yeas>61</yeas>
+        <nays>37</nays>
+      </vote_tally>
+      <title>Sessions Amdt. No. 4231; To establish a deficit-neutral reserve fund for border security, immigration enforcement, and criminal alien removal programs.</title>
+    </vote>
+    <vote>
+      <vote_number>00059</vote_number>
+      <vote_date>13-Mar</vote_date>
+      <issue>S.Con.Res. 70</issue>
+      <question>On the Amendment <measure>S.Amdt. 4259</measure></question>
+      <result>Agreed to</result>
+      <vote_tally>
+        <yeas>53</yeas>
+        <nays>45</nays>
+      </vote_tally>
+      <title>Menendez Amdt. No. 4259; To establish a reserve fund for immigration reform and enforcement.</title>
+    </vote>
+    <vote>
+      <vote_number>00058</vote_number>
+      <vote_date>13-Mar</vote_date>
+      <issue>S.Con.Res. 70</issue>
+      <question>On the Amendment <measure>S.Amdt. 4222</measure></question>
+      <result>Agreed to</result>
+      <vote_tally>
+        <yeas>54</yeas>
+        <nays>44</nays>
+      </vote_tally>
+      <title>Alexander Amdt. No. 4222; To take $670,000 used by the EEOC in bringing actions against employers that require their employees to speak English, and instead use the money to teach English to adults through the Department of Education's English Literacy/Civics Education State Grant program.</title>
+    </vote>
+    <vote>
+      <vote_number>00057</vote_number>
+      <vote_date>13-Mar</vote_date>
+      <issue>S.Con.Res. 70</issue>
+      <question>On the Amendment <measure>S.Amdt. 4350</measure></question>
+      <result>Agreed to</result>
+      <vote_tally>
+        <yeas>95</yeas>
+        <nays>2</nays>
+      </vote_tally>
+      <title>Kennedy Amdt. No. 4350; To increase funding for the Department of Education's English Literacy-Civics Education State Grant program, with an offset.</title>
+    </vote>
+    <vote>
+      <vote_number>00056</vote_number>
+      <vote_date>13-Mar</vote_date>
+      <issue>S.Con.Res. 70</issue>
+      <question>On the Amendment <measure>S.Amdt. 4207</measure></question>
+      <result>Rejected</result>
+      <vote_tally>
+        <yeas>47</yeas>
+        <nays>51</nays>
+      </vote_tally>
+      <title>Alexander Amdt. No. 4207 as Modified; To establish a deficit-neutral reserve fund to improve energy efficiency and production.</title>
+    </vote>
+    <vote>
+      <vote_number>00055</vote_number>
+      <vote_date>13-Mar</vote_date>
+      <issue>S.Con.Res. 70</issue>
+      <question>On the Amendment <measure>S.Amdt. 4329</measure></question>
+      <result>Agreed to</result>
+      <vote_tally>
+        <yeas>56</yeas>
+        <nays>43</nays>
+      </vote_tally>
+      <title>Bill Nelson Amdt. No. 4329; To establish a deficit-neutral reserve fund to improve energy efficiency and production.</title>
+    </vote>
+    <vote>
+      <vote_number>00054</vote_number>
+      <vote_date>13-Mar</vote_date>
+      <issue>S.Con.Res. 70</issue>
+      <question>On the Amendment <measure>S.Amdt. 4198</measure></question>
+      <result>Agreed to</result>
+      <vote_tally>
+        <yeas>69</yeas>
+        <nays>30</nays>
+      </vote_tally>
+      <title>Dorgan Amdt. No. 4198; To increase the Indian Health Service by $1 billion in FY 2009.</title>
+    </vote>
+    <vote>
+      <vote_number>00053</vote_number>
+      <vote_date>13-Mar</vote_date>
+      <issue>S.Con.Res. 70</issue>
+      <question>On the Amendment <measure>S.Amdt. 4203</measure></question>
+      <result>Agreed to</result>
+      <vote_tally>
+        <yeas>95</yeas>
+        <nays>4</nays>
+      </vote_tally>
+      <title>Specter Amdt. No. 4203; To increase funding for the National Institutes of Health and the Low Income Home Energy Assistance Program.</title>
+    </vote>
+    <vote>
+      <vote_number>00052</vote_number>
+      <vote_date>13-Mar</vote_date>
+      <issue>S.Con.Res. 70</issue>
+      <question>On the Amendment <measure>S.Amdt. 4192</measure></question>
+      <result>Rejected</result>
+      <vote_tally>
+        <yeas>47</yeas>
+        <nays>53</nays>
+      </vote_tally>
+      <title>Bunning Amdt. No. 4192 as Modified; To repeal the tax increase on Social Security benefits imposed by the Omnibus Budget Reconciliation Act of 1993.</title>
+    </vote>
+    <vote>
+      <vote_number>00051</vote_number>
+      <vote_date>13-Mar</vote_date>
+      <issue>S.Con.Res. 70</issue>
+      <question>On the Amendment <measure>S.Amdt. 4204</measure></question>
+      <result>Agreed to</result>
+      <vote_tally>
+        <yeas>53</yeas>
+        <nays>46</nays>
+      </vote_tally>
+      <title>Conrad Amdt. No. 4204; To add a deficit-neutral reserve fund for repealing the 1993 increase in the income tax on Social Security benefits.</title>
+    </vote>
+    <vote>
+      <vote_number>00050</vote_number>
+      <vote_date>13-Mar</vote_date>
+      <issue>S.Con.Res. 70</issue>
+      <question>On the Amendment <measure>S.Amdt. 4191</measure></question>
+      <result>Rejected</result>
+      <vote_tally>
+        <yeas>50</yeas>
+        <nays>50</nays>
+      </vote_tally>
+      <title>Kyl Amdt. No. 4191; To protect small businesses, family ranches and farms from the Death Tax by providing a $5 million exemption, a low rate for smaller estates and a maximum rate no higher than 35%.</title>
+    </vote>
+    <vote>
+      <vote_number>00049</vote_number>
+      <vote_date>13-Mar</vote_date>
+      <issue>S.Con.Res. 70</issue>
+      <question>On the Amendment <measure>S.Amdt. 4196</measure></question>
+      <result>Rejected</result>
+      <vote_tally>
+        <yeas>38</yeas>
+        <nays>62</nays>
+      </vote_tally>
+      <title>Salazar Amdt. No. 4196 as Modified; To reform the estate tax to avoid subjecting thousands of families, family businesses, and family farms and ranches to the estate tax.</title>
+    </vote>
+    <vote>
+      <vote_number>00048</vote_number>
+      <vote_date>13-Mar</vote_date>
+      <issue>S.Con.Res. 70</issue>
+      <question>On the Amendment <measure>S.Amdt. 4189</measure></question>
+      <result>Rejected</result>
+      <vote_tally>
+        <yeas>49</yeas>
+        <nays>51</nays>
+      </vote_tally>
+      <title>Upon Reconsideration Specter Amdt. No. 4189; To repeal section 13203 of the Omnibus Budget Reconciliation Act of 1993 by restoring the Alternative Minimum Tax rates that had been in effect prior thereto.</title>
+    </vote>
+    <vote>
+      <vote_number>00047</vote_number>
+      <vote_date>13-Mar</vote_date>
+      <issue>S.Con.Res. 70</issue>
+      <question>On the Motion to Reconsider <measure>S.Amdt. 4189</measure></question>
+      <result>Agreed to</result>
+      <vote_tally>
+        <yeas>50</yeas>
+        <nays>50</nays>
+      </vote_tally>
+      <title>Motion to Reconsider Amdt. No. 4189; To repeal section 13203 of the Omnibus Budget Reconciliation Act of 1993 by restoring the Alternative Minimum Tax rates that had been in effect prior thereto.</title>
+    </vote>
+    <vote>
+      <vote_number>00046</vote_number>
+      <vote_date>13-Mar</vote_date>
+      <issue>S.Con.Res. 70</issue>
+      <question>On the Motion <measure>S.Amdt. 4189</measure></question>
+      <result>Rejected</result>
+      <vote_tally>
+        <yeas>49</yeas>
+        <nays>51</nays>
+      </vote_tally>
+      <title>Motion to Table Motion to Reconsider; To repeal section 13203 of the Omnibus Budget Reconciliation Act of 1993 by restoring the Alternative Minimum Tax rates that had been in effect prior thereto.</title>
+    </vote>
+    <vote>
+      <vote_number>00045</vote_number>
+      <vote_date>13-Mar</vote_date>
+      <issue>S.Con.Res. 70</issue>
+      <question>On the Amendment <measure>S.Amdt. 4189</measure></question>
+      <result>Rejected</result>
+      <vote_tally>
+        <yeas>49</yeas>
+        <nays>50</nays>
+      </vote_tally>
+      <title>Specter Amdt. No. 4189; To repeal section 13203 of the Omnibus Budget Reconciliation Act of 1993 by restoring the Alternative Minimum Tax rates that had been in effect prior thereto.</title>
+    </vote>
+    <vote>
+      <vote_number>00044</vote_number>
+      <vote_date>13-Mar</vote_date>
+      <issue>S.Con.Res. 70</issue>
+      <question>On the Amendment <measure>S.Amdt. 4190</measure></question>
+      <result>Agreed to</result>
+      <vote_tally>
+        <yeas>53</yeas>
+        <nays>46</nays>
+      </vote_tally>
+      <title>Conrad Amdt. No. 4190; To add a deficit-neutral reserve fund for repealing the 1993 rate increase for the alternative minimum tax for individuals.</title>
+    </vote>
+    <vote>
+      <vote_number>00043</vote_number>
+      <vote_date>13-Mar</vote_date>
+      <issue>S.Con.Res. 70</issue>
+      <question>On the Amendment <measure>S.Amdt. 4170</measure></question>
+      <result>Rejected</result>
+      <vote_tally>
+        <yeas>47</yeas>
+        <nays>52</nays>
+      </vote_tally>
+      <title>Graham Amdt. No. 4170 as Modified; To protect families, family farms and small businesses by extending the income tax rate structure, raising the death tax exemption to $5 million and reducing the maximum death tax rate to no more than 35%; to keep education affordable by extending the college tuition deduction; and to protect senior citizens from higher taxes on their retirement income, maintain U.S. financial market competitiveness, and promote economic growth by extending the lower tax rates on dividends and capital gains.</title>
+    </vote>
+    <vote>
+      <vote_number>00042</vote_number>
+      <vote_date>13-Mar</vote_date>
+      <issue>S.Con.Res. 70</issue>
+      <question>On the Amendment <measure>S.Amdt. 4160</measure></question>
+      <result>Agreed to</result>
+      <vote_tally>
+        <yeas>99</yeas>
+        <nays>1</nays>
+      </vote_tally>
+      <title>Baucus Amdt. No. 4160; To provide tax relief to middle-class families and small businesses, property tax relief to homeowners, relief to those whose homes were damaged or destroyed by Hurricanes Katrina and Rita, and tax relief to America's troops and veterans.</title>
+    </vote>
+    <vote>
+      <vote_number>00041</vote_number>
+      <vote_date>06-Mar</vote_date>
+      <issue>H.R. 4040</issue>
+      <question>On Passage of the Bill</question>
+      <result>Passed</result>
+      <vote_tally>
+        <yeas>79</yeas>
+        <nays>13</nays>
+      </vote_tally>
+      <title>H.R. 4040 As Amended ; A bill to establish consumer product safety standards and other safety requirements for children's products and to reauthorize and modernize the Consumer Product Safety Commission.</title>
+    </vote>
+    <vote>
+      <vote_number>00040</vote_number>
+      <vote_date>06-Mar</vote_date>
+      <issue>S. 2663</issue>
+      <question>On the Motion to Table <measure>S.Amdt. 4097</measure></question>
+      <result>Agreed to</result>
+      <vote_tally>
+        <yeas>56</yeas>
+        <nays>39</nays>
+      </vote_tally>
+      <title>Motion To Table Vitter Amdt. No. 4097; To allow the prevailing party in certain civil actions related to consumer product safety rules to recover attorney fees.</title>
+    </vote>
+    <vote>
+      <vote_number>00039</vote_number>
+      <vote_date>05-Mar</vote_date>
+      <issue>S. 2663</issue>
+      <question>On the Motion to Table <measure>S.Amdt. 4094</measure></question>
+      <result>Agreed to</result>
+      <vote_tally>
+        <yeas>51</yeas>
+        <nays>45</nays>
+      </vote_tally>
+      <title>Motion To Table Cornyn Amdt. No. 4094 As Modified Further; To prohibit State attorneys general from entering into contingency fee agreements for legal or expert witness services in certain civil actions relating to Federal consumer product safety rules, regulations, standards, certification or labeling requirements, or orders.</title>
+    </vote>
+    <vote>
+      <vote_number>00038</vote_number>
+      <vote_date>05-Mar</vote_date>
+      <issue>S. 2663</issue>
+      <question>On the Amendment <measure>S.Amdt. 4105</measure></question>
+      <result>Agreed to</result>
+      <vote_tally>
+        <yeas>96</yeas>
+        <nays>0</nays>
+      </vote_tally>
+      <title>Klobuchar Amdt. No. 4105 As Modified; To authorize appropriations for necessary or appropriate travel, subsistence, and related expenses, and for other purposes.</title>
+    </vote>
+    <vote>
+      <vote_number>00037</vote_number>
+      <vote_date>04-Mar</vote_date>
+      <issue>S. 2663</issue>
+      <question>On the Motion to Table <measure>S.Amdt. 4095</measure></question>
+      <result>Agreed to</result>
+      <vote_tally>
+        <yeas>57</yeas>
+        <nays>39</nays>
+      </vote_tally>
+      <title>Motion To Table DeMint Amdt. No. 4095; In the nature of a substitute.</title>
+    </vote>
+    <vote>
+      <vote_number>00036</vote_number>
+      <vote_date>03-Mar</vote_date>
+      <issue>S. 2663</issue>
+      <question>On the Motion</question>
+      <result>Agreed to</result>
+      <vote_tally>
+        <yeas>86</yeas>
+        <nays>1</nays>
+      </vote_tally>
+      <title>Motion to Invoke Cloture on the Motion to Proceed to Consider S. 2663; A bill to reform the Consumer Product Safety Commission to provide greater protection for children's products, to improve the screening of noncompliant consumer products, to improve the effectiveness of consumer product recall programs, and for other purposes.</title>
+    </vote>
+    <vote>
+      <vote_number>00035</vote_number>
+      <vote_date>28-Feb</vote_date>
+      <issue>H.R. 3221</issue>
+      <question>On the Cloture Motion</question>
+      <result>Rejected</result>
+      <vote_tally>
+        <yeas>48</yeas>
+        <nays>46</nays>
+      </vote_tally>
+      <title>Motion to Invoke Cloture on the Motion to Proceed to H.R.3221; A bill to provide needed housing reform and for other purposes.</title>
+    </vote>
+    <vote>
+      <vote_number>00034</vote_number>
+      <vote_date>27-Feb</vote_date>
+      <issue>S. 2634</issue>
+      <question>On the Cloture Motion</question>
+      <result>Agreed to</result>
+      <vote_tally>
+        <yeas>89</yeas>
+        <nays>3</nays>
+      </vote_tally>
+      <title>Motion to Invoke Cloture on the Motion to Proceed to Consider S. 2634; A bill to require a report setting forth the global strategy of the United States to combat and defeat al Qaeda and its affiliates.</title>
+    </vote>
+    <vote>
+      <vote_number>00033</vote_number>
+      <vote_date>26-Feb</vote_date>
+      <issue>S. 2633</issue>
+      <question>On the Cloture Motion</question>
+      <result>Agreed to</result>
+      <vote_tally>
+        <yeas>70</yeas>
+        <nays>24</nays>
+      </vote_tally>
+      <title>Motion to Invoke Cloture on the Motion to Proceed to Consider S. 2633; A bill to provide for the safe redeployment of United States troops from Iraq.</title>
+    </vote>
+    <vote>
+      <vote_number>00032</vote_number>
+      <vote_date>26-Feb</vote_date>
+      <issue>S. 1200</issue>
+      <question>On Passage of the Bill</question>
+      <result>Passed</result>
+      <vote_tally>
+        <yeas>83</yeas>
+        <nays>10</nays>
+      </vote_tally>
+      <title>S.1200 as Amended; A bill to amend the Indian Health Care Improvement Act to revise and extend the Act.</title>
+    </vote>
+    <vote>
+      <vote_number>00031</vote_number>
+      <vote_date>26-Feb</vote_date>
+      <issue>S. 1200</issue>
+      <question>On the Amendment <measure>S.Amdt. 3897</measure></question>
+      <result>Agreed to</result>
+      <vote_tally>
+        <yeas>56</yeas>
+        <nays>38</nays>
+      </vote_tally>
+      <title>Smith Amdt. No. 3897; To modify a provision relating to development of innovative approaches.</title>
+    </vote>
+    <vote>
+      <vote_number>00030</vote_number>
+      <vote_date>26-Feb</vote_date>
+      <issue>S. 1200</issue>
+      <question>On the Amendment <measure>S.Amdt. 3896</measure></question>
+      <result>Agreed to</result>
+      <vote_tally>
+        <yeas>52</yeas>
+        <nays>42</nays>
+      </vote_tally>
+      <title>Vitter Amdt. No. 3896; To modify a section relating to limitation on use of funds appropriated to the Service.</title>
+    </vote>
+    <vote>
+      <vote_number>00029</vote_number>
+      <vote_date>25-Feb</vote_date>
+      <issue>S. 1200</issue>
+      <question>On the Amendment <measure>S.Amdt. 4070</measure></question>
+      <result>Agreed to</result>
+      <vote_tally>
+        <yeas>78</yeas>
+        <nays>11</nays>
+      </vote_tally>
+      <title>DeMint Amdt. No. 4070; Of a perfecting nature.</title>
+    </vote>
+    <vote>
+      <vote_number>00028</vote_number>
+      <vote_date>25-Feb</vote_date>
+      <issue>S. 1200</issue>
+      <question>On the Cloture Motion <measure>S.Amdt. 3899</measure></question>
+      <result>Agreed to</result>
+      <vote_tally>
+        <yeas>85</yeas>
+        <nays>2</nays>
+      </vote_tally>
+      <title>Motion to Invoke Cloture on the Dorgan Amdt. No. 3899; In the nature of a substitute.</title>
+    </vote>
+    <vote>
+      <vote_number>00027</vote_number>
+      <vote_date>14-Feb</vote_date>
+      <issue>S. 1200</issue>
+      <question>On the Amendment <measure>S.Amdt. 4032</measure></question>
+      <result>Agreed to</result>
+      <vote_tally>
+        <yeas>94</yeas>
+        <nays>0</nays>
+      </vote_tally>
+      <title>Coburn Amdt. No. 4032; To protect rape and sexual assault victims from HIV/AIDS and other sexually transmitted diseases.</title>
+    </vote>
+    <vote>
+      <vote_number>00026</vote_number>
+      <vote_date>14-Feb</vote_date>
+      <issue>S. 1200</issue>
+      <question>On the Amendment <measure>S.Amdt. 4036</measure></question>
+      <result>Rejected</result>
+      <vote_tally>
+        <yeas>21</yeas>
+        <nays>73</nays>
+      </vote_tally>
+      <title>Coburn Amdt. No. 4036; To prioritize scarce resources to basic medical services for Indians.</title>
+    </vote>
+    <vote>
+      <vote_number>00025</vote_number>
+      <vote_date>14-Feb</vote_date>
+      <issue>S. 1200</issue>
+      <question>On the Amendment <measure>S.Amdt. 4034</measure></question>
+      <result>Rejected</result>
+      <vote_tally>
+        <yeas>28</yeas>
+        <nays>67</nays>
+      </vote_tally>
+      <title>Coburn Amdt. No. 4034; To allow tribal members to make their own health care choices.</title>
+    </vote>
+    <vote>
+      <vote_number>00024</vote_number>
+      <vote_date>14-Feb</vote_date>
+      <issue>S. 1200</issue>
+      <question>On the Amendment <measure>S.Amdt. 4082</measure></question>
+      <result>Agreed to</result>
+      <vote_tally>
+        <yeas>95</yeas>
+        <nays>0</nays>
+      </vote_tally>
+      <title>Dorgan Amdt. No. 4082; Of a perfecting nature.</title>
+    </vote>
+    <vote>
+      <vote_number>00023</vote_number>
+      <vote_date>13-Feb</vote_date>
+      <issue>S. 1200</issue>
+      <question>On the Amendment <measure>S.Amdt. 4020</measure></question>
+      <result>Agreed to</result>
+      <vote_tally>
+        <yeas>95</yeas>
+        <nays>0</nays>
+      </vote_tally>
+      <title>Tester Amdt. No. 4020; To express the sense of Congress regarding law enforcement and methamphetamine issues in Indian country.</title>
+    </vote>
+    <vote>
+      <vote_number>00022</vote_number>
+      <vote_date>13-Feb</vote_date>
+      <issue>H.R. 2082</issue>
+      <question>On the Conference Report</question>
+      <result>Agreed to</result>
+      <vote_tally>
+        <yeas>51</yeas>
+        <nays>45</nays>
+      </vote_tally>
+      <title>HR 2082 Conference Report ; A bill to authorize appropriations for fiscal year 2008 for intelligence and intelligence-related activities of the United States Government, the Community Management Account, and the Central Intelligence Agency Retirement and Disability System, and for other purposes.</title>
+    </vote>
+    <vote>
+      <vote_number>00021</vote_number>
+      <vote_date>13-Feb</vote_date>
+      <issue>H.R. 2082</issue>
+      <question>On the Cloture Motion</question>
+      <result>Agreed to</result>
+      <vote_tally>
+        <yeas>92</yeas>
+        <nays>4</nays>
+      </vote_tally>
+      <title>Motion To Invoke Cloture On The Conference Report To Accompany H.R. 2082; A bill to authorize appropriations for fiscal year 2008 for intelligence and intelligence-related activities of the United States Government, the Community Management Account, and the Central Intelligence Agency Retirement and Disability System, and for other purposes.</title>
+    </vote>
+    <vote>
+      <vote_number>00020</vote_number>
+      <vote_date>12-Feb</vote_date>
+      <issue>S. 2248</issue>
+      <question>On Passage of the Bill</question>
+      <result>Passed</result>
+      <vote_tally>
+        <yeas>68</yeas>
+        <nays>29</nays>
+      </vote_tally>
+      <title>S.2248 as Amended; An original bill to amend the Foreign Intelligence Surveillance Act of 1978, to modernize and streamline the provisions of that Act, and for other purposes.</title>
+    </vote>
+    <vote>
+      <vote_number>00019</vote_number>
+      <vote_date>12-Feb</vote_date>
+      <issue>S. 2248</issue>
+      <question>On the Cloture Motion</question>
+      <result>Agreed to</result>
+      <vote_tally>
+        <yeas>69</yeas>
+        <nays>29</nays>
+      </vote_tally>
+      <title>Motion to Invoke Cloture Re. S. 2248; An original bill to amend the Foreign Intelligence Surveillance Act of 1978, to modernize and streamline the provisions of that Act, and for other purposes.</title>
+    </vote>
+    <vote>
+      <vote_number>00018</vote_number>
+      <vote_date>12-Feb</vote_date>
+      <issue>S. 2248</issue>
+      <question>On the Amendment <measure>S.Amdt. 3919</measure></question>
+      <result>Rejected</result>
+      <vote_tally>
+        <yeas>41</yeas>
+        <nays>57</nays>
+      </vote_tally>
+      <title>Feinstein Amdt. No. 3919; To provide for the review of certifications by the Foreign Intelligence Surveillance Court.</title>
+    </vote>
+    <vote>
+      <vote_number>00017</vote_number>
+      <vote_date>12-Feb</vote_date>
+      <issue>S. 2248</issue>
+      <question>On the Amendment <measure>S.Amdt. 3927</measure></question>
+      <result>Rejected</result>
+      <vote_tally>
+        <yeas>30</yeas>
+        <nays>68</nays>
+      </vote_tally>
+      <title>Specter Amdt. No. 3927; To provide for the substitution of the United States in certain civil actions.</title>
+    </vote>
+    <vote>
+      <vote_number>00016</vote_number>
+      <vote_date>12-Feb</vote_date>
+      <issue>S. 2248</issue>
+      <question>On the Amendment <measure>S.Amdt. 3912</measure></question>
+      <result>Rejected</result>
+      <vote_tally>
+        <yeas>37</yeas>
+        <nays>60</nays>
+      </vote_tally>
+      <title>Feingold Amdt. No. 3912; To modify the requirements for certifications made prior to the initiation of certain acquisitions.</title>
+    </vote>
+    <vote>
+      <vote_number>00015</vote_number>
+      <vote_date>12-Feb</vote_date>
+      <issue>S. 2248</issue>
+      <question>On the Amendment <measure>S.Amdt. 3907</measure></question>
+      <result>Rejected</result>
+      <vote_tally>
+        <yeas>31</yeas>
+        <nays>67</nays>
+      </vote_tally>
+      <title>Dodd Amdt. No. 3907; To strike the provisions providing immunity from civil liability to electronic communication service providers for certain assistance provided to the Government.</title>
+    </vote>
+    <vote>
+      <vote_number>00014</vote_number>
+      <vote_date>12-Feb</vote_date>
+      <issue>S. 2248</issue>
+      <question>On the Amendment <measure>S.Amdt. 3979</measure></question>
+      <result>Rejected</result>
+      <vote_tally>
+        <yeas>35</yeas>
+        <nays>63</nays>
+      </vote_tally>
+      <title>Feingold Amdt. No. 3979; To provide safeguards for communications involving persons inside the United States.</title>
+    </vote>
+    <vote>
+      <vote_number>00013</vote_number>
+      <vote_date>12-Feb</vote_date>
+      <issue>S. 2248</issue>
+      <question>On the Amendment <measure>S.Amdt. 3910</measure></question>
+      <result>Rejected</result>
+      <vote_tally>
+        <yeas>57</yeas>
+        <nays>41</nays>
+      </vote_tally>
+      <title>Feinstein Amdt. No. 3910; To provide a statement of the exclusive means by which electronic surveillance and interception of certain communications may be conducted.</title>
+    </vote>
+    <vote>
+      <vote_number>00012</vote_number>
+      <vote_date>07-Feb</vote_date>
+      <issue>S. 2248</issue>
+      <question>On the Amendment <measure>S.Amdt. 3913</measure></question>
+      <result>Rejected</result>
+      <vote_tally>
+        <yeas>38</yeas>
+        <nays>57</nays>
+      </vote_tally>
+      <title>Feingold Amdt. No. 3913; To prohibit reverse targeting and protect the rights of Americans who are communicating with people abroad.</title>
+    </vote>
+    <vote>
+      <vote_number>00011</vote_number>
+      <vote_date>07-Feb</vote_date>
+      <issue>S. 2248</issue>
+      <question>On the Amendment <measure>S.Amdt. 3915</measure></question>
+      <result>Rejected</result>
+      <vote_tally>
+        <yeas>40</yeas>
+        <nays>56</nays>
+      </vote_tally>
+      <title>Feingold Amdt. No. 3915
+; To place flexible limits on the use of information obtained using unlawful procedures.</title>
+    </vote>
+    <vote>
+      <vote_number>00010</vote_number>
+      <vote_date>07-Feb</vote_date>
+      <issue>H.R. 5140</issue>
+      <question>On Passage of the Bill</question>
+      <result>Passed</result>
+      <vote_tally>
+        <yeas>81</yeas>
+        <nays>16</nays>
+      </vote_tally>
+      <title>H.R. 5140 As Amended; A bill to provide economic stimulus through recovery rebates to individuals, incentives for business investment, and an increase in conforming and FHA loan limits.</title>
+    </vote>
+    <vote>
+      <vote_number>00009</vote_number>
+      <vote_date>07-Feb</vote_date>
+      <issue>H.R. 5140</issue>
+      <question>On the Amendment <measure>S.Amdt. 4010</measure></question>
+      <result>Agreed to</result>
+      <vote_tally>
+        <yeas>91</yeas>
+        <nays>6</nays>
+      </vote_tally>
+      <title>Reid Amdt. No. 4010; To revise the eligibility criteria for the 2008 recovery rebates for individuals.</title>
+    </vote>
+    <vote>
+      <vote_number>00008</vote_number>
+      <vote_date>06-Feb</vote_date>
+      <issue>H.R. 5140</issue>
+      <question>On the Cloture Motion <measure>S.Amdt. 3983</measure></question>
+      <result>Rejected</result>
+      <vote_tally>
+        <yeas>58</yeas>
+        <nays>41</nays>
+      </vote_tally>
+      <title>Motion To Invoke Cloture On The Reid Amdt No. 3983; Of a perfecting nature.</title>
+    </vote>
+    <vote>
+      <vote_number>00007</vote_number>
+      <vote_date>06-Feb</vote_date>
+      <issue>S. 2248</issue>
+      <question>On the Amendment <measure>S.Amdt. 3930</measure></question>
+      <result>Rejected</result>
+      <vote_tally>
+        <yeas>49</yeas>
+        <nays>46</nays>
+      </vote_tally>
+      <title>Cardin Amdt No. 3930; To modify the sunset provision.</title>
+    </vote>
+    <vote>
+      <vote_number>00006</vote_number>
+      <vote_date>05-Feb</vote_date>
+      <issue>H.R. 5140</issue>
+      <question>On the Motion</question>
+      <result>Agreed to</result>
+      <vote_tally>
+        <yeas>73</yeas>
+        <nays>12</nays>
+      </vote_tally>
+      <title>Motion to Instruct Sgt. At Arms; A bill to provide economic stimulus through recovery rebates to individuals, incentives for business investment, and an increase in conforming and FHA loan limits.</title>
+    </vote>
+    <vote>
+      <vote_number>00005</vote_number>
+      <vote_date>04-Feb</vote_date>
+      <issue>H.R. 5140</issue>
+      <question>On the Cloture Motion</question>
+      <result>Agreed to</result>
+      <vote_tally>
+        <yeas>80</yeas>
+        <nays>4</nays>
+      </vote_tally>
+      <title>Motion To Invoke Cloture On The Motion To Proceed To Consider H.R. 5140; A bill to provide economic stimulus through recovery rebates to individuals, incentives for business investment, and an increase in conforming and FHA loan limits.</title>
+    </vote>
+    <vote>
+      <vote_number>00004</vote_number>
+      <vote_date>28-Jan</vote_date>
+      <issue>S. 2248</issue>
+      <question>On the Cloture Motion <measure>S.Amdt. 3918</measure></question>
+      <result>Rejected</result>
+      <vote_tally>
+        <yeas>48</yeas>
+        <nays>45</nays>
+      </vote_tally>
+      <title>Motion to Invoke Cloture on Amdt. No. 3918 to S. 2248; Relative to the extension of the Protect America Act of 2007.</title>
+    </vote>
+    <vote>
+      <vote_number>00003</vote_number>
+      <vote_date>28-Jan</vote_date>
+      <issue>S. 2248</issue>
+      <question>On the Cloture Motion <measure>S.Amdt. 3911</measure></question>
+      <result>Rejected</result>
+      <vote_tally>
+        <yeas>48</yeas>
+        <nays>45</nays>
+      </vote_tally>
+      <title>Motion to Invoke Cloture on Amdt. No. 3911 to S. 2248; In the nature of a substitute.</title>
+    </vote>
+    <vote>
+      <vote_number>00002</vote_number>
+      <vote_date>24-Jan</vote_date>
+      <issue>S. 2248</issue>
+      <question>On the Motion to Table</question>
+      <result>Agreed to</result>
+      <vote_tally>
+        <yeas>60</yeas>
+        <nays>36</nays>
+      </vote_tally>
+      <title>Motion to Table Committee on the Judiciary Reported Substitute Amendment, as Modified, to S.2248; An original bill to amend the Foreign Intelligence Surveillance Act of 1978, to modernize and streamline the provisions of that Act, and for other purposes.</title>
+    </vote>
+    <vote>
+      <vote_number>00001</vote_number>
+      <vote_date>22-Jan</vote_date>
+      <issue>H.R. 4986</issue>
+      <question>On Passage of the Bill</question>
+      <result>Passed</result>
+      <vote_tally>
+        <yeas>91</yeas>
+        <nays>3</nays>
+      </vote_tally>
+      <title>H.R.4986; A bill to provide for the enactment of the National Defense Authorization Act for Fiscal Year 2008, as previously enrolled, with certain modifications to address the foreign sovereign immunities provisions of title 28, United States Code, with respect to the attachment of property in certain judgements against Iraq, the lapse of statutory authorities for the payment of bonuses, special pays, and similar benefits for members of the uniformed services, and for other purposes.</title>
+    </vote>
+  </votes>
+</vote_summary>

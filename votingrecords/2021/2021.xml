@@ -1,0 +1,3802 @@
+<?xml version="1.0" encoding="UTF-8"?><vote_summary>
+  <congress>116</congress>
+  <session>2</session>
+  <congress_year>2020</congress_year>
+  <votes>
+    <vote>
+      <vote_number>00292</vote_number>
+      <vote_date>01-Jan</vote_date>
+      <issue>H.R. 6395</issue>
+      <question>On Overriding the Veto
+         </question>
+      <result>Veto Overridden</result>
+      <vote_tally>
+        <yeas>81</yeas>
+        <nays>13</nays>
+      </vote_tally>
+      <title>Shall the Bill H.R. 6395 Pass, the Objections of the President of the United States to the Contrary Notwithstanding?; To authorize appropriations for fiscal year 2021 for military activities of the Department of Defense, for military construction, and for defense activities of the Department of Energy, to prescribe military personnel strengths for such fiscal year, and for other purposes.</title>
+    </vote>
+    <vote>
+      <vote_number>00291</vote_number>
+      <vote_date>01-Jan</vote_date>
+      <issue>H.R. 6395</issue>
+      <question>On the Cloture Motion
+         </question>
+      <result>Agreed to</result>
+      <vote_tally>
+        <yeas>80</yeas>
+        <nays>12</nays>
+      </vote_tally>
+      <title>Motion to Invoke Cloture on the Veto Message on H.R. 6395; To authorize appropriations for fiscal year 2021 for military activities of the Department of Defense, for military construction, and for defense activities of the Department of Energy, to prescribe military personnel strengths for such fiscal year, and for other purposes.</title>
+    </vote>
+    <vote>
+      <vote_number>00290</vote_number>
+      <vote_date>30-Dec</vote_date>
+      <issue>H.R. 6395</issue>
+      <question>On the Motion to Proceed
+         </question>
+      <result>Agreed to</result>
+      <vote_tally>
+        <yeas>80</yeas>
+        <nays>12</nays>
+      </vote_tally>
+      <title>Motion to Proceed to the Consideration of the Veto Message on H.R. 6395; To authorize appropriations for fiscal year 2021 for military activities of the Department of Defense, for military construction, and for defense activities of the Department of Energy, to prescribe military personnel strengths for such fiscal year, and for other purposes.</title>
+    </vote>
+    <vote>
+      <vote_number>00289</vote_number>
+      <vote_date>21-Dec</vote_date>
+      <issue>H.R. 133</issue>
+      <question>On the Motion
+         </question>
+      <result>Agreed to</result>
+      <vote_tally>
+        <yeas>92</yeas>
+        <nays>6</nays>
+      </vote_tally>
+      <title>Motion to Concur in the House Amendment to the Senate Amendment to H.R. 133; Making consolidated appropriations for the fiscal year ending September 30, 2021, providing coronavirus emergency response and relief, and for other purposes.</title>
+    </vote>
+    <vote>
+      <vote_number>00288</vote_number>
+      <vote_date>21-Dec</vote_date>
+      <issue>PN2029</issue>
+      <question>On the Nomination
+         </question>
+      <result>Confirmed</result>
+      <vote_tally>
+        <yeas>48</yeas>
+        <nays>47</nays>
+      </vote_tally>
+      <title>Confirmation: Eric J. Soskin, of Virginia, to be Inspector General, Department of Transportation</title>
+    </vote>
+    <vote>
+      <vote_number>00287</vote_number>
+      <vote_date>21-Dec</vote_date>
+      <issue>PN2029</issue>
+      <question>On the Cloture Motion
+         </question>
+      <result>Agreed to</result>
+      <vote_tally>
+        <yeas>48</yeas>
+        <nays>44</nays>
+      </vote_tally>
+      <title>Upon Reconsideration Motion to Invoke Cloture: Eric J. Soskin to be Inspector General, Department of Transportation</title>
+    </vote>
+    <vote>
+      <vote_number>00286</vote_number>
+      <vote_date>21-Dec</vote_date>
+      <issue>PN2029</issue>
+      <question>On the Motion to Reconsider
+         </question>
+      <result>Agreed to</result>
+      <vote_tally>
+        <yeas>48</yeas>
+        <nays>46</nays>
+      </vote_tally>
+      <title>Motion to Reconsider the Motion to Invoke Cloture on the Nomination of Eric J. Soskin, of Virginia, to be Inspector General, Department of Transportation</title>
+    </vote>
+    <vote>
+      <vote_number>00285</vote_number>
+      <vote_date>21-Dec</vote_date>
+      <issue>PN2029</issue>
+      <question>On the Motion to Proceed
+         </question>
+      <result>Agreed to</result>
+      <vote_tally>
+        <yeas>48</yeas>
+        <nays>46</nays>
+      </vote_tally>
+      <title>Motion to Proceed to the Motion to Reconsider the Motion to Invoke Cloture on the Nomination of Eric J. Soskin, of Virginia, to be Inspector General, Department of Transportation</title>
+    </vote>
+    <vote>
+      <vote_number>00284</vote_number>
+      <vote_date>20-Dec</vote_date>
+      <issue>PN1380</issue>
+      <question>On the Nomination
+         </question>
+      <result>Confirmed</result>
+      <vote_tally>
+        <yeas>80</yeas>
+        <nays>8</nays>
+      </vote_tally>
+      <title>Confirmation: Fernando L. Aenlle-Rocha, of California, to be U.S. District Judge for the Central District of California</title>
+    </vote>
+    <vote>
+      <vote_number>00283</vote_number>
+      <vote_date>20-Dec</vote_date>
+      <issue>PN1380</issue>
+      <question>On the Cloture Motion
+         </question>
+      <result>Agreed to</result>
+      <vote_tally>
+        <yeas>82</yeas>
+        <nays>7</nays>
+      </vote_tally>
+      <title>Motion to Invoke Cloture: Fernando L. Aenlle-Rocha to be U.S. District Judge for the Central District of California</title>
+    </vote>
+    <vote>
+      <vote_number>00282</vote_number>
+      <vote_date>20-Dec</vote_date>
+      <issue>PN1610</issue>
+      <question>On the Nomination
+         </question>
+      <result>Confirmed</result>
+      <vote_tally>
+        <yeas>84</yeas>
+        <nays>5</nays>
+      </vote_tally>
+      <title>Confirmation: Brian Noland, of Tennessee, to be a Member of the Board of Directors of the Tennessee Valley Authority</title>
+    </vote>
+    <vote>
+      <vote_number>00281</vote_number>
+      <vote_date>20-Dec</vote_date>
+      <issue>PN1610</issue>
+      <question>On the Cloture Motion
+         </question>
+      <result>Agreed to</result>
+      <vote_tally>
+        <yeas>84</yeas>
+        <nays>5</nays>
+      </vote_tally>
+      <title>Motion to Invoke Cloture: Brian Noland to be a Member of the Board of Directors of the Tennessee Valley Authority</title>
+    </vote>
+    <vote>
+      <vote_number>00280</vote_number>
+      <vote_date>19-Dec</vote_date>
+      <issue>PN1609</issue>
+      <question>On the Nomination
+         </question>
+      <result>Confirmed</result>
+      <vote_tally>
+        <yeas>59</yeas>
+        <nays>25</nays>
+      </vote_tally>
+      <title>Confirmation: Beth Harwell, of Tennessee, to be a Member of the Board of Directors of the Tennessee Valley Authority</title>
+    </vote>
+    <vote>
+      <vote_number>00279</vote_number>
+      <vote_date>19-Dec</vote_date>
+      <issue>PN1609</issue>
+      <question>On the Cloture Motion
+         </question>
+      <result>Agreed to</result>
+      <vote_tally>
+        <yeas>61</yeas>
+        <nays>25</nays>
+      </vote_tally>
+      <title>Motion to Invoke Cloture: Beth Harwell to be a Member of the Board of Directors of the Tennessee Valley Authority</title>
+    </vote>
+    <vote>
+      <vote_number>00278</vote_number>
+      <vote_date>19-Dec</vote_date>
+      <issue>PN2029</issue>
+      <question>On the Cloture Motion
+         </question>
+      <result>Rejected</result>
+      <vote_tally>
+        <yeas>39</yeas>
+        <nays>48</nays>
+      </vote_tally>
+      <title>Motion to Invoke Cloture: Eric J. Soskin to be Inspector General, Department of Transportation</title>
+    </vote>
+    <vote>
+      <vote_number>00277</vote_number>
+      <vote_date>19-Dec</vote_date>
+      <issue>PN1425</issue>
+      <question>On the Cloture Motion
+         </question>
+      <result>Rejected</result>
+      <vote_tally>
+        <yeas>39</yeas>
+        <nays>48</nays>
+      </vote_tally>
+      <title>Motion to Invoke Cloture: John Chase Johnson to be Inspector General, Federal Communications Commission</title>
+    </vote>
+    <vote>
+      <vote_number>00276</vote_number>
+      <vote_date>19-Dec</vote_date>
+      <issue>PN2093</issue>
+      <question>On the Nomination
+         </question>
+      <result>Confirmed</result>
+      <vote_tally>
+        <yeas>51</yeas>
+        <nays>36</nays>
+      </vote_tally>
+      <title>Confirmation: Thompson Michael Dietz, of New Jersey, to be a Judge of the U.S. Court of Federal Claims</title>
+    </vote>
+    <vote>
+      <vote_number>00275</vote_number>
+      <vote_date>19-Dec</vote_date>
+      <issue>PN2093</issue>
+      <question>On the Cloture Motion
+         </question>
+      <result>Agreed to</result>
+      <vote_tally>
+        <yeas>50</yeas>
+        <nays>37</nays>
+      </vote_tally>
+      <title>Motion to Invoke Cloture: Thompson Michael Dietz to be a Judge of the U.S. Court of Federal Claims</title>
+    </vote>
+    <vote>
+      <vote_number>00274</vote_number>
+      <vote_date>17-Dec</vote_date>
+      <issue>PN2209</issue>
+      <question>On the Nomination
+         </question>
+      <result>Confirmed</result>
+      <vote_tally>
+        <yeas>52</yeas>
+        <nays>43</nays>
+      </vote_tally>
+      <title>Confirmation: Zachary N. Somers, of the District of Columbia, to be a Judge of the U.S. Court of Federal Claims</title>
+    </vote>
+    <vote>
+      <vote_number>00273</vote_number>
+      <vote_date>17-Dec</vote_date>
+      <issue>PN2209</issue>
+      <question>On the Cloture Motion
+         </question>
+      <result>Agreed to</result>
+      <vote_tally>
+        <yeas>52</yeas>
+        <nays>42</nays>
+      </vote_tally>
+      <title>Motion to Invoke Cloture: Zachary N. Somers to be a Judge of the U.S. Court of Federal Claims</title>
+    </vote>
+    <vote>
+      <vote_number>00272</vote_number>
+      <vote_date>17-Dec</vote_date>
+      <issue>PN2246</issue>
+      <question>On the Nomination
+         </question>
+      <result>Confirmed</result>
+      <vote_tally>
+        <yeas>54</yeas>
+        <nays>41</nays>
+      </vote_tally>
+      <title>Confirmation: Charles Edward Atchley, Jr., of Tennessee, to be U.S. District Judge for the Eastern District of Tennessee</title>
+    </vote>
+    <vote>
+      <vote_number>00271</vote_number>
+      <vote_date>16-Dec</vote_date>
+      <issue>PN2246</issue>
+      <question>On the Cloture Motion
+         </question>
+      <result>Agreed to</result>
+      <vote_tally>
+        <yeas>54</yeas>
+        <nays>41</nays>
+      </vote_tally>
+      <title>Motion to Invoke Cloture: Charles Edward Atchley, Jr. to be U.S. District Judge for the Eastern District of Tennessee</title>
+    </vote>
+    <vote>
+      <vote_number>00270</vote_number>
+      <vote_date>16-Dec</vote_date>
+      <issue>PN2294</issue>
+      <question>On the Nomination
+         </question>
+      <result>Confirmed</result>
+      <vote_tally>
+        <yeas>56</yeas>
+        <nays>39</nays>
+      </vote_tally>
+      <title>Confirmation: Joseph Dawson III, of South Carolina, to be U.S. District Judge for the District of South Carolina</title>
+    </vote>
+    <vote>
+      <vote_number>00269</vote_number>
+      <vote_date>16-Dec</vote_date>
+      <issue>PN2294</issue>
+      <question>On the Cloture Motion
+         </question>
+      <result>Agreed to</result>
+      <vote_tally>
+        <yeas>56</yeas>
+        <nays>39</nays>
+      </vote_tally>
+      <title>Motion to Invoke Cloture: Joseph Dawson III to be U.S. District Judge for the District of South Carolina</title>
+    </vote>
+    <vote>
+      <vote_number>00268</vote_number>
+      <vote_date>16-Dec</vote_date>
+      <issue>PN2247</issue>
+      <question>On the Nomination
+         </question>
+      <result>Confirmed</result>
+      <vote_tally>
+        <yeas>48</yeas>
+        <nays>47</nays>
+      </vote_tally>
+      <title>Confirmation: Katherine A. Crytzer, of Tennessee, to be U.S. District Judge for the Eastern District of Tennessee</title>
+    </vote>
+    <vote>
+      <vote_number>00267</vote_number>
+      <vote_date>15-Dec</vote_date>
+      <issue>PN2247</issue>
+      <question>On the Cloture Motion
+         </question>
+      <result>Agreed to</result>
+      <vote_tally>
+        <yeas>48</yeas>
+        <nays>47</nays>
+      </vote_tally>
+      <title>Motion to Invoke Cloture: Katherine A. Crytzer to be U.S. District Judge for the Eastern District of Tennessee</title>
+    </vote>
+    <vote>
+      <vote_number>00266</vote_number>
+      <vote_date>15-Dec</vote_date>
+      <issue>PN2333</issue>
+      <question>On the Nomination
+         </question>
+      <result>Confirmed</result>
+      <vote_tally>
+        <yeas>51</yeas>
+        <nays>44</nays>
+      </vote_tally>
+      <title>Confirmation: Thomas L. Kirsch II, of Indiana, to be U.S. Circuit Judge for the Seventh Circuit</title>
+    </vote>
+    <vote>
+      <vote_number>00265</vote_number>
+      <vote_date>14-Dec</vote_date>
+      <issue>PN2333</issue>
+      <question>On the Cloture Motion
+         </question>
+      <result>Agreed to</result>
+      <vote_tally>
+        <yeas>51</yeas>
+        <nays>42</nays>
+      </vote_tally>
+      <title>Motion to Invoke Cloture: Thomas L. Kirsch II to be U.S. Circuit Judge for the Seventh Circuit</title>
+    </vote>
+    <vote>
+      <vote_number>00264</vote_number>
+      <vote_date>11-Dec</vote_date>
+      <issue>H.R. 6395</issue>
+      <question>On the Conference Report
+         </question>
+      <result>Agreed to</result>
+      <vote_tally>
+        <yeas>84</yeas>
+        <nays>13</nays>
+      </vote_tally>
+      <title>Conference Report to Accompany H.R. 6395; To authorize appropriations for fiscal year 2021 for military activities of the Department of Defense, for military construction, and for defense activities of the Department of Energy, to prescribe military personnel strengths for such fiscal year, and for other purposes.</title>
+    </vote>
+    <vote>
+      <vote_number>00263</vote_number>
+      <vote_date>11-Dec</vote_date>
+      <issue>H.R. 6395</issue>
+      <question>On the Cloture Motion
+         </question>
+      <result>Agreed to</result>
+      <vote_tally>
+        <yeas>84</yeas>
+        <nays>13</nays>
+      </vote_tally>
+      <title>Motion to Invoke Cloture: Conference Report to Accompany H.R. 6395; To authorize appropriations for fiscal year 2021 for military activities of the Department of Defense, for military construction, and for defense activities of the Department of Energy, to prescribe military personnel strengths for such fiscal year, and for other purposes.</title>
+    </vote>
+    <vote>
+      <vote_number>00262</vote_number>
+      <vote_date>09-Dec</vote_date>
+      <issue>S.J.Res. 78</issue>
+      <question>On the Motion to Discharge
+         </question>
+      <result>Rejected</result>
+      <vote_tally>
+        <yeas>47</yeas>
+        <nays>49</nays>
+      </vote_tally>
+      <title>Motion to Discharge S.J. Res. 78; A joint resolution providing for congressional disapproval of the proposed foreign  military sale to the United Arab Emirates of certain defense articles and services.</title>
+    </vote>
+    <vote>
+      <vote_number>00261</vote_number>
+      <vote_date>09-Dec</vote_date>
+      <issue>S.J.Res. 77</issue>
+      <question>On the Motion to Discharge
+         </question>
+      <result>Rejected</result>
+      <vote_tally>
+        <yeas>46</yeas>
+        <nays>50</nays>
+      </vote_tally>
+      <title>Motion to Discharge S.J. Res. 77; A joint resolution providing for congressional disapproval of the proposed foreign military sale to the United Arab Emirates of certain defense articles and services.</title>
+    </vote>
+    <vote>
+      <vote_number>00260</vote_number>
+      <vote_date>09-Dec</vote_date>
+      <issue>PN2303</issue>
+      <question>On the Nomination
+         </question>
+      <result>Confirmed</result>
+      <vote_tally>
+        <yeas>50</yeas>
+        <nays>46</nays>
+      </vote_tally>
+      <title>Confirmation: Sean J. Cooksey, of Missouri, to be a Member of the Federal Election Commission</title>
+    </vote>
+    <vote>
+      <vote_number>00259</vote_number>
+      <vote_date>09-Dec</vote_date>
+      <issue>PN2302</issue>
+      <question>On the Nomination
+         </question>
+      <result>Confirmed</result>
+      <vote_tally>
+        <yeas>92</yeas>
+        <nays>4</nays>
+      </vote_tally>
+      <title>Confirmation: Shana M. Broussard, of Louisiana, to be a Member of the Federal Election Commission</title>
+    </vote>
+    <vote>
+      <vote_number>00258</vote_number>
+      <vote_date>09-Dec</vote_date>
+      <issue>PN2237</issue>
+      <question>On the Nomination
+         </question>
+      <result>Confirmed</result>
+      <vote_tally>
+        <yeas>49</yeas>
+        <nays>47</nays>
+      </vote_tally>
+      <title>Confirmation: Allen Dickerson, of the District of Columbia, to be a Member of the Federal Election Commission</title>
+    </vote>
+    <vote>
+      <vote_number>00257</vote_number>
+      <vote_date>08-Dec</vote_date>
+      <issue>PN2239</issue>
+      <question>On the Nomination
+         </question>
+      <result>Confirmed</result>
+      <vote_tally>
+        <yeas>49</yeas>
+        <nays>46</nays>
+      </vote_tally>
+      <title>Confirmation: Nathan A. Simington, of Virginia, to be a Member of the Federal Communications Commission</title>
+    </vote>
+    <vote>
+      <vote_number>00256</vote_number>
+      <vote_date>08-Dec</vote_date>
+      <issue>PN1384</issue>
+      <question>On the Nomination
+         </question>
+      <result>Confirmed</result>
+      <vote_tally>
+        <yeas>49</yeas>
+        <nays>47</nays>
+      </vote_tally>
+      <title>Confirmation: Stephen Sidney Schwartz, of Virginia, to be a Judge of the United States Court of Federal Claims</title>
+    </vote>
+    <vote>
+      <vote_number>00255</vote_number>
+      <vote_date>08-Dec</vote_date>
+      <issue>PN2239</issue>
+      <question>On the Cloture Motion
+         </question>
+      <result>Agreed to</result>
+      <vote_tally>
+        <yeas>49</yeas>
+        <nays>47</nays>
+      </vote_tally>
+      <title>Motion to Invoke Cloture: Nathan A. Simington to be a Member of the Federal Communications Commission</title>
+    </vote>
+    <vote>
+      <vote_number>00254</vote_number>
+      <vote_date>07-Dec</vote_date>
+      <issue>PN1384</issue>
+      <question>On the Cloture Motion
+         </question>
+      <result>Agreed to</result>
+      <vote_tally>
+        <yeas>48</yeas>
+        <nays>46</nays>
+      </vote_tally>
+      <title>Motion to Invoke Cloture: Stephen Sidney Schwartz to be a Judge of the United States Court of Federal Claims</title>
+    </vote>
+    <vote>
+      <vote_number>00253</vote_number>
+      <vote_date>03-Dec</vote_date>
+      <issue>PN1913</issue>
+      <question>On the Nomination
+         </question>
+      <result>Confirmed</result>
+      <vote_tally>
+        <yeas>59</yeas>
+        <nays>34</nays>
+      </vote_tally>
+      <title>Confirmation: Liam P. Hardy, of Virginia, to be a Judge of the United States Court of Appeals for the Armed Forces</title>
+    </vote>
+    <vote>
+      <vote_number>00252</vote_number>
+      <vote_date>03-Dec</vote_date>
+      <issue>PN1913</issue>
+      <question>On the Cloture Motion
+         </question>
+      <result>Agreed to</result>
+      <vote_tally>
+        <yeas>61</yeas>
+        <nays>34</nays>
+      </vote_tally>
+      <title>Motion to Invoke Cloture: Liam P. Hardy to be a Judge of the United States Court of Appeals for the Armed Forces</title>
+    </vote>
+    <vote>
+      <vote_number>00251</vote_number>
+      <vote_date>03-Dec</vote_date>
+      <issue>PN1423</issue>
+      <question>On the Nomination
+         </question>
+      <result>Confirmed</result>
+      <vote_tally>
+        <yeas>48</yeas>
+        <nays>47</nays>
+      </vote_tally>
+      <title>Confirmation: Christopher Waller, of Minnesota, to be a Member of the Board of Governors of the Federal Reserve System</title>
+    </vote>
+    <vote>
+      <vote_number>00250</vote_number>
+      <vote_date>02-Dec</vote_date>
+      <issue>S. 578</issue>
+      <question>On Passage of the Bill
+         </question>
+      <result>Passed</result>
+      <vote_tally>
+        <yeas>96</yeas>
+        <nays>1</nays>
+      </vote_tally>
+      <title>S. 578; A bill to amend title II of the Social Security Act to eliminate the five-month waiting period for disability insurance benefits under such title for individuals with amyotrophic lateral sclerosis.</title>
+    </vote>
+    <vote>
+      <vote_number>00249</vote_number>
+      <vote_date>02-Dec</vote_date>
+      <issue>S. 578</issue>
+      <question>On the Amendment
+        <measure>S.Amdt. 2689</measure></question>
+      <result>Rejected</result>
+      <vote_tally>
+        <yeas>48</yeas>
+        <nays>49</nays>
+      </vote_tally>
+      <title>Grassley Amdt. No. 2689; To increase the overpayment collection threshold for old-age, survivors, and disability insurance benefits.</title>
+    </vote>
+    <vote>
+      <vote_number>00248</vote_number>
+      <vote_date>02-Dec</vote_date>
+      <issue>PN1433</issue>
+      <question>On the Nomination
+         </question>
+      <result>Confirmed</result>
+      <vote_tally>
+        <yeas>51</yeas>
+        <nays>45</nays>
+      </vote_tally>
+      <title>Confirmation: Kathryn C. Davis, of Maryland, to be a Judge of the U.S. Court of Federal Claims</title>
+    </vote>
+    <vote>
+      <vote_number>00247</vote_number>
+      <vote_date>02-Dec</vote_date>
+      <issue>PN1423</issue>
+      <question>On the Cloture Motion
+         </question>
+      <result>Agreed to</result>
+      <vote_tally>
+        <yeas>50</yeas>
+        <nays>45</nays>
+      </vote_tally>
+      <title>Motion to Invoke Cloture: Christopher Waller to be a Member of the Board of Governors of the Federal Reserve System</title>
+    </vote>
+    <vote>
+      <vote_number>00246</vote_number>
+      <vote_date>02-Dec</vote_date>
+      <issue>PN1433</issue>
+      <question>On the Cloture Motion
+         </question>
+      <result>Agreed to</result>
+      <vote_tally>
+        <yeas>51</yeas>
+        <nays>44</nays>
+      </vote_tally>
+      <title>Motion to Invoke Cloture: Kathryn C. Davis to be a Judge of the U.S. Court of Federal Claims</title>
+    </vote>
+    <vote>
+      <vote_number>00245</vote_number>
+      <vote_date>02-Dec</vote_date>
+      <issue>PN2023</issue>
+      <question>On the Nomination
+         </question>
+      <result>Confirmed</result>
+      <vote_tally>
+        <yeas>56</yeas>
+        <nays>39</nays>
+      </vote_tally>
+      <title>Confirmation: Kyle Hauptman, of Maine, to be a Member of the National Credit Union Administration Board</title>
+    </vote>
+    <vote>
+      <vote_number>00244</vote_number>
+      <vote_date>01-Dec</vote_date>
+      <issue>PN2023</issue>
+      <question>On the Cloture Motion
+         </question>
+      <result>Agreed to</result>
+      <vote_tally>
+        <yeas>56</yeas>
+        <nays>37</nays>
+      </vote_tally>
+      <title>Motion to Invoke Cloture: Kyle Hauptman to be a Member of the National Credit Union Administration Board</title>
+    </vote>
+    <vote>
+      <vote_number>00243</vote_number>
+      <vote_date>01-Dec</vote_date>
+      <issue>PN1660</issue>
+      <question>On the Nomination
+         </question>
+      <result>Confirmed</result>
+      <vote_tally>
+        <yeas>58</yeas>
+        <nays>35</nays>
+      </vote_tally>
+      <title>Confirmation: J. Philip Calabrese, of Ohio, to be U.S. District Judge for the Northern District of Ohio</title>
+    </vote>
+    <vote>
+      <vote_number>00242</vote_number>
+      <vote_date>01-Dec</vote_date>
+      <issue>PN1660</issue>
+      <question>On the Cloture Motion
+         </question>
+      <result>Agreed to</result>
+      <vote_tally>
+        <yeas>58</yeas>
+        <nays>35</nays>
+      </vote_tally>
+      <title>Motion to Invoke Cloture: J. Philip Calabrese to be U.S. District Judge for the Northern District of Ohio</title>
+    </vote>
+    <vote>
+      <vote_number>00241</vote_number>
+      <vote_date>01-Dec</vote_date>
+      <issue>PN2094</issue>
+      <question>On the Nomination
+         </question>
+      <result>Confirmed</result>
+      <vote_tally>
+        <yeas>53</yeas>
+        <nays>39</nays>
+      </vote_tally>
+      <title>Confirmation: Taylor B. McNeel, of Mississippi, to be U.S. District Judge for the Southern District of Mississippi</title>
+    </vote>
+    <vote>
+      <vote_number>00240</vote_number>
+      <vote_date>30-Nov</vote_date>
+      <issue>PN2094</issue>
+      <question>On the Cloture Motion
+         </question>
+      <result>Agreed to</result>
+      <vote_tally>
+        <yeas>52</yeas>
+        <nays>36</nays>
+      </vote_tally>
+      <title>Motion to Invoke Cloture: Taylor B. McNeel to be U.S. District Judge for the Southern District of Mississippi</title>
+    </vote>
+    <vote>
+      <vote_number>00239</vote_number>
+      <vote_date>18-Nov</vote_date>
+      <issue>PN2208</issue>
+      <question>On the Nomination
+         </question>
+      <result>Confirmed</result>
+      <vote_tally>
+        <yeas>49</yeas>
+        <nays>41</nays>
+      </vote_tally>
+      <title>Confirmation: Kathryn Kimball Mizelle, of Florida, to be United States District Judge for the Middle District of Florida</title>
+    </vote>
+    <vote>
+      <vote_number>00238</vote_number>
+      <vote_date>18-Nov</vote_date>
+      <issue>PN2208</issue>
+      <question>On the Cloture Motion
+         </question>
+      <result>Agreed to</result>
+      <vote_tally>
+        <yeas>49</yeas>
+        <nays>43</nays>
+      </vote_tally>
+      <title>Motion to Invoke Cloture: Kathryn Kimball Mizelle to be United States District Judge for the Middle District of Florida</title>
+    </vote>
+    <vote>
+      <vote_number>00237</vote_number>
+      <vote_date>18-Nov</vote_date>
+      <issue>PN1328</issue>
+      <question>On the Nomination
+         </question>
+      <result>Confirmed</result>
+      <vote_tally>
+        <yeas>49</yeas>
+        <nays>43</nays>
+      </vote_tally>
+      <title>Confirmation: Stephen A. Vaden, of Tennessee, to be a Judge of the United States Court of International Trade</title>
+    </vote>
+    <vote>
+      <vote_number>00236</vote_number>
+      <vote_date>18-Nov</vote_date>
+      <issue>PN1328</issue>
+      <question>On the Cloture Motion
+         </question>
+      <result>Agreed to</result>
+      <vote_tally>
+        <yeas>49</yeas>
+        <nays>44</nays>
+      </vote_tally>
+      <title>Motion to Invoke Cloture: Stephen A. Vaden, of Tennessee, to be a Judge of the United States Court of International Trade</title>
+    </vote>
+    <vote>
+      <vote_number>00235</vote_number>
+      <vote_date>17-Nov</vote_date>
+      <issue>PN1920</issue>
+      <question>On the Nomination
+         </question>
+      <result>Confirmed</result>
+      <vote_tally>
+        <yeas>50</yeas>
+        <nays>43</nays>
+      </vote_tally>
+      <title>Confirmation: Toby Crouse, of Kansas, to be United States District Judge for the District of Kansas</title>
+    </vote>
+    <vote>
+      <vote_number>00234</vote_number>
+      <vote_date>17-Nov</vote_date>
+      <issue>PN1920</issue>
+      <question>On the Cloture Motion
+         </question>
+      <result>Agreed to</result>
+      <vote_tally>
+        <yeas>51</yeas>
+        <nays>44</nays>
+      </vote_tally>
+      <title>Motion to Invoke Cloture: Toby Crouse, of Kansas, to be United States District Judge for the District of Kansas</title>
+    </vote>
+    <vote>
+      <vote_number>00233</vote_number>
+      <vote_date>17-Nov</vote_date>
+      <issue>PN1422</issue>
+      <question>On the Cloture Motion
+         </question>
+      <result>Rejected</result>
+      <vote_tally>
+        <yeas>47</yeas>
+        <nays>50</nays>
+      </vote_tally>
+      <title>Motion to Invoke Cloture: Judy Shelton to be a Member of the Board of Governors of the Federal Reserve System</title>
+    </vote>
+    <vote>
+      <vote_number>00232</vote_number>
+      <vote_date>17-Nov</vote_date>
+      <issue>PN2205</issue>
+      <question>On the Nomination
+         </question>
+      <result>Confirmed</result>
+      <vote_tally>
+        <yeas>52</yeas>
+        <nays>44</nays>
+      </vote_tally>
+      <title>Confirmation: Benjamin Joel Beaton, of Kentucky, to be United States District Judge for the Western District of Kentucky</title>
+    </vote>
+    <vote>
+      <vote_number>00231</vote_number>
+      <vote_date>17-Nov</vote_date>
+      <issue>PN2205</issue>
+      <question>On the Cloture Motion
+         </question>
+      <result>Agreed to</result>
+      <vote_tally>
+        <yeas>52</yeas>
+        <nays>44</nays>
+      </vote_tally>
+      <title>Motion to Invoke Cloture: Benjamin Joel Beaton to be United States District Judge for the Western District of Kentucky</title>
+    </vote>
+    <vote>
+      <vote_number>00230</vote_number>
+      <vote_date>17-Nov</vote_date>
+      <issue>PN1742</issue>
+      <question>On the Nomination
+         </question>
+      <result>Confirmed</result>
+      <vote_tally>
+        <yeas>53</yeas>
+        <nays>43</nays>
+      </vote_tally>
+      <title>Confirmation: Kristi Haskins Johnson, of Mississippi, to be U.S. District Judge for the Southern District of Mississippi</title>
+    </vote>
+    <vote>
+      <vote_number>00229</vote_number>
+      <vote_date>16-Nov</vote_date>
+      <issue>PN1742</issue>
+      <question>On the Cloture Motion
+         </question>
+      <result>Agreed to</result>
+      <vote_tally>
+        <yeas>51</yeas>
+        <nays>38</nays>
+      </vote_tally>
+      <title>Motion to Invoke Cloture: Kristi Haskins Johnson to be U.S. District Judge for the Southern District of Mississippi</title>
+    </vote>
+    <vote>
+      <vote_number>00228</vote_number>
+      <vote_date>12-Nov</vote_date>
+      <issue>PN1919</issue>
+      <question>On the Nomination
+         </question>
+      <result>Confirmed</result>
+      <vote_tally>
+        <yeas>56</yeas>
+        <nays>21</nays>
+      </vote_tally>
+      <title>Confirmation: Aileen Mercedes Cannon, of Florida, to be U.S. District Judge for the Southern District of Florida</title>
+    </vote>
+    <vote>
+      <vote_number>00227</vote_number>
+      <vote_date>12-Nov</vote_date>
+      <issue>PN1919</issue>
+      <question>On the Cloture Motion
+         </question>
+      <result>Agreed to</result>
+      <vote_tally>
+        <yeas>57</yeas>
+        <nays>21</nays>
+      </vote_tally>
+      <title>Motion to Invoke Cloture: Aileen Mercedes Cannon to be U.S. District Judge for the Southern District of Florida</title>
+    </vote>
+    <vote>
+      <vote_number>00226</vote_number>
+      <vote_date>10-Nov</vote_date>
+      <issue>PN1661</issue>
+      <question>On the Nomination
+         </question>
+      <result>Confirmed</result>
+      <vote_tally>
+        <yeas>64</yeas>
+        <nays>24</nays>
+      </vote_tally>
+      <title>Confirmation: James Ray Knepp II, of Ohio, to be U.S. District Judge for the Northern District of Ohio</title>
+    </vote>
+    <vote>
+      <vote_number>00225</vote_number>
+      <vote_date>09-Nov</vote_date>
+      <issue>PN1661</issue>
+      <question>On the Cloture Motion
+         </question>
+      <result>Agreed to</result>
+      <vote_tally>
+        <yeas>62</yeas>
+        <nays>23</nays>
+      </vote_tally>
+      <title>Motion to Invoke Cloture: James Ray Knepp II to be U.S. District Judge for the Northern District of Ohio</title>
+    </vote>
+    <vote>
+      <vote_number>00224</vote_number>
+      <vote_date>26-Oct</vote_date>
+      <issue>PN2252</issue>
+      <question>On the Nomination
+         </question>
+      <result>Confirmed</result>
+      <vote_tally>
+        <yeas>52</yeas>
+        <nays>48</nays>
+      </vote_tally>
+      <title>Confirmation: Amy Coney Barrett, of Indiana, to be an Associate Justice of the Supreme Court of the United States</title>
+    </vote>
+    <vote>
+      <vote_number>00223</vote_number>
+      <vote_date>26-Oct</vote_date>
+      <issue>PN2252</issue>
+      <question>On the Decision of the Chair
+         </question>
+      <result>Sustained</result>
+      <vote_tally>
+        <yeas>53</yeas>
+        <nays>46</nays>
+      </vote_tally>
+      <title>Shall the Decision of the Chair Stand as the Judgment of the Senate?</title>
+    </vote>
+    <vote>
+      <vote_number>00222</vote_number>
+      <vote_date>25-Oct</vote_date>
+      <issue>PN2252</issue>
+      <question>On the Cloture Motion
+         </question>
+      <result>Agreed to</result>
+      <vote_tally>
+        <yeas>51</yeas>
+        <nays>48</nays>
+      </vote_tally>
+      <title>Motion to Invoke Cloture: Amy Coney Barrett to be an Associate Justice of the Supreme Court of the United States</title>
+    </vote>
+    <vote>
+      <vote_number>00221</vote_number>
+      <vote_date>23-Oct</vote_date>
+      <issue>PN2252</issue>
+      <question>On the Motion
+         </question>
+      <result>Agreed to</result>
+      <vote_tally>
+        <yeas>53</yeas>
+        <nays>43</nays>
+      </vote_tally>
+      <title>Motion to Recess</title>
+    </vote>
+    <vote>
+      <vote_number>00220</vote_number>
+      <vote_date>23-Oct</vote_date>
+      <issue>PN2252</issue>
+      <question>On the Motion to Table
+         </question>
+      <result>Agreed to</result>
+      <vote_tally>
+        <yeas>53</yeas>
+        <nays>43</nays>
+      </vote_tally>
+      <title>Motion to Table the Appealing of the Ruling of the Chair</title>
+    </vote>
+    <vote>
+      <vote_number>00219</vote_number>
+      <vote_date>23-Oct</vote_date>
+      <issue>PN2252</issue>
+      <question>On the Motion to Table the Motion to Recommit
+         </question>
+      <result>Agreed to</result>
+      <vote_tally>
+        <yeas>53</yeas>
+        <nays>44</nays>
+      </vote_tally>
+      <title>Motion to Table the Motion to Recommit the Barrett Nomination to the Committee on the Judiciary</title>
+    </vote>
+    <vote>
+      <vote_number>00218</vote_number>
+      <vote_date>23-Oct</vote_date>
+      <issue>PN2252</issue>
+      <question>On the Motion to Table
+         </question>
+      <result>Agreed to</result>
+      <vote_tally>
+        <yeas>53</yeas>
+        <nays>44</nays>
+      </vote_tally>
+      <title>Motion to Table the Motion to Indefinitely Postpone the Barrett Nomination</title>
+    </vote>
+    <vote>
+      <vote_number>00217</vote_number>
+      <vote_date>23-Oct</vote_date>
+      <issue>PN2252</issue>
+      <question>On the Motion to Proceed
+         </question>
+      <result>Agreed to</result>
+      <vote_tally>
+        <yeas>51</yeas>
+        <nays>46</nays>
+      </vote_tally>
+      <title>Motion to Proceed to Executive Session to Consider the Nomination of Amy Coney Barrett to be an Associate Justice of the Supreme Court of the United States</title>
+    </vote>
+    <vote data_available="no">
+      <vote_number>00216</vote_number>
+      <vote_date>23-Oct</vote_date>
+      <issue/>
+      <question/>
+      <result/>
+      <vote_tally>
+        <yeas/>
+        <nays/>
+      </vote_tally>
+      <title>Vote data is unavailable due to secret session.</title>
+    </vote>
+    <vote>
+      <vote_number>00215</vote_number>
+      <vote_date>23-Oct</vote_date>
+      <issue>PN2252</issue>
+      <question>On the Motion to Proceed
+         </question>
+      <result>Agreed to</result>
+      <vote_tally>
+        <yeas>53</yeas>
+        <nays>43</nays>
+      </vote_tally>
+      <title>Motion to Proceed to Legislative Session</title>
+    </vote>
+    <vote>
+      <vote_number>00214</vote_number>
+      <vote_date>22-Oct</vote_date>
+      <issue>PN1663</issue>
+      <question>On the Motion
+         </question>
+      <result>Agreed to</result>
+      <vote_tally>
+        <yeas>53</yeas>
+        <nays>43</nays>
+      </vote_tally>
+      <title>Motion to Recess</title>
+    </vote>
+    <vote>
+      <vote_number>00213</vote_number>
+      <vote_date>22-Oct</vote_date>
+      <issue>PN1663</issue>
+      <question>On the Nomination
+         </question>
+      <result>Confirmed</result>
+      <vote_tally>
+        <yeas>67</yeas>
+        <nays>30</nays>
+      </vote_tally>
+      <title>Confirmation: Michael Jay Newman, of Ohio, to be U.S. District Judge for the Southern District of Ohio</title>
+    </vote>
+    <vote>
+      <vote_number>00212</vote_number>
+      <vote_date>22-Oct</vote_date>
+      <issue>PN1663</issue>
+      <question>On the Decision of the Chair
+         </question>
+      <result>Sustained</result>
+      <vote_tally>
+        <yeas>53</yeas>
+        <nays>44</nays>
+      </vote_tally>
+      <title>Shall the Decision of the Chair Stand as the Judgment of the Senate?</title>
+    </vote>
+    <vote>
+      <vote_number>00211</vote_number>
+      <vote_date>22-Oct</vote_date>
+      <issue>PN1663</issue>
+      <question>On the Cloture Motion
+         </question>
+      <result>Agreed to</result>
+      <vote_tally>
+        <yeas>66</yeas>
+        <nays>31</nays>
+      </vote_tally>
+      <title>Motion to Invoke Cloture: Michael Jay Newman to be U.S. District Judge for the Southern District of Ohio</title>
+    </vote>
+    <vote>
+      <vote_number>00210</vote_number>
+      <vote_date>22-Oct</vote_date>
+      <issue>PN1663</issue>
+      <question>On the Motion to Proceed
+         </question>
+      <result>Rejected</result>
+      <vote_tally>
+        <yeas>45</yeas>
+        <nays>51</nays>
+      </vote_tally>
+      <title>Motion to Proceed to Legislative Session</title>
+    </vote>
+    <vote>
+      <vote_number>00209</vote_number>
+      <vote_date>21-Oct</vote_date>
+      <issue>PN1663</issue>
+      <question>On the Motion to Table
+         </question>
+      <result>Agreed to</result>
+      <vote_tally>
+        <yeas>53</yeas>
+        <nays>41</nays>
+      </vote_tally>
+      <title>Motion to Table the Appealing of the Ruling of the Chair</title>
+    </vote>
+    <vote>
+      <vote_number>00208</vote_number>
+      <vote_date>21-Oct</vote_date>
+      <issue>PN1663</issue>
+      <question>On the Motion to Table
+         </question>
+      <result>Agreed to</result>
+      <vote_tally>
+        <yeas>51</yeas>
+        <nays>44</nays>
+      </vote_tally>
+      <title>Motion to Table the Appealing of the Ruling of the Chair</title>
+    </vote>
+    <vote>
+      <vote_number>00207</vote_number>
+      <vote_date>21-Oct</vote_date>
+      <issue>S. 178</issue>
+      <question>On the Cloture Motion
+         </question>
+      <result>Rejected</result>
+      <vote_tally>
+        <yeas>51</yeas>
+        <nays>44</nays>
+      </vote_tally>
+      <title>Motion to Invoke Cloture on the Motion to Concur in the House Amendment to S. 178 with Amendment No. 2652; A bill to condemn gross human rights violations of ethnic Turkic Muslims in Xinjiang, and calling for an end to arbitrary detention, torture, and harassment of these communities inside and outside China.</title>
+    </vote>
+    <vote>
+      <vote_number>00206</vote_number>
+      <vote_date>20-Oct</vote_date>
+      <issue>PN1663</issue>
+      <question>On the Motion to Table
+         </question>
+      <result>Agreed to</result>
+      <vote_tally>
+        <yeas>52</yeas>
+        <nays>43</nays>
+      </vote_tally>
+      <title>Motion to Table the Appealing of the Ruling of the Chair</title>
+    </vote>
+    <vote>
+      <vote_number>00205</vote_number>
+      <vote_date>20-Oct</vote_date>
+      <issue>PN1663</issue>
+      <question>On the Motion to Proceed
+         </question>
+      <result>Agreed to</result>
+      <vote_tally>
+        <yeas>52</yeas>
+        <nays>43</nays>
+      </vote_tally>
+      <title>Motion to Proceed to Executive Session to Consider Michael Newman to be U.S. District Judge for the Southern District of Ohio</title>
+    </vote>
+    <vote>
+      <vote_number>00204</vote_number>
+      <vote_date>20-Oct</vote_date>
+      <issue>S. 4675</issue>
+      <question>On the Motion to Table
+         </question>
+      <result>Rejected</result>
+      <vote_tally>
+        <yeas>45</yeas>
+        <nays>52</nays>
+      </vote_tally>
+      <title>Motion to Table the Motion to Proceed to S. 4675; A bill to amend the Health Insurance Portability and Accountability Act.</title>
+    </vote>
+    <vote>
+      <vote_number>00203</vote_number>
+      <vote_date>20-Oct</vote_date>
+      <issue>S. 178</issue>
+      <question>On the Motion to Table
+        <measure>S.Amdt. 2680</measure></question>
+      <result>Rejected</result>
+      <vote_tally>
+        <yeas>40</yeas>
+        <nays>57</nays>
+      </vote_tally>
+      <title>Motion to Table McConnell Amdt. No. 2680; To improve the small business programs.</title>
+    </vote>
+    <vote>
+      <vote_number>00202</vote_number>
+      <vote_date>19-Oct</vote_date>
+      <issue>S. 178</issue>
+      <question>On the Motion to Table
+         </question>
+      <result>Agreed to</result>
+      <vote_tally>
+        <yeas>48</yeas>
+        <nays>42</nays>
+      </vote_tally>
+      <title>Motion to Table the Appealing of the Ruling of the Chair; A bill to condemn gross human rights violations of ethnic Turkic Muslims in Xinjiang, and calling for an end to arbitrary detention, torture, and harassment of these communities inside and outside China.</title>
+    </vote>
+    <vote>
+      <vote_number>00201</vote_number>
+      <vote_date>19-Oct</vote_date>
+      <issue>H.J.Res. 90</issue>
+      <question>On the Motion to Proceed
+         </question>
+      <result>Rejected</result>
+      <vote_tally>
+        <yeas>43</yeas>
+        <nays>48</nays>
+      </vote_tally>
+      <title>Motion to Proceed to H.J. Res. 90; A joint resolution providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitted by the Office of the Comptroller of the Currency relating to "Community Reinvestment Act Regulations".</title>
+    </vote>
+    <vote>
+      <vote_number>00200</vote_number>
+      <vote_date>01-Oct</vote_date>
+      <issue>S. 4653</issue>
+      <question>On Cloture on the Motion to Proceed
+         </question>
+      <result>Rejected</result>
+      <vote_tally>
+        <yeas>51</yeas>
+        <nays>43</nays>
+      </vote_tally>
+      <title>Motion to Invoke Cloture: Motion to Proceed to S. 4653; A bill to protect the healthcare of hundreds of millions of people of the United States and prevent efforts of the Department of Justice to advocate courts to strike down the Patient Protection and Affordable Care Act.</title>
+    </vote>
+    <vote>
+      <vote_number>00199</vote_number>
+      <vote_date>30-Sep</vote_date>
+      <issue>S. 178</issue>
+      <question>On the Motion to Table
+        <measure>S.Amdt. 2673</measure></question>
+      <result>Rejected</result>
+      <vote_tally>
+        <yeas>47</yeas>
+        <nays>47</nays>
+      </vote_tally>
+      <title>Motion to Table Tillis Amdt. No. 2673; To amend the Health Insurance Portability and Accountability Act to prohibit pre-existing condition exclusions.</title>
+    </vote>
+    <vote>
+      <vote_number>00198</vote_number>
+      <vote_date>30-Sep</vote_date>
+      <issue>S. 178</issue>
+      <question>On the Motion to Proceed
+         </question>
+      <result>Agreed to</result>
+      <vote_tally>
+        <yeas>48</yeas>
+        <nays>46</nays>
+      </vote_tally>
+      <title>Motion to Proceed to the House Message to Accompany S. 178; A bill to condemn gross human rights violations of ethnic Turkic Muslims in Xinjiang, and calling for an end to arbitrary detention, torture, and harassment of these communities inside and outside China.</title>
+    </vote>
+    <vote>
+      <vote_number>00197</vote_number>
+      <vote_date>30-Sep</vote_date>
+      <issue>H.R. 8337</issue>
+      <question>On Passage of the Bill
+         </question>
+      <result>Passed</result>
+      <vote_tally>
+        <yeas>84</yeas>
+        <nays>10</nays>
+      </vote_tally>
+      <title>H.R. 8337; A bill making continuing appropriations for fiscal year 2021, and for other purposes.</title>
+    </vote>
+    <vote>
+      <vote_number>00196</vote_number>
+      <vote_date>29-Sep</vote_date>
+      <issue>H.R. 8337</issue>
+      <question>On the Cloture Motion
+         </question>
+      <result>Agreed to</result>
+      <vote_tally>
+        <yeas>82</yeas>
+        <nays>6</nays>
+      </vote_tally>
+      <title>Motion to Invoke Cloture: H.R. 8337; A bill making continuing appropriations for fiscal year 2021, and for other purposes.</title>
+    </vote>
+    <vote>
+      <vote_number>00195</vote_number>
+      <vote_date>24-Sep</vote_date>
+      <issue>H.R. 8337</issue>
+      <question>On the Motion to Proceed
+         </question>
+      <result>Agreed to</result>
+      <vote_tally>
+        <yeas>93</yeas>
+        <nays>2</nays>
+      </vote_tally>
+      <title>Motion to Proceed to H.R. 8337; A bill making continuing appropriations for fiscal year 2021, and for other purposes.</title>
+    </vote>
+    <vote>
+      <vote_number>00194</vote_number>
+      <vote_date>24-Sep</vote_date>
+      <issue>PN1922</issue>
+      <question>On the Nomination
+         </question>
+      <result>Confirmed</result>
+      <vote_tally>
+        <yeas>93</yeas>
+        <nays>2</nays>
+      </vote_tally>
+      <title>Confirmation: Roderick C. Young, of Virginia, to be United States District Judge for the Eastern District of Virginia</title>
+    </vote>
+    <vote>
+      <vote_number>00193</vote_number>
+      <vote_date>23-Sep</vote_date>
+      <issue>PN1693</issue>
+      <question>On the Nomination
+         </question>
+      <result>Confirmed</result>
+      <vote_tally>
+        <yeas>54</yeas>
+        <nays>42</nays>
+      </vote_tally>
+      <title>Confirmation: Jocelyn Samuels, of Maryland, to be a Member of the Equal Employment Opportunity Commission</title>
+    </vote>
+    <vote>
+      <vote_number>00192</vote_number>
+      <vote_date>23-Sep</vote_date>
+      <issue>PN1922</issue>
+      <question>On the Cloture Motion
+         </question>
+      <result>Agreed to</result>
+      <vote_tally>
+        <yeas>93</yeas>
+        <nays>3</nays>
+      </vote_tally>
+      <title>Motion to Invoke Cloture: Roderick C. Young to be U.S. District Judge for the Eastern District of Virginia</title>
+    </vote>
+    <vote>
+      <vote_number>00191</vote_number>
+      <vote_date>23-Sep</vote_date>
+      <issue>PN1314</issue>
+      <question>On the Nomination
+         </question>
+      <result>Confirmed</result>
+      <vote_tally>
+        <yeas>70</yeas>
+        <nays>27</nays>
+      </vote_tally>
+      <title>Confirmation: John Charles Hinderaker, of Arizona, to be U.S. District Judge for the District of Arizona</title>
+    </vote>
+    <vote>
+      <vote_number>00190</vote_number>
+      <vote_date>23-Sep</vote_date>
+      <issue>PN1314</issue>
+      <question>On the Cloture Motion
+         </question>
+      <result>Agreed to</result>
+      <vote_tally>
+        <yeas>71</yeas>
+        <nays>26</nays>
+      </vote_tally>
+      <title>Motion to Invoke Cloture: John Charles Hinderaker to be U.S. District Judge for the District of Arizona</title>
+    </vote>
+    <vote>
+      <vote_number>00189</vote_number>
+      <vote_date>22-Sep</vote_date>
+      <issue>PN1694</issue>
+      <question>On the Nomination
+         </question>
+      <result>Confirmed</result>
+      <vote_tally>
+        <yeas>52</yeas>
+        <nays>41</nays>
+      </vote_tally>
+      <title>Confirmation: Keith E. Sonderling, of Florida, to be a Member of the Equal Employment Opportunity Commission</title>
+    </vote>
+    <vote>
+      <vote_number>00188</vote_number>
+      <vote_date>22-Sep</vote_date>
+      <issue>PN1694</issue>
+      <question>On the Cloture Motion
+         </question>
+      <result>Agreed to</result>
+      <vote_tally>
+        <yeas>52</yeas>
+        <nays>41</nays>
+      </vote_tally>
+      <title>Motion to Invoke Cloture: Keith E. Sonderling to be a Member of the Equal Employment Opportunity Commission</title>
+    </vote>
+    <vote>
+      <vote_number>00187</vote_number>
+      <vote_date>22-Sep</vote_date>
+      <issue>PN1691</issue>
+      <question>On the Nomination
+         </question>
+      <result>Confirmed</result>
+      <vote_tally>
+        <yeas>49</yeas>
+        <nays>44</nays>
+      </vote_tally>
+      <title>Confirmation: Andrea R. Lucas, of Virginia, to be a Member of the Equal Employment Opportunity Commission</title>
+    </vote>
+    <vote>
+      <vote_number>00186</vote_number>
+      <vote_date>22-Sep</vote_date>
+      <issue>PN1691</issue>
+      <question>On the Cloture Motion
+         </question>
+      <result>Agreed to</result>
+      <vote_tally>
+        <yeas>49</yeas>
+        <nays>44</nays>
+      </vote_tally>
+      <title>Motion to Invoke Cloture: Andrea R. Lucas, to be a Member of the Equal Employment Opportunity Commission</title>
+    </vote>
+    <vote>
+      <vote_number>00185</vote_number>
+      <vote_date>22-Sep</vote_date>
+      <issue>PN1348</issue>
+      <question>On the Nomination
+         </question>
+      <result>Confirmed</result>
+      <vote_tally>
+        <yeas>66</yeas>
+        <nays>27</nays>
+      </vote_tally>
+      <title>Confirmation: Edward Hulvey Meyers, of Maryland, to be a Judge of the U.S. Court of Federal Claims</title>
+    </vote>
+    <vote>
+      <vote_number>00184</vote_number>
+      <vote_date>21-Sep</vote_date>
+      <issue>PN1348</issue>
+      <question>On the Cloture Motion
+         </question>
+      <result>Agreed to</result>
+      <vote_tally>
+        <yeas>65</yeas>
+        <nays>25</nays>
+      </vote_tally>
+      <title>Motion to Invoke Cloture: Edward Hulvey Meyers to be a Judge of the U.S. Court of Federal Claims</title>
+    </vote>
+    <vote>
+      <vote_number>00183</vote_number>
+      <vote_date>17-Sep</vote_date>
+      <issue>PN1508</issue>
+      <question>On the Nomination
+         </question>
+      <result>Confirmed</result>
+      <vote_tally>
+        <yeas>77</yeas>
+        <nays>14</nays>
+      </vote_tally>
+      <title>Confirmation: Iain D. Johnston, of Illinois, to be U.S. District Judge for the Northern District of Illinois</title>
+    </vote>
+    <vote>
+      <vote_number>00182</vote_number>
+      <vote_date>17-Sep</vote_date>
+      <issue>PN1510</issue>
+      <question>On the Nomination
+         </question>
+      <result>Confirmed</result>
+      <vote_tally>
+        <yeas>68</yeas>
+        <nays>26</nays>
+      </vote_tally>
+      <title>Confirmation: Franklin Ulyses Valderrama, of Illinois, to be U.S. District Judge for the Northern District of Illinois</title>
+    </vote>
+    <vote>
+      <vote_number>00181</vote_number>
+      <vote_date>16-Sep</vote_date>
+      <issue>PN1508</issue>
+      <question>On the Cloture Motion
+         </question>
+      <result>Agreed to</result>
+      <vote_tally>
+        <yeas>81</yeas>
+        <nays>15</nays>
+      </vote_tally>
+      <title>Motion to Invoke Cloture: Iain D. Johnston to be U.S. District Judge for the Northern District of Illinois</title>
+    </vote>
+    <vote>
+      <vote_number>00180</vote_number>
+      <vote_date>16-Sep</vote_date>
+      <issue>PN1439</issue>
+      <question>On the Nomination
+         </question>
+      <result>Confirmed</result>
+      <vote_tally>
+        <yeas>55</yeas>
+        <nays>41</nays>
+      </vote_tally>
+      <title>Confirmation: Stephen P. McGlynn, of Illinois, to be U.S. District Judge for the Southern District of Illinois</title>
+    </vote>
+    <vote>
+      <vote_number>00179</vote_number>
+      <vote_date>16-Sep</vote_date>
+      <issue>PN1507</issue>
+      <question>On the Nomination
+         </question>
+      <result>Confirmed</result>
+      <vote_tally>
+        <yeas>55</yeas>
+        <nays>41</nays>
+      </vote_tally>
+      <title>Confirmation: David W. Dugan, of Illinois, to be U.S. District Judge for the Southern District of Illinois</title>
+    </vote>
+    <vote>
+      <vote_number>00178</vote_number>
+      <vote_date>16-Sep</vote_date>
+      <issue>PN1439</issue>
+      <question>On the Cloture Motion
+         </question>
+      <result>Agreed to</result>
+      <vote_tally>
+        <yeas>55</yeas>
+        <nays>42</nays>
+      </vote_tally>
+      <title>Motion to Invoke Cloture: Stephen P. McGlynn to be U.S. District Judge for the Southern District of Illinois</title>
+    </vote>
+    <vote>
+      <vote_number>00177</vote_number>
+      <vote_date>16-Sep</vote_date>
+      <issue>PN1507</issue>
+      <question>On the Cloture Motion
+         </question>
+      <result>Agreed to</result>
+      <vote_tally>
+        <yeas>56</yeas>
+        <nays>40</nays>
+      </vote_tally>
+      <title>Motion to Invoke Cloture: David W. Dugan to be U.S. District Judge for the Southern District of Illinois</title>
+    </vote>
+    <vote>
+      <vote_number>00176</vote_number>
+      <vote_date>16-Sep</vote_date>
+      <issue>PN1538</issue>
+      <question>On the Nomination
+         </question>
+      <result>Confirmed</result>
+      <vote_tally>
+        <yeas>86</yeas>
+        <nays>10</nays>
+      </vote_tally>
+      <title>Confirmation: Todd Wallace Robinson, of California, to be U.S. District Judge for the Southern District of California</title>
+    </vote>
+    <vote>
+      <vote_number>00175</vote_number>
+      <vote_date>15-Sep</vote_date>
+      <issue>PN1531</issue>
+      <question>On the Nomination
+         </question>
+      <result>Confirmed</result>
+      <vote_tally>
+        <yeas>83</yeas>
+        <nays>12</nays>
+      </vote_tally>
+      <title>Confirmation: John W. Holcomb, of California, to be U.S. District Judge for the Central District of California</title>
+    </vote>
+    <vote>
+      <vote_number>00174</vote_number>
+      <vote_date>15-Sep</vote_date>
+      <issue>PN1538</issue>
+      <question>On the Cloture Motion
+         </question>
+      <result>Agreed to</result>
+      <vote_tally>
+        <yeas>83</yeas>
+        <nays>13</nays>
+      </vote_tally>
+      <title>Motion to Invoke Cloture: Todd Wallace Robinson to be U.S. District Judge for the Southern District of California</title>
+    </vote>
+    <vote>
+      <vote_number>00173</vote_number>
+      <vote_date>15-Sep</vote_date>
+      <issue>PN1531</issue>
+      <question>On the Cloture Motion
+         </question>
+      <result>Agreed to</result>
+      <vote_tally>
+        <yeas>83</yeas>
+        <nays>13</nays>
+      </vote_tally>
+      <title>Motion to Invoke Cloture: John W. Holcomb to be U.S. District Judge for the Central District of California</title>
+    </vote>
+    <vote>
+      <vote_number>00172</vote_number>
+      <vote_date>15-Sep</vote_date>
+      <issue>PN1381</issue>
+      <question>On the Nomination
+         </question>
+      <result>Confirmed</result>
+      <vote_tally>
+        <yeas>92</yeas>
+        <nays>4</nays>
+      </vote_tally>
+      <title>Confirmation: Stanley Blumenfeld, of California, to be U.S. District Judge for the Central District of California</title>
+    </vote>
+    <vote>
+      <vote_number>00171</vote_number>
+      <vote_date>15-Sep</vote_date>
+      <issue>PN1381</issue>
+      <question>On the Cloture Motion
+         </question>
+      <result>Agreed to</result>
+      <vote_tally>
+        <yeas>89</yeas>
+        <nays>6</nays>
+      </vote_tally>
+      <title>Motion to Invoke Cloture: Stanley Blumenfeld to be U.S. District Judge for the Central District of California</title>
+    </vote>
+    <vote>
+      <vote_number>00170</vote_number>
+      <vote_date>15-Sep</vote_date>
+      <issue>PN1383</issue>
+      <question>On the Nomination
+         </question>
+      <result>Confirmed</result>
+      <vote_tally>
+        <yeas>83</yeas>
+        <nays>12</nays>
+      </vote_tally>
+      <title>Confirmation: Mark C. Scarsi, of California, to be U.S. District Judge for the Central District of California</title>
+    </vote>
+    <vote>
+      <vote_number>00169</vote_number>
+      <vote_date>14-Sep</vote_date>
+      <issue>PN1383</issue>
+      <question>On the Cloture Motion
+         </question>
+      <result>Agreed to</result>
+      <vote_tally>
+        <yeas>77</yeas>
+        <nays>12</nays>
+      </vote_tally>
+      <title>Motion to Invoke Cloture: Mark C. Scarsi to be U.S. District Judge for the Central District of California</title>
+    </vote>
+    <vote>
+      <vote_number>00168</vote_number>
+      <vote_date>10-Sep</vote_date>
+      <issue>S. 178</issue>
+      <question>On the Cloture Motion
+         </question>
+      <result>Rejected</result>
+      <vote_tally>
+        <yeas>52</yeas>
+        <nays>47</nays>
+      </vote_tally>
+      <title>Motion to Invoke Cloture: on the Motion to Concur in the House Amendment to S. 178 with Amendment No. 2652; A bill to condemn gross human rights violations of ethnic Turkic Muslims in Xinjiang, and calling for an end to arbitrary detention, torture, and harassment of these communities inside and outside China.</title>
+    </vote>
+    <vote>
+      <vote_number>00167</vote_number>
+      <vote_date>10-Sep</vote_date>
+      <issue>PN775</issue>
+      <question>On the Nomination
+         </question>
+      <result>Confirmed</result>
+      <vote_tally>
+        <yeas>99</yeas>
+        <nays>0</nays>
+      </vote_tally>
+      <title>Confirmation: Diane Gujarati, of New York, to be U.S. District Judge for the Eastern District of New York</title>
+    </vote>
+    <vote>
+      <vote_number>00166</vote_number>
+      <vote_date>10-Sep</vote_date>
+      <issue>PN1431</issue>
+      <question>On the Nomination
+         </question>
+      <result>Confirmed</result>
+      <vote_tally>
+        <yeas>79</yeas>
+        <nays>19</nays>
+      </vote_tally>
+      <title>Confirmation: Thomas T. Cullen, of Virginia, to be U.S. District Judge for the Western District of Virginia</title>
+    </vote>
+    <vote>
+      <vote_number>00165</vote_number>
+      <vote_date>10-Sep</vote_date>
+      <issue>PN1713</issue>
+      <question>On the Nomination
+         </question>
+      <result>Confirmed</result>
+      <vote_tally>
+        <yeas>83</yeas>
+        <nays>15</nays>
+      </vote_tally>
+      <title>Confirmation: Hala Y. Jarbou, of Michigan, to be U.S. District Judge for the Western District of Michigan</title>
+    </vote>
+    <vote>
+      <vote_number>00164</vote_number>
+      <vote_date>09-Sep</vote_date>
+      <issue>PN775</issue>
+      <question>On the Cloture Motion
+         </question>
+      <result>Agreed to</result>
+      <vote_tally>
+        <yeas>94</yeas>
+        <nays>2</nays>
+      </vote_tally>
+      <title>Motion to Invoke Cloture: Diane Gujarati to be U.S. District Judge for the Eastern District of New York</title>
+    </vote>
+    <vote>
+      <vote_number>00163</vote_number>
+      <vote_date>09-Sep</vote_date>
+      <issue>PN1431</issue>
+      <question>On the Cloture Motion
+         </question>
+      <result>Agreed to</result>
+      <vote_tally>
+        <yeas>77</yeas>
+        <nays>18</nays>
+      </vote_tally>
+      <title>Motion to Invoke Cloture: Thomas T. Cullen to be U.S. District Judge for the Western District of Virginia</title>
+    </vote>
+    <vote>
+      <vote_number>00162</vote_number>
+      <vote_date>09-Sep</vote_date>
+      <issue>PN1511</issue>
+      <question>On the Nomination
+         </question>
+      <result>Confirmed</result>
+      <vote_tally>
+        <yeas>82</yeas>
+        <nays>14</nays>
+      </vote_tally>
+      <title>Confirmation: Christy Criswell Wiegand, of Pennsylvania, to be U.S. District Judge for the Western District of Pennsylvania</title>
+    </vote>
+    <vote>
+      <vote_number>00161</vote_number>
+      <vote_date>09-Sep</vote_date>
+      <issue>PN1713</issue>
+      <question>On the Cloture Motion
+         </question>
+      <result>Agreed to</result>
+      <vote_tally>
+        <yeas>80</yeas>
+        <nays>15</nays>
+      </vote_tally>
+      <title>Motion to Invoke Cloture: Hala Y. Jarbou to be U.S. District Judge for the Western District of Michigan</title>
+    </vote>
+    <vote>
+      <vote_number>00160</vote_number>
+      <vote_date>09-Sep</vote_date>
+      <issue>PN1511</issue>
+      <question>On the Cloture Motion
+         </question>
+      <result>Agreed to</result>
+      <vote_tally>
+        <yeas>80</yeas>
+        <nays>16</nays>
+      </vote_tally>
+      <title>Motion to Invoke Cloture: Christy Criswell Wiegand to be U.S. District Judge for the Western District of Pennsylvania</title>
+    </vote>
+    <vote>
+      <vote_number>00159</vote_number>
+      <vote_date>09-Sep</vote_date>
+      <issue>PN1662</issue>
+      <question>On the Nomination
+         </question>
+      <result>Confirmed</result>
+      <vote_tally>
+        <yeas>91</yeas>
+        <nays>5</nays>
+      </vote_tally>
+      <title>Confirmation: Brett H. Ludwig, of Wisconsin, to be U.S. District Judge for the Eastern District of Wisconsin</title>
+    </vote>
+    <vote>
+      <vote_number>00158</vote_number>
+      <vote_date>08-Sep</vote_date>
+      <issue>PN1662</issue>
+      <question>On the Cloture Motion
+         </question>
+      <result>Agreed to</result>
+      <vote_tally>
+        <yeas>83</yeas>
+        <nays>6</nays>
+      </vote_tally>
+      <title>Motion to Invoke Cloture: Brett H. Ludwig to be U.S. District Judge for the Eastern District of Wisconsin</title>
+    </vote>
+    <vote>
+      <vote_number>00157</vote_number>
+      <vote_date>06-Aug</vote_date>
+      <issue>PN1599</issue>
+      <question>On the Nomination
+         </question>
+      <result>Confirmed</result>
+      <vote_tally>
+        <yeas>55</yeas>
+        <nays>42</nays>
+      </vote_tally>
+      <title>Confirmation: John Peter Cronan, of New York, to be U.S. District Judge for the Southern District of New York</title>
+    </vote>
+    <vote>
+      <vote_number>00156</vote_number>
+      <vote_date>06-Aug</vote_date>
+      <issue>PN1599</issue>
+      <question>On the Cloture Motion
+         </question>
+      <result>Agreed to</result>
+      <vote_tally>
+        <yeas>55</yeas>
+        <nays>42</nays>
+      </vote_tally>
+      <title>Motion to Invoke Cloture: John Peter Cronan, of New York, to be U.S. District Judge for the Southern District of New York</title>
+    </vote>
+    <vote>
+      <vote_number>00155</vote_number>
+      <vote_date>04-Aug</vote_date>
+      <issue>PN1683</issue>
+      <question>On the Nomination
+         </question>
+      <result>Confirmed</result>
+      <vote_tally>
+        <yeas>79</yeas>
+        <nays>16</nays>
+      </vote_tally>
+      <title>Confirmation: Mark Wesley Menezes, of Virginia, to be Deputy Secretary of Energy</title>
+    </vote>
+    <vote>
+      <vote_number>00154</vote_number>
+      <vote_date>03-Aug</vote_date>
+      <issue>PN1683</issue>
+      <question>On the Cloture Motion
+         </question>
+      <result>Agreed to</result>
+      <vote_tally>
+        <yeas>78</yeas>
+        <nays>14</nays>
+      </vote_tally>
+      <title>Motion to Invoke Cloture: Mark Wesley Menezes to be Deputy Secretary of Energy</title>
+    </vote>
+    <vote>
+      <vote_number>00153</vote_number>
+      <vote_date>30-Jul</vote_date>
+      <issue>S. 178</issue>
+      <question>On the Motion to Proceed
+         </question>
+      <result>Agreed to</result>
+      <vote_tally>
+        <yeas>47</yeas>
+        <nays>42</nays>
+      </vote_tally>
+      <title>Motion to Proceed to the House Message to Accompany S.178; A bill to condemn gross human rights violations of ethnic Turkic Muslims in Xinjiang, and calling for an end to arbitrary detention, torture, and harassment of these communities inside and outside China.</title>
+    </vote>
+    <vote>
+      <vote_number>00152</vote_number>
+      <vote_date>30-Jul</vote_date>
+      <issue>PN1937</issue>
+      <question>On the Nomination
+         </question>
+      <result>Confirmed</result>
+      <vote_tally>
+        <yeas>71</yeas>
+        <nays>21</nays>
+      </vote_tally>
+      <title>Confirmation: Derek Kan, of California, to be Deputy Director of the Office of Management and Budget</title>
+    </vote>
+    <vote>
+      <vote_number>00151</vote_number>
+      <vote_date>29-Jul</vote_date>
+      <issue>PN1692</issue>
+      <question>On the Nomination
+         </question>
+      <result>Confirmed</result>
+      <vote_tally>
+        <yeas>53</yeas>
+        <nays>42</nays>
+      </vote_tally>
+      <title>Confirmation: Lauren McGarity McFerran, of the District of Columbia, to be a Member of the National Labor Relations Board</title>
+    </vote>
+    <vote>
+      <vote_number>00150</vote_number>
+      <vote_date>29-Jul</vote_date>
+      <issue>PN1692</issue>
+      <question>On the Cloture Motion
+         </question>
+      <result>Agreed to</result>
+      <vote_tally>
+        <yeas>56</yeas>
+        <nays>41</nays>
+      </vote_tally>
+      <title>Motion to Invoke Cloture: Lauren McGarity McFerran to be a Member of the National Labor Relations Board</title>
+    </vote>
+    <vote>
+      <vote_number>00149</vote_number>
+      <vote_date>29-Jul</vote_date>
+      <issue>PN1690</issue>
+      <question>On the Nomination
+         </question>
+      <result>Confirmed</result>
+      <vote_tally>
+        <yeas>52</yeas>
+        <nays>46</nays>
+      </vote_tally>
+      <title>Confirmation: Marvin Kaplan, of Kansas, to be a Member of the National Labor Relations Board</title>
+    </vote>
+    <vote>
+      <vote_number>00148</vote_number>
+      <vote_date>29-Jul</vote_date>
+      <issue>PN1690</issue>
+      <question>On the Cloture Motion
+         </question>
+      <result>Agreed to</result>
+      <vote_tally>
+        <yeas>52</yeas>
+        <nays>46</nays>
+      </vote_tally>
+      <title>Motion to Invoke Cloture: Marvin Kaplan to be a Member of the National Labor Relations Board</title>
+    </vote>
+    <vote>
+      <vote_number>00147</vote_number>
+      <vote_date>29-Jul</vote_date>
+      <issue>PN1937</issue>
+      <question>On the Cloture Motion
+         </question>
+      <result>Agreed to</result>
+      <vote_tally>
+        <yeas>76</yeas>
+        <nays>22</nays>
+      </vote_tally>
+      <title>Motion to Invoke Cloture: Derek Kan to be Deputy Director of the Office of Management and Budget</title>
+    </vote>
+    <vote>
+      <vote_number>00146</vote_number>
+      <vote_date>28-Jul</vote_date>
+      <issue>PN1605</issue>
+      <question>On the Nomination
+         </question>
+      <result>Confirmed</result>
+      <vote_tally>
+        <yeas>57</yeas>
+        <nays>40</nays>
+      </vote_tally>
+      <title>Confirmation: Dana T. Wade, of Washington D.C., to be an Assistant Secretary of Housing and Urban Development</title>
+    </vote>
+    <vote>
+      <vote_number>00145</vote_number>
+      <vote_date>28-Jul</vote_date>
+      <issue>PN1347</issue>
+      <question>On the Nomination
+         </question>
+      <result>Confirmed</result>
+      <vote_tally>
+        <yeas>55</yeas>
+        <nays>42</nays>
+      </vote_tally>
+      <title>Confirmation: David Cleveland Joseph, of Louisiana, to be U.S. District Judge for the Western District of Louisiana</title>
+    </vote>
+    <vote>
+      <vote_number>00144</vote_number>
+      <vote_date>28-Jul</vote_date>
+      <issue>PN1605</issue>
+      <question>On the Cloture Motion
+         </question>
+      <result>Agreed to</result>
+      <vote_tally>
+        <yeas>57</yeas>
+        <nays>40</nays>
+      </vote_tally>
+      <title>Motion to Invoke Cloture: Dana T. Wade to be an Assistant Secretary of Housing and Urban Development</title>
+    </vote>
+    <vote>
+      <vote_number>00143</vote_number>
+      <vote_date>28-Jul</vote_date>
+      <issue>PN1347</issue>
+      <question>On the Cloture Motion
+         </question>
+      <result>Agreed to</result>
+      <vote_tally>
+        <yeas>55</yeas>
+        <nays>42</nays>
+      </vote_tally>
+      <title>Motion to Invoke Cloture: David Cleveland Joseph to be U.S. District Judge for the Western District of Louisiana</title>
+    </vote>
+    <vote>
+      <vote_number>00142</vote_number>
+      <vote_date>27-Jul</vote_date>
+      <issue>PN1345</issue>
+      <question>On the Nomination
+         </question>
+      <result>Confirmed</result>
+      <vote_tally>
+        <yeas>65</yeas>
+        <nays>30</nays>
+      </vote_tally>
+      <title>Confirmation: William Scott Hardy, of Pennsylvania, to be U.S. District Judge for the Western District of Pennsylvania</title>
+    </vote>
+    <vote>
+      <vote_number>00141</vote_number>
+      <vote_date>23-Jul</vote_date>
+      <issue>PN1345</issue>
+      <question>On the Cloture Motion
+         </question>
+      <result>Agreed to</result>
+      <vote_tally>
+        <yeas>60</yeas>
+        <nays>32</nays>
+      </vote_tally>
+      <title>Motion to Invoke Cloture: William Scott Hardy to be U.S. District Judge for the Western District of Pennsylvania</title>
+    </vote>
+    <vote>
+      <vote_number>00140</vote_number>
+      <vote_date>23-Jul</vote_date>
+      <issue>S. 4049</issue>
+      <question>On Passage of the Bill
+         </question>
+      <result>Passed</result>
+      <vote_tally>
+        <yeas>86</yeas>
+        <nays>14</nays>
+      </vote_tally>
+      <title>S. 4049, As Amended; An original bill to authorize appropriations for fiscal year 2021 for military activities of the Department of Defense, for military construction, and for defense activities of the Department of Energy, to prescribe military personnel strengths for such fiscal year, and for other purposes.</title>
+    </vote>
+    <vote>
+      <vote_number>00139</vote_number>
+      <vote_date>23-Jul</vote_date>
+      <issue>S. 4049</issue>
+      <question>On the Cloture Motion
+         </question>
+      <result>Agreed to</result>
+      <vote_tally>
+        <yeas>86</yeas>
+        <nays>14</nays>
+      </vote_tally>
+      <title>Motion to Invoke Cloture: S. 4049; An original bill to authorize appropriations for fiscal year 2021 for military activities of the Department of Defense, for military construction, and for defense activities of the Department of Energy, to prescribe military personnel strengths for such fiscal year, and for other purposes.</title>
+    </vote>
+    <vote>
+      <vote_number>00138</vote_number>
+      <vote_date>23-Jul</vote_date>
+      <issue>S. 4049</issue>
+      <question>On the Amendment
+        <measure>S.Amdt. 2301</measure></question>
+      <result>Agreed to</result>
+      <vote_tally>
+        <yeas>88</yeas>
+        <nays>12</nays>
+      </vote_tally>
+      <title>Inhofe Amdt. No. 2301, As Amended; In the nature of a substitute.</title>
+    </vote>
+    <vote>
+      <vote_number>00137</vote_number>
+      <vote_date>22-Jul</vote_date>
+      <issue>S. 4049</issue>
+      <question>On the Cloture Motion
+        <measure>S.Amdt. 2301</measure></question>
+      <result>Agreed to</result>
+      <vote_tally>
+        <yeas>87</yeas>
+        <nays>13</nays>
+      </vote_tally>
+      <title>Motion to Invoke Cloture: Inhofe Amdt. No. 2301, As Amended, to S. 4049; In the nature of a substitute.</title>
+    </vote>
+    <vote>
+      <vote_number>00136</vote_number>
+      <vote_date>22-Jul</vote_date>
+      <issue>S. 4049</issue>
+      <question>On the Amendment
+        <measure>S.Amdt. 1972</measure></question>
+      <result>Agreed to</result>
+      <vote_tally>
+        <yeas>94</yeas>
+        <nays>6</nays>
+      </vote_tally>
+      <title>Tester Amdt. No. 1972, As Modified; To expand the list of diseases associated with exposure to certain herbicide agents for which there is a presumption of service connection for veterans who served in the Republic of Vietnam.</title>
+    </vote>
+    <vote>
+      <vote_number>00135</vote_number>
+      <vote_date>22-Jul</vote_date>
+      <issue>S. 4049</issue>
+      <question>On the Amendment
+        <measure>S.Amdt. 1788</measure></question>
+      <result>Rejected</result>
+      <vote_tally>
+        <yeas>23</yeas>
+        <nays>77</nays>
+      </vote_tally>
+      <title>Sanders Amdt. No. 1788; To reduce the bloated Pentagon budget by 10 percent and invest that money in jobs, education, health care, and housing in communities in the United States in which the poverty rate is not less than 25 percent.</title>
+    </vote>
+    <vote>
+      <vote_number>00134</vote_number>
+      <vote_date>21-Jul</vote_date>
+      <issue>S. 4049</issue>
+      <question>On the Amendment
+        <measure>S.Amdt. 2244</measure></question>
+      <result>Agreed to</result>
+      <vote_tally>
+        <yeas>96</yeas>
+        <nays>4</nays>
+      </vote_tally>
+      <title>Cornyn Amdt. No. 2244; To restore American leadership in semiconductor manufacturing by increasing federal incentives in order to enable advanced research and development, secure the supply chain, and ensure long-term national security and economic competitiveness.</title>
+    </vote>
+    <vote>
+      <vote_number>00133</vote_number>
+      <vote_date>21-Jul</vote_date>
+      <issue>S. 4049</issue>
+      <question>On the Amendment
+        <measure>S.Amdt. 2411</measure></question>
+      <result>Agreed to</result>
+      <vote_tally>
+        <yeas>90</yeas>
+        <nays>10</nays>
+      </vote_tally>
+      <title>Inhofe Amdt. No. 2411; To impose additional conditions and limitations on the transfer of Department of Defense property for law enforcement activities.</title>
+    </vote>
+    <vote>
+      <vote_number>00132</vote_number>
+      <vote_date>21-Jul</vote_date>
+      <issue>S. 4049</issue>
+      <question>On the Amendment
+        <measure>S.Amdt. 2252</measure></question>
+      <result>Rejected</result>
+      <vote_tally>
+        <yeas>51</yeas>
+        <nays>49</nays>
+      </vote_tally>
+      <title>Schatz Amdt. No. 2252; To reform Department of Defense transfers of personal property to law enforcement agencies.</title>
+    </vote>
+    <vote>
+      <vote_number>00131</vote_number>
+      <vote_date>20-Jul</vote_date>
+      <issue>PN1726</issue>
+      <question>On the Nomination
+         </question>
+      <result>Confirmed</result>
+      <vote_tally>
+        <yeas>51</yeas>
+        <nays>45</nays>
+      </vote_tally>
+      <title>Confirmation: Russell Vought, of Virginia, to be Director of the Office of Management and Budget</title>
+    </vote>
+    <vote>
+      <vote_number>00130</vote_number>
+      <vote_date>02-Jul</vote_date>
+      <issue>PN1726</issue>
+      <question>On the Cloture Motion
+         </question>
+      <result>Agreed to</result>
+      <vote_tally>
+        <yeas>47</yeas>
+        <nays>44</nays>
+      </vote_tally>
+      <title>Motion to Invoke Cloture: Russell Vought to be Director of the Office of Management and Budget</title>
+    </vote>
+    <vote>
+      <vote_number>00129</vote_number>
+      <vote_date>01-Jul</vote_date>
+      <issue>S. 4049</issue>
+      <question>On the Motion to Table
+        <measure>S.Amdt. 2011</measure></question>
+      <result>Agreed to</result>
+      <vote_tally>
+        <yeas>60</yeas>
+        <nays>33</nays>
+      </vote_tally>
+      <title>Motion to Table Paul Amdt. No. 2011; To withdraw all United States Armed Forces from Afghanistan.</title>
+    </vote>
+    <vote>
+      <vote_number>00128</vote_number>
+      <vote_date>29-Jun</vote_date>
+      <issue>S. 4049</issue>
+      <question>On the Motion to Proceed
+         </question>
+      <result>Agreed to</result>
+      <vote_tally>
+        <yeas>89</yeas>
+        <nays>4</nays>
+      </vote_tally>
+      <title>Motion to Proceed to S. 4049; An original bill to authorize appropriations for fiscal year 2021 for military activities of the Department of Defense, for military construction, and for defense activities of the Department of Energy, to prescribe military personnel strengths for such fiscal year, and for other purposes.</title>
+    </vote>
+    <vote>
+      <vote_number>00127</vote_number>
+      <vote_date>25-Jun</vote_date>
+      <issue>S. 4049</issue>
+      <question>On Cloture on the Motion to Proceed
+         </question>
+      <result>Agreed to</result>
+      <vote_tally>
+        <yeas>90</yeas>
+        <nays>7</nays>
+      </vote_tally>
+      <title>Motion to Invoke Cloture: Motion to Proceed to S. 4049; An original bill to authorize appropriations for fiscal year 2021 for military activities of the Department of Defense, for military construction, and for defense activities of the Department of Energy, to prescribe military personnel strengths for such fiscal year, and for other purposes.</title>
+    </vote>
+    <vote>
+      <vote_number>00126</vote_number>
+      <vote_date>24-Jun</vote_date>
+      <issue>S. 3985</issue>
+      <question>On Cloture on the Motion to Proceed
+         </question>
+      <result>Rejected</result>
+      <vote_tally>
+        <yeas>55</yeas>
+        <nays>45</nays>
+      </vote_tally>
+      <title>Motion to Invoke Cloture: Motion to Proceed to S. 3985; A bill to improve and reform policing practices, accountability, and transparency.</title>
+    </vote>
+    <vote>
+      <vote_number>00125</vote_number>
+      <vote_date>24-Jun</vote_date>
+      <issue>PN1749</issue>
+      <question>On the Nomination
+         </question>
+      <result>Confirmed</result>
+      <vote_tally>
+        <yeas>52</yeas>
+        <nays>48</nays>
+      </vote_tally>
+      <title>Confirmation: Cory T. Wilson, of Mississippi, to be United States Circuit Judge for the Fifth Circuit </title>
+    </vote>
+    <vote>
+      <vote_number>00124</vote_number>
+      <vote_date>22-Jun</vote_date>
+      <issue>PN1749</issue>
+      <question>On the Cloture Motion
+         </question>
+      <result>Agreed to</result>
+      <vote_tally>
+        <yeas>51</yeas>
+        <nays>43</nays>
+      </vote_tally>
+      <title>Motion to Invoke Cloture: Cory T. Wilson to be United States Circuit Judge for the Fifth Circuit</title>
+    </vote>
+    <vote>
+      <vote_number>00123</vote_number>
+      <vote_date>18-Jun</vote_date>
+      <issue>PN1748</issue>
+      <question>On the Nomination
+         </question>
+      <result>Confirmed</result>
+      <vote_tally>
+        <yeas>51</yeas>
+        <nays>42</nays>
+      </vote_tally>
+      <title>Confirmation: Justin Reed Walker, of Kentucky, to be U.S. Circuit Judge for the District of Columbia Circuit </title>
+    </vote>
+    <vote>
+      <vote_number>00122</vote_number>
+      <vote_date>17-Jun</vote_date>
+      <issue>PN1748</issue>
+      <question>On the Cloture Motion
+         </question>
+      <result>Agreed to</result>
+      <vote_tally>
+        <yeas>52</yeas>
+        <nays>46</nays>
+      </vote_tally>
+      <title>Motion to Invoke Cloture: Justin Reed Walker to be U.S. Circuit Judge for the District of Columbia Circuit</title>
+    </vote>
+    <vote>
+      <vote_number>00121</vote_number>
+      <vote_date>17-Jun</vote_date>
+      <issue>H.R. 1957</issue>
+      <question>On Passage of the Bill
+         </question>
+      <result>Passed</result>
+      <vote_tally>
+        <yeas>73</yeas>
+        <nays>25</nays>
+      </vote_tally>
+      <title>H.R. 1957 As Amended; To  amend  title  54,  United  States  Code,  to  establish,  fund,  and  provide  for  the  use  of  amounts  in  a  National  Parks  and  Public  Land  Legacy  Restoration  Fund  to  address  the  maintenance  backlog  of  the  National  Park  Service,  the  United  States  Fish  and  Wildlife  Service,  the  Bureau  of  Land  Management,  the  Forest  Service,  and  the  Bureau  of  Indian  Education,  and  to  provide  permanent,  dedicated   funding   for   the   Land   and   Water   Conservation   Fund, and for other purposes.</title>
+    </vote>
+    <vote>
+      <vote_number>00120</vote_number>
+      <vote_date>15-Jun</vote_date>
+      <issue>H.R. 1957</issue>
+      <question>On the Cloture Motion
+         </question>
+      <result>Agreed to</result>
+      <vote_tally>
+        <yeas>75</yeas>
+        <nays>23</nays>
+      </vote_tally>
+      <title>Motion to Invoke Cloture: H.R. 1957; To  amend  title  54,  United  States  Code,  to  establish,  fund,  and  provide  for  the  use  of  amounts  in  a  National  Parks  and  Public  Land  Legacy  Restoration  Fund  to  address  the  maintenance  backlog  of  the  National  Park  Service,  the  United  States  Fish  and  Wildlife  Service,  the  Bureau  of  Land  Management,  the  Forest  Service,  and  the  Bureau  of  Indian  Education,  and  to  provide  permanent,  dedicated   funding   for   the   Land   and   Water   Conservation   Fund, and for other purposes.</title>
+    </vote>
+    <vote>
+      <vote_number>00119</vote_number>
+      <vote_date>15-Jun</vote_date>
+      <issue>H.R. 1957</issue>
+      <question>On the Amendment
+        <measure>S.Amdt. 1617</measure></question>
+      <result>Agreed to</result>
+      <vote_tally>
+        <yeas>73</yeas>
+        <nays>24</nays>
+      </vote_tally>
+      <title>Gardner Amdt. No. 1617; In the nature of a substitute.</title>
+    </vote>
+    <vote>
+      <vote_number>00118</vote_number>
+      <vote_date>15-Jun</vote_date>
+      <issue>H.R. 1957</issue>
+      <question>On the Motion
+        <measure>S.Amdt. 1617</measure></question>
+      <result>Agreed to</result>
+      <vote_tally>
+        <yeas>68</yeas>
+        <nays>30</nays>
+      </vote_tally>
+      <title>Motion to Waive All Applicable Budgetary Discipline Re: Amdt. No. 1617; In the nature of a substitute.</title>
+    </vote>
+    <vote>
+      <vote_number>00117</vote_number>
+      <vote_date>12-Jun</vote_date>
+      <issue>H.R. 1957</issue>
+      <question>On the Cloture Motion
+        <measure>S.Amdt. 1617</measure></question>
+      <result>Agreed to</result>
+      <vote_tally>
+        <yeas>65</yeas>
+        <nays>19</nays>
+      </vote_tally>
+      <title>Motion to Invoke Cloture on Gardner Amdt. No. 1617; In the nature of a substitute.</title>
+    </vote>
+    <vote>
+      <vote_number>00116</vote_number>
+      <vote_date>10-Jun</vote_date>
+      <issue>H.R. 1957</issue>
+      <question>On the Motion to Proceed
+         </question>
+      <result>Agreed to</result>
+      <vote_tally>
+        <yeas>79</yeas>
+        <nays>18</nays>
+      </vote_tally>
+      <title>Motion to Proceed to H.R. 1957; To  amend  title  54,  United  States  Code,  to  establish,  fund,  and  provide  for  the  use  of  amounts  in  a  National  Parks  and  Public  Land  Legacy  Restoration  Fund  to  address  the  maintenance  backlog  of  the  National  Park  Service,  the  United  States  Fish  and  Wildlife  Service,  the  Bureau  of  Land  Management,  the  Forest  Service,  and  the  Bureau  of  Indian  Education,  and  to  provide  permanent,  dedicated   funding   for   the   Land   and   Water   Conservation   Fund, and for other purposes.</title>
+    </vote>
+    <vote>
+      <vote_number>00115</vote_number>
+      <vote_date>09-Jun</vote_date>
+      <issue>PN1619</issue>
+      <question>On the Nomination
+         </question>
+      <result>Confirmed</result>
+      <vote_tally>
+        <yeas>98</yeas>
+        <nays>0</nays>
+      </vote_tally>
+      <title>Confirmation: Gen. Charles Q. Brown, Jr. to be Chief of Staff of the United States Air Force and to be General</title>
+    </vote>
+    <vote>
+      <vote_number>00114</vote_number>
+      <vote_date>08-Jun</vote_date>
+      <issue>H.R. 1957</issue>
+      <question>On Cloture on the Motion to Proceed
+         </question>
+      <result>Agreed to</result>
+      <vote_tally>
+        <yeas>80</yeas>
+        <nays>17</nays>
+      </vote_tally>
+      <title>Motion to Invoke Cloture: Motion to Proceed to H.R. 1957; To  amend  title  54,  United  States  Code,  to  establish,  fund,  and  provide  for  the  use  of  amounts  in  a  National  Parks  and  Public  Land  Legacy  Restoration  Fund  to  address  the  maintenance  backlog  of  the  National  Park  Service,  the  United  States  Fish  and  Wildlife  Service,  the  Bureau  of  Land  Management,  the  Forest  Service,  and  the  Bureau  of  Indian  Education,  and  to  provide  permanent,  dedicated   funding   for   the   Land   and   Water   Conservation   Fund, and for other purposes.</title>
+    </vote>
+    <vote>
+      <vote_number>00113</vote_number>
+      <vote_date>04-Jun</vote_date>
+      <issue>PN1590</issue>
+      <question>On the Nomination
+         </question>
+      <result>Confirmed</result>
+      <vote_tally>
+        <yeas>53</yeas>
+        <nays>38</nays>
+      </vote_tally>
+      <title>Confirmation: Michael Pack, of Maryland, to be Chief Executive Officer of the Broadcasting Board of Governors</title>
+    </vote>
+    <vote>
+      <vote_number>00112</vote_number>
+      <vote_date>04-Jun</vote_date>
+      <issue>PN1590</issue>
+      <question>On the Cloture Motion
+         </question>
+      <result>Agreed to</result>
+      <vote_tally>
+        <yeas>53</yeas>
+        <nays>39</nays>
+      </vote_tally>
+      <title>Motion to Invoke Cloture: Michael Pack to be Chief Executive Officer of the Broadcasting Board of Governors</title>
+    </vote>
+    <vote>
+      <vote_number>00111</vote_number>
+      <vote_date>03-Jun</vote_date>
+      <issue>PN1440</issue>
+      <question>On the Nomination
+         </question>
+      <result>Confirmed</result>
+      <vote_tally>
+        <yeas>52</yeas>
+        <nays>41</nays>
+      </vote_tally>
+      <title>Confirmation: Drew B. Tipton, of Texas to be U.S. District Judge for the Southern District of Texas</title>
+    </vote>
+    <vote>
+      <vote_number>00110</vote_number>
+      <vote_date>03-Jun</vote_date>
+      <issue>PN1440</issue>
+      <question>On the Cloture Motion
+         </question>
+      <result>Agreed to</result>
+      <vote_tally>
+        <yeas>53</yeas>
+        <nays>42</nays>
+      </vote_tally>
+      <title>Motion to Invoke Cloture: Drew B. Tipton to be U.S. District Judge for the Southern District of Texas</title>
+    </vote>
+    <vote>
+      <vote_number>00109</vote_number>
+      <vote_date>03-Jun</vote_date>
+      <issue>PN1685</issue>
+      <question>On the Nomination
+         </question>
+      <result>Confirmed</result>
+      <vote_tally>
+        <yeas>78</yeas>
+        <nays>17</nays>
+      </vote_tally>
+      <title>Confirmation: James H. Anderson, of Virginia, to be a Deputy Under Secretary of Defense</title>
+    </vote>
+    <vote>
+      <vote_number>00108</vote_number>
+      <vote_date>03-Jun</vote_date>
+      <issue>PN1685</issue>
+      <question>On the Cloture Motion
+         </question>
+      <result>Agreed to</result>
+      <vote_tally>
+        <yeas>74</yeas>
+        <nays>18</nays>
+      </vote_tally>
+      <title>Motion to Invoke Cloture: James H. Anderson to be a Deputy Under Secretary of Defense</title>
+    </vote>
+    <vote>
+      <vote_number>00107</vote_number>
+      <vote_date>02-Jun</vote_date>
+      <issue>PN1715</issue>
+      <question>On the Nomination
+         </question>
+      <result>Confirmed</result>
+      <vote_tally>
+        <yeas>51</yeas>
+        <nays>40</nays>
+      </vote_tally>
+      <title>Confirmation: Brian D. Miller, of Virginia, to be Special Inspector General for Pandemic Recovery</title>
+    </vote>
+    <vote>
+      <vote_number>00106</vote_number>
+      <vote_date>02-Jun</vote_date>
+      <issue>PN1715</issue>
+      <question>On the Cloture Motion
+         </question>
+      <result>Agreed to</result>
+      <vote_tally>
+        <yeas>51</yeas>
+        <nays>40</nays>
+      </vote_tally>
+      <title>Motion to Invoke Cloture: Brian D. Miller to be Special Inspector General for Pandemic Recovery</title>
+    </vote>
+    <vote>
+      <vote_number>00105</vote_number>
+      <vote_date>02-Jun</vote_date>
+      <issue>PN1604</issue>
+      <question>On the Nomination
+         </question>
+      <result>Confirmed</result>
+      <vote_tally>
+        <yeas>75</yeas>
+        <nays>15</nays>
+      </vote_tally>
+      <title>Confirmation: Victor G. Mercado, of California, to be an Assistant Secretary of Defense</title>
+    </vote>
+    <vote>
+      <vote_number>00104</vote_number>
+      <vote_date>02-Jun</vote_date>
+      <issue>PN1604</issue>
+      <question>On the Cloture Motion
+         </question>
+      <result>Agreed to</result>
+      <vote_tally>
+        <yeas>75</yeas>
+        <nays>14</nays>
+      </vote_tally>
+      <title>Motion to Invoke Cloture: Victor G. Mercado to be an Assistant Secretary of Defense</title>
+    </vote>
+    <vote>
+      <vote_number>00103</vote_number>
+      <vote_date>01-Jun</vote_date>
+      <issue>PN1430</issue>
+      <question>On the Nomination
+         </question>
+      <result>Confirmed</result>
+      <vote_tally>
+        <yeas>55</yeas>
+        <nays>22</nays>
+      </vote_tally>
+      <title>Confirmation: John Leonard Badalamenti, of Florida, to be U.S. District Judge for the Middle District of Florida</title>
+    </vote>
+    <vote>
+      <vote_number>00102</vote_number>
+      <vote_date>21-May</vote_date>
+      <issue>PN1430</issue>
+      <question>On the Cloture Motion
+         </question>
+      <result>Agreed to</result>
+      <vote_tally>
+        <yeas>65</yeas>
+        <nays>28</nays>
+      </vote_tally>
+      <title>Motion to Invoke Cloture: John Leonard Badalamenti to be U.S. District Judge for the Middle District of Florida</title>
+    </vote>
+    <vote>
+      <vote_number>00101</vote_number>
+      <vote_date>21-May</vote_date>
+      <issue>PN1615</issue>
+      <question>On the Nomination
+         </question>
+      <result>Confirmed</result>
+      <vote_tally>
+        <yeas>49</yeas>
+        <nays>44</nays>
+      </vote_tally>
+      <title>Confirmation: John L. Ratcliffe, of Texas, to be Director of National Intelligence</title>
+    </vote>
+    <vote>
+      <vote_number>00100</vote_number>
+      <vote_date>20-May</vote_date>
+      <issue>PN1346</issue>
+      <question>On the Nomination
+         </question>
+      <result>Confirmed</result>
+      <vote_tally>
+        <yeas>75</yeas>
+        <nays>17</nays>
+      </vote_tally>
+      <title>Confirmation: John F. Heil III, of Oklahoma, to be U.S. District Judge for the Northern, Eastern and Western Districts of Oklahoma</title>
+    </vote>
+    <vote>
+      <vote_number>00099</vote_number>
+      <vote_date>20-May</vote_date>
+      <issue>PN1438</issue>
+      <question>On the Nomination
+         </question>
+      <result>Confirmed</result>
+      <vote_tally>
+        <yeas>71</yeas>
+        <nays>21</nays>
+      </vote_tally>
+      <title>Confirmation: Anna M. Manasco, of Alabama, to be U.S. District Judge for the Northern District of Alabama</title>
+    </vote>
+    <vote>
+      <vote_number>00098</vote_number>
+      <vote_date>20-May</vote_date>
+      <issue>PN1346</issue>
+      <question>On the Cloture Motion
+         </question>
+      <result>Agreed to</result>
+      <vote_tally>
+        <yeas>76</yeas>
+        <nays>16</nays>
+      </vote_tally>
+      <title>Motion to Invoke Cloture: John F. Heil III to be U.S. District Judge for the Northern, Eastern and Western Districts of Oklahoma</title>
+    </vote>
+    <vote>
+      <vote_number>00097</vote_number>
+      <vote_date>20-May</vote_date>
+      <issue>PN1438</issue>
+      <question>On the Cloture Motion
+         </question>
+      <result>Agreed to</result>
+      <vote_tally>
+        <yeas>72</yeas>
+        <nays>20</nays>
+      </vote_tally>
+      <title>Motion to Invoke Cloture: Anna M. Manasco to be U.S. District Judge for the Northern District of Alabama</title>
+    </vote>
+    <vote>
+      <vote_number>00096</vote_number>
+      <vote_date>19-May</vote_date>
+      <issue>PN1600</issue>
+      <question>On the Nomination
+         </question>
+      <result>Confirmed</result>
+      <vote_tally>
+        <yeas>49</yeas>
+        <nays>43</nays>
+      </vote_tally>
+      <title>Confirmation: James E. Trainor III, of Texas, to be a Member of the Federal Election Commission</title>
+    </vote>
+    <vote>
+      <vote_number>00095</vote_number>
+      <vote_date>19-May</vote_date>
+      <issue>PN1600</issue>
+      <question>On the Cloture Motion
+         </question>
+      <result>Agreed to</result>
+      <vote_tally>
+        <yeas>50</yeas>
+        <nays>43</nays>
+      </vote_tally>
+      <title>Motion to Invoke Cloture: James E. Trainor III to be a Member of the Federal Election Commission</title>
+    </vote>
+    <vote>
+      <vote_number>00094</vote_number>
+      <vote_date>19-May</vote_date>
+      <issue>PN1174</issue>
+      <question>On the Nomination
+         </question>
+      <result>Confirmed</result>
+      <vote_tally>
+        <yeas>74</yeas>
+        <nays>20</nays>
+      </vote_tally>
+      <title>Confirmation: Scott H. Rash, of Arizona, to be U.S. District Judge for the District of Arizona</title>
+    </vote>
+    <vote>
+      <vote_number>00093</vote_number>
+      <vote_date>18-May</vote_date>
+      <issue>PN1174</issue>
+      <question>On the Cloture Motion
+         </question>
+      <result>Agreed to</result>
+      <vote_tally>
+        <yeas>67</yeas>
+        <nays>21</nays>
+      </vote_tally>
+      <title>Motion to Invoke Cloture: Scott H. Rash to be U.S. District Judge for the District of Arizona</title>
+    </vote>
+    <vote>
+      <vote_number>00092</vote_number>
+      <vote_date>14-May</vote_date>
+      <issue>H.R. 6172</issue>
+      <question>On Passage of the Bill
+         </question>
+      <result>Passed</result>
+      <vote_tally>
+        <yeas>80</yeas>
+        <nays>16</nays>
+      </vote_tally>
+      <title>H.R. 6172, As Amended; A bill to amend the Foreign Intelligence Surveillance Act of 1978 to prohibit the production of certain business records, and for other purposes.</title>
+    </vote>
+    <vote>
+      <vote_number>00091</vote_number>
+      <vote_date>14-May</vote_date>
+      <issue>H.R. 6172</issue>
+      <question>On the Amendment
+        <measure>S.Amdt. 1586</measure></question>
+      <result>Rejected</result>
+      <vote_tally>
+        <yeas>11</yeas>
+        <nays>85</nays>
+      </vote_tally>
+      <title>Paul Amdt. No. 1586; To amend the Foreign Intelligence Surveillance Act of 1978 to prohibit the use of authorities under such Act to surveil United States persons and to prohibit the use of information acquired under such Act in any criminal, civil, or administrative proceeding or as part of any criminal, civil, or administrative investigation, and for other purposes.</title>
+    </vote>
+    <vote>
+      <vote_number>00090</vote_number>
+      <vote_date>13-May</vote_date>
+      <issue>H.R. 6172</issue>
+      <question>On the Amendment
+        <measure>S.Amdt. 1584</measure></question>
+      <result>Agreed to</result>
+      <vote_tally>
+        <yeas>77</yeas>
+        <nays>19</nays>
+      </vote_tally>
+      <title>Lee Amdt. No. 1584; To improve the amicus provisions and require the disclosure of relevant information.</title>
+    </vote>
+    <vote>
+      <vote_number>00089</vote_number>
+      <vote_date>13-May</vote_date>
+      <issue>H.R. 6172</issue>
+      <question>On the Amendment
+        <measure>S.Amdt. 1583</measure></question>
+      <result>Rejected</result>
+      <vote_tally>
+        <yeas>59</yeas>
+        <nays>37</nays>
+      </vote_tally>
+      <title>Wyden Amdt. No. 1583; To remove internet website browsing information and search history from scope of authority to access certain business records for foreign intelligence and international terrorism investigations.</title>
+    </vote>
+    <vote>
+      <vote_number>00088</vote_number>
+      <vote_date>12-May</vote_date>
+      <issue>PN514</issue>
+      <question>On the Nomination
+         </question>
+      <result>Confirmed</result>
+      <vote_tally>
+        <yeas>62</yeas>
+        <nays>31</nays>
+      </vote_tally>
+      <title>Confirmation: Troy D. Edgar, of California, to be Chief Financial Officer, Department of Homeland Security</title>
+    </vote>
+    <vote>
+      <vote_number>00087</vote_number>
+      <vote_date>12-May</vote_date>
+      <issue>PN514</issue>
+      <question>On the Cloture Motion
+         </question>
+      <result>Agreed to</result>
+      <vote_tally>
+        <yeas>62</yeas>
+        <nays>31</nays>
+      </vote_tally>
+      <title>Motion to Invoke Cloture: Troy D. Edgar to be Chief Financial Officer, Department of Homeland Security</title>
+    </vote>
+    <vote>
+      <vote_number>00086</vote_number>
+      <vote_date>12-May</vote_date>
+      <issue>PN1155</issue>
+      <question>On the Nomination
+         </question>
+      <result>Confirmed</result>
+      <vote_tally>
+        <yeas>61</yeas>
+        <nays>32</nays>
+      </vote_tally>
+      <title>Confirmation: Brian D. Montgomery, of Texas, to be Deputy Secretary of Housing and Urban Development</title>
+    </vote>
+    <vote>
+      <vote_number>00085</vote_number>
+      <vote_date>11-May</vote_date>
+      <issue>PN1155</issue>
+      <question>On the Cloture Motion
+         </question>
+      <result>Agreed to</result>
+      <vote_tally>
+        <yeas>60</yeas>
+        <nays>29</nays>
+      </vote_tally>
+      <title>Motion to Invoke Cloture: Brian D. Montgomery to be Deputy Secretary of Housing  and Urban Development</title>
+    </vote>
+    <vote>
+      <vote_number>00084</vote_number>
+      <vote_date>07-May</vote_date>
+      <issue>S.J.Res. 68</issue>
+      <question>On Overriding the Veto
+         </question>
+      <result>Veto Sustained</result>
+      <vote_tally>
+        <yeas>49</yeas>
+        <nays>44</nays>
+      </vote_tally>
+      <title>Shall the Joint Resolution S.J. Res. 68 Pass, the Objections of the President of the United States to the Contrary Notwithstanding?; A joint resolution to direct the removal of United States Armed Forces from hostilities against the Islamic Republic of Iran that have not been authorized by Congress.</title>
+    </vote>
+    <vote>
+      <vote_number>00083</vote_number>
+      <vote_date>06-May</vote_date>
+      <issue>PN192</issue>
+      <question>On the Nomination
+         </question>
+      <result>Confirmed</result>
+      <vote_tally>
+        <yeas>84</yeas>
+        <nays>7</nays>
+      </vote_tally>
+      <title>Confirmation: William R. Evanina, of Pennsylvania, to be Director of the National Counterintelligence and Security Center</title>
+    </vote>
+    <vote>
+      <vote_number>00082</vote_number>
+      <vote_date>06-May</vote_date>
+      <issue>PN192</issue>
+      <question>On the Cloture Motion
+         </question>
+      <result>Agreed to</result>
+      <vote_tally>
+        <yeas>83</yeas>
+        <nays>7</nays>
+      </vote_tally>
+      <title>Motion to Invoke Cloture: William R. Evanina to be Director of the National Counterintelligence and Security Center</title>
+    </vote>
+    <vote>
+      <vote_number>00081</vote_number>
+      <vote_date>04-May</vote_date>
+      <issue>PN1247</issue>
+      <question>On the Nomination
+         </question>
+      <result>Confirmed</result>
+      <vote_tally>
+        <yeas>87</yeas>
+        <nays>0</nays>
+      </vote_tally>
+      <title>Confirmation: Robert J. Feitel, of Maryland, to be Inspector General of Nuclear Regulatory Commission</title>
+    </vote>
+    <vote>
+      <vote_number>00080</vote_number>
+      <vote_date>25-Mar</vote_date>
+      <issue>H.R. 748</issue>
+      <question>On Passage of the Bill
+         </question>
+      <result>Passed</result>
+      <vote_tally>
+        <yeas>96</yeas>
+        <nays>0</nays>
+      </vote_tally>
+      <title>H.R. 748 As Amended; A bill to amend the Internal Revenue Code of 1986 to repeal the excise tax on high cost employer-sponsored health coverage.</title>
+    </vote>
+    <vote>
+      <vote_number>00079</vote_number>
+      <vote_date>25-Mar</vote_date>
+      <issue>H.R. 748</issue>
+      <question>On the Amendment
+        <measure>S.Amdt. 1577</measure></question>
+      <result>Rejected</result>
+      <vote_tally>
+        <yeas>48</yeas>
+        <nays>48</nays>
+      </vote_tally>
+      <title>Sasse Amdt No.1577; To ensure that additional unemployment benefits do not result in an individual receiving unemployment compensation that is more than the amount of wages the individual was earning prior to becoming unemployed.</title>
+    </vote>
+    <vote>
+      <vote_number>00078</vote_number>
+      <vote_date>23-Mar</vote_date>
+      <issue>H.R. 748</issue>
+      <question>On Cloture on the Motion to Proceed
+         </question>
+      <result>Rejected</result>
+      <vote_tally>
+        <yeas>49</yeas>
+        <nays>46</nays>
+      </vote_tally>
+      <title>Upon Reconsideration, Motion to Invoke Cloture on the Motion to Proceed to H.R. 748; A bill to amend the Internal Revenue Code of 1986 to repeal the excise tax on high cost employer-sponsored health coverage.</title>
+    </vote>
+    <vote>
+      <vote_number>00077</vote_number>
+      <vote_date>22-Mar</vote_date>
+      <issue>H.R. 748</issue>
+      <question>On Cloture on the Motion to Proceed
+         </question>
+      <result>Rejected</result>
+      <vote_tally>
+        <yeas>47</yeas>
+        <nays>47</nays>
+      </vote_tally>
+      <title>Motion to Invoke Cloture: Re: Motion to Proceed to H.R. 748; A bill to amend the Internal Revenue Code of 1986 to repeal the excise tax on high cost employer-sponsored health coverage.</title>
+    </vote>
+    <vote>
+      <vote_number>00076</vote_number>
+      <vote_date>18-Mar</vote_date>
+      <issue>H.R. 6201</issue>
+      <question>On Passage of the Bill
+         </question>
+      <result>Passed</result>
+      <vote_tally>
+        <yeas>90</yeas>
+        <nays>8</nays>
+      </vote_tally>
+      <title>H.R. 6201; A bill making emergency supplemental appropriations for the fiscal year ending September 30, 2020, and for other purposes.</title>
+    </vote>
+    <vote>
+      <vote_number>00075</vote_number>
+      <vote_date>18-Mar</vote_date>
+      <issue>H.R. 6201</issue>
+      <question>On the Amendment
+        <measure>S.Amdt. 1558</measure></question>
+      <result>Rejected</result>
+      <vote_tally>
+        <yeas>50</yeas>
+        <nays>48</nays>
+      </vote_tally>
+      <title>Johnson Amdt. No.1558; To strike Federally mandated sick pay and paid family leave and replace it with financial support provided through State administered unemployment insurance systems and funds.</title>
+    </vote>
+    <vote>
+      <vote_number>00074</vote_number>
+      <vote_date>18-Mar</vote_date>
+      <issue>H.R. 6201</issue>
+      <question>On the Amendment
+        <measure>S.Amdt. 1559</measure></question>
+      <result>Rejected</result>
+      <vote_tally>
+        <yeas>47</yeas>
+        <nays>51</nays>
+      </vote_tally>
+      <title>Murray Amdt. No.1559; To provide Americans with paid sick time and paid leave so that they can address their own health needs and the health needs of their families.</title>
+    </vote>
+    <vote>
+      <vote_number>00073</vote_number>
+      <vote_date>18-Mar</vote_date>
+      <issue>H.R. 6201</issue>
+      <question>On the Amendment
+        <measure>S.Amdt. 1556</measure></question>
+      <result>Rejected</result>
+      <vote_tally>
+        <yeas>3</yeas>
+        <nays>95</nays>
+      </vote_tally>
+      <title>Paul Amdt. No. 1556; To amend the Internal Revenue Code of 1986 to require a social security number for purposes of the child tax credit, to provide the President the authority to transfer funds as necessary, and to terminate United States military operations and reconstruction activities in Afghanistan.</title>
+    </vote>
+    <vote>
+      <vote_number>00072</vote_number>
+      <vote_date>12-Mar</vote_date>
+      <issue>PN1498</issue>
+      <question>On the Nomination
+         </question>
+      <result>Confirmed</result>
+      <vote_tally>
+        <yeas>52</yeas>
+        <nays>40</nays>
+      </vote_tally>
+      <title>Confirmation: James P. Danly, of Tennessee, to be a Member of the Federal Energy Regulatory Commission</title>
+    </vote>
+    <vote>
+      <vote_number>00071</vote_number>
+      <vote_date>12-Mar</vote_date>
+      <issue>PN1498</issue>
+      <question>On the Cloture Motion
+         </question>
+      <result>Agreed to</result>
+      <vote_tally>
+        <yeas>54</yeas>
+        <nays>40</nays>
+      </vote_tally>
+      <title>Motion to Invoke Cloture: James P. Danly to be a Member of the Federal Energy Regulatory Commission</title>
+    </vote>
+    <vote>
+      <vote_number>00070</vote_number>
+      <vote_date>11-Mar</vote_date>
+      <issue>H.J.Res. 76</issue>
+      <question>On the Joint Resolution
+         </question>
+      <result>Passed</result>
+      <vote_tally>
+        <yeas>53</yeas>
+        <nays>42</nays>
+      </vote_tally>
+      <title>H.J. Res. 76; A joint resolution providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitted by the Department of Education relating to "Borrower Defense Institutional Accountability".</title>
+    </vote>
+    <vote>
+      <vote_number>00069</vote_number>
+      <vote_date>10-Mar</vote_date>
+      <issue>S.J.Res. 56</issue>
+      <question>On the Motion to Proceed
+         </question>
+      <result>Agreed to</result>
+      <vote_tally>
+        <yeas>55</yeas>
+        <nays>41</nays>
+      </vote_tally>
+      <title>Motion To Proceed To: S.J. Res. 56; A joint resolution providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitted by the Department of Education relating to "Borrower Defense Institutional Accountability".</title>
+    </vote>
+    <vote>
+      <vote_number>00068</vote_number>
+      <vote_date>09-Mar</vote_date>
+      <issue>S. 2657</issue>
+      <question>On the Cloture Motion
+         </question>
+      <result>Rejected</result>
+      <vote_tally>
+        <yeas>15</yeas>
+        <nays>73</nays>
+      </vote_tally>
+      <title>Motion to Invoke Cloture on S. 2657; A bill to support innovation in advanced geothermal research and development, and for other purposes.</title>
+    </vote>
+    <vote>
+      <vote_number>00067</vote_number>
+      <vote_date>09-Mar</vote_date>
+      <issue>S. 2657</issue>
+      <question>On the Cloture Motion
+        <measure>S.Amdt. 1407</measure></question>
+      <result>Rejected</result>
+      <vote_tally>
+        <yeas>47</yeas>
+        <nays>44</nays>
+      </vote_tally>
+      <title>Motion to Invoke Cloture on  Amdt. No. 1407, As Modified, to S.2657; In the nature of a substitute.</title>
+    </vote>
+    <vote>
+      <vote_number>00066</vote_number>
+      <vote_date>05-Mar</vote_date>
+      <issue>H.R. 6074</issue>
+      <question>On Passage of the Bill
+         </question>
+      <result>Passed</result>
+      <vote_tally>
+        <yeas>96</yeas>
+        <nays>1</nays>
+      </vote_tally>
+      <title>H.R. 6074; A bill making emergency supplemental appropriations for the fiscal year ending September 30, 2020, and for other purposes.</title>
+    </vote>
+    <vote>
+      <vote_number>00065</vote_number>
+      <vote_date>05-Mar</vote_date>
+      <issue>H.R. 6074</issue>
+      <question>On the Motion to Table
+        <measure>S.Amdt. 1506</measure></question>
+      <result>Agreed to</result>
+      <vote_tally>
+        <yeas>81</yeas>
+        <nays>15</nays>
+      </vote_tally>
+      <title>Motion to Table Paul Amdt. No. 1506; To rescind unobligated balances for certain international programs to offset the amounts appropriated in this bill to respond to the coronavirus outbreak.</title>
+    </vote>
+    <vote>
+      <vote_number>00064</vote_number>
+      <vote_date>04-Mar</vote_date>
+      <issue>S. 2657</issue>
+      <question>On the Motion to Proceed
+         </question>
+      <result>Agreed to</result>
+      <vote_tally>
+        <yeas>90</yeas>
+        <nays>4</nays>
+      </vote_tally>
+      <title>Motion to Proceed to S. 2657; A bill to support innovation in advanced geothermal research and development, and for other purposes.</title>
+    </vote>
+    <vote>
+      <vote_number>00063</vote_number>
+      <vote_date>02-Mar</vote_date>
+      <issue>S. 2657</issue>
+      <question>On Cloture on the Motion to Proceed
+         </question>
+      <result>Agreed to</result>
+      <vote_tally>
+        <yeas>84</yeas>
+        <nays>3</nays>
+      </vote_tally>
+      <title>Motion to Invoke Cloture: Motion to Proceed to S. 2657; A bill to support innovation in advanced geothermal research and development, and for other purposes.</title>
+    </vote>
+    <vote>
+      <vote_number>00062</vote_number>
+      <vote_date>27-Feb</vote_date>
+      <issue>PN365</issue>
+      <question>On the Nomination
+         </question>
+      <result>Confirmed</result>
+      <vote_tally>
+        <yeas>85</yeas>
+        <nays>3</nays>
+      </vote_tally>
+      <title>Confirmation: Travis Greaves, of the District of Columbia, to be a Judge for the U.S. Tax Court</title>
+    </vote>
+    <vote>
+      <vote_number>00061</vote_number>
+      <vote_date>25-Feb</vote_date>
+      <issue>PN365</issue>
+      <question>On the Cloture Motion
+         </question>
+      <result>Agreed to</result>
+      <vote_tally>
+        <yeas>91</yeas>
+        <nays>5</nays>
+      </vote_tally>
+      <title>Motion to Invoke Cloture: Travis Greaves to be a Judge of the United States Tax Court</title>
+    </vote>
+    <vote>
+      <vote_number>00060</vote_number>
+      <vote_date>25-Feb</vote_date>
+      <issue>PN1332</issue>
+      <question>On the Nomination
+         </question>
+      <result>Confirmed</result>
+      <vote_tally>
+        <yeas>58</yeas>
+        <nays>38</nays>
+      </vote_tally>
+      <title>Confirmation: Katharine MacGregor, of Pennsylvania, to be Deputy Secretary of the Interior</title>
+    </vote>
+    <vote>
+      <vote_number>00059</vote_number>
+      <vote_date>25-Feb</vote_date>
+      <issue>PN1168</issue>
+      <question>On the Nomination
+         </question>
+      <result>Confirmed</result>
+      <vote_tally>
+        <yeas>96</yeas>
+        <nays>0</nays>
+      </vote_tally>
+      <title>Confirmation: Silvia Carreno-Coll, of Puerto Rico, to be U.S. District Judge for the District of Puerto Rico</title>
+    </vote>
+    <vote>
+      <vote_number>00058</vote_number>
+      <vote_date>25-Feb</vote_date>
+      <issue>S. 311</issue>
+      <question>On the Cloture Motion
+         </question>
+      <result>Rejected</result>
+      <vote_tally>
+        <yeas>56</yeas>
+        <nays>41</nays>
+      </vote_tally>
+      <title>Motion to Invoke Cloture: Motion to Proceed to S. 311; A bill to amend title 18, United States Code, to prohibit a health care practitioner from failing to exercise the proper degree of care in the case of a child who survives an abortion or attempted abortion.</title>
+    </vote>
+    <vote>
+      <vote_number>00057</vote_number>
+      <vote_date>25-Feb</vote_date>
+      <issue>S. 3275</issue>
+      <question>On the Cloture Motion
+         </question>
+      <result>Rejected</result>
+      <vote_tally>
+        <yeas>53</yeas>
+        <nays>44</nays>
+      </vote_tally>
+      <title>Motion to Invoke Cloture: Motion to Proceed to S. 3275; A bill to amend title 18, United States Code, to protect pain-capable unborn children, and for other purposes.</title>
+    </vote>
+    <vote>
+      <vote_number>00056</vote_number>
+      <vote_date>25-Feb</vote_date>
+      <issue>PN1332</issue>
+      <question>On the Cloture Motion
+         </question>
+      <result>Agreed to</result>
+      <vote_tally>
+        <yeas>59</yeas>
+        <nays>38</nays>
+      </vote_tally>
+      <title>Motion to Invoke Cloture: Katharine MacGregor to be Deputy Secretary of the Interior</title>
+    </vote>
+    <vote>
+      <vote_number>00055</vote_number>
+      <vote_date>25-Feb</vote_date>
+      <issue>PN1168</issue>
+      <question>On the Cloture Motion
+         </question>
+      <result>Agreed to</result>
+      <vote_tally>
+        <yeas>96</yeas>
+        <nays>1</nays>
+      </vote_tally>
+      <title>Motion to Invoke Cloture: Silvia Carreno-Coll to be U.S. District Judge for the District of Puerto Rico</title>
+    </vote>
+    <vote>
+      <vote_number>00054</vote_number>
+      <vote_date>25-Feb</vote_date>
+      <issue>PN854</issue>
+      <question>On the Nomination
+         </question>
+      <result>Confirmed</result>
+      <vote_tally>
+        <yeas>97</yeas>
+        <nays>0</nays>
+      </vote_tally>
+      <title>Confirmation: Robert Anthony Molloy, of the Virgin Islands, to be Judge for the District Court of the Virgin Islands</title>
+    </vote>
+    <vote>
+      <vote_number>00053</vote_number>
+      <vote_date>24-Feb</vote_date>
+      <issue>PN854</issue>
+      <question>On the Cloture Motion
+         </question>
+      <result>Agreed to</result>
+      <vote_tally>
+        <yeas>88</yeas>
+        <nays>1</nays>
+      </vote_tally>
+      <title> Motion to Invoke Cloture: Robert Anthony Molloy to be Judge for the District Court of the Virgin Islands</title>
+    </vote>
+    <vote>
+      <vote_number>00052</vote_number>
+      <vote_date>13-Feb</vote_date>
+      <issue>S.J.Res. 68</issue>
+      <question>On the Joint Resolution
+         </question>
+      <result>Passed</result>
+      <vote_tally>
+        <yeas>55</yeas>
+        <nays>45</nays>
+      </vote_tally>
+      <title>S.J. Res. 68 As Amended; A joint resolution to direct the removal of United States Armed Forces from hostilities against the Islamic Republic of Iran that have not been authorized by Congress.</title>
+    </vote>
+    <vote>
+      <vote_number>00051</vote_number>
+      <vote_date>13-Feb</vote_date>
+      <issue>S.J.Res. 68</issue>
+      <question>On the Motion to Table
+        <measure>S.Amdt. 1319</measure></question>
+      <result>Agreed to</result>
+      <vote_tally>
+        <yeas>51</yeas>
+        <nays>49</nays>
+      </vote_tally>
+      <title>Motion to Table Sullivan Amdt. No. 1319; To amend the rule of construction.</title>
+    </vote>
+    <vote>
+      <vote_number>00050</vote_number>
+      <vote_date>13-Feb</vote_date>
+      <issue>S.J.Res. 68</issue>
+      <question>On the Motion to Table
+        <measure>S.Amdt. 1320</measure></question>
+      <result>Agreed to</result>
+      <vote_tally>
+        <yeas>54</yeas>
+        <nays>46</nays>
+      </vote_tally>
+      <title>Motion to Table Rubio Amdt. No. 1320; To amend the findings.</title>
+    </vote>
+    <vote>
+      <vote_number>00049</vote_number>
+      <vote_date>13-Feb</vote_date>
+      <issue>S.J.Res. 68</issue>
+      <question>On the Amendment
+        <measure>S.Amdt. 1314</measure></question>
+      <result>Agreed to</result>
+      <vote_tally>
+        <yeas>93</yeas>
+        <nays>7</nays>
+      </vote_tally>
+      <title>Risch Amdt. No. 1314; To amend the findings.</title>
+    </vote>
+    <vote>
+      <vote_number>00048</vote_number>
+      <vote_date>13-Feb</vote_date>
+      <issue>S.J.Res. 68</issue>
+      <question>On the Motion to Table
+        <measure>S.Amdt. 1305</measure></question>
+      <result>Agreed to</result>
+      <vote_tally>
+        <yeas>54</yeas>
+        <nays>46</nays>
+      </vote_tally>
+      <title>Motion to Table Cotton Amdt. No. 1305; To exempt from the termination requirement United States Armed Forces engaged in operations directed at designated terrorist organizations.</title>
+    </vote>
+    <vote>
+      <vote_number>00047</vote_number>
+      <vote_date>13-Feb</vote_date>
+      <issue>S.J.Res. 68</issue>
+      <question>On the Amendment
+        <measure>S.Amdt. 1322</measure></question>
+      <result>Agreed to</result>
+      <vote_tally>
+        <yeas>99</yeas>
+        <nays>0</nays>
+      </vote_tally>
+      <title>Reed Amdt. No. 1322; To amend the findings.</title>
+    </vote>
+    <vote>
+      <vote_number>00046</vote_number>
+      <vote_date>13-Feb</vote_date>
+      <issue>S.J.Res. 68</issue>
+      <question>On the Amendment
+        <measure>S.Amdt. 1301</measure></question>
+      <result>Agreed to</result>
+      <vote_tally>
+        <yeas>64</yeas>
+        <nays>34</nays>
+      </vote_tally>
+      <title>Cruz Amdt. No. 1301; To amend the findings.</title>
+    </vote>
+    <vote>
+      <vote_number>00045</vote_number>
+      <vote_date>12-Feb</vote_date>
+      <issue>S.J.Res. 68</issue>
+      <question>On the Motion to Proceed
+         </question>
+      <result>Agreed to</result>
+      <vote_tally>
+        <yeas>51</yeas>
+        <nays>45</nays>
+      </vote_tally>
+      <title>Motion to Proceed to S.J. Res. 68; A joint resolution to direct the removal of United States Armed Forces from hostilities against the Islamic Republic of Iran that have not been authorized by Congress.</title>
+    </vote>
+    <vote>
+      <vote_number>00044</vote_number>
+      <vote_date>12-Feb</vote_date>
+      <issue>PN229</issue>
+      <question>On the Nomination
+         </question>
+      <result>Confirmed</result>
+      <vote_tally>
+        <yeas>77</yeas>
+        <nays>19</nays>
+      </vote_tally>
+      <title>Confirmation: Philip M. Halpern, of New York, to be U.S. District Judge for the Southern District of New York</title>
+    </vote>
+    <vote>
+      <vote_number>00043</vote_number>
+      <vote_date>12-Feb</vote_date>
+      <issue>PN894</issue>
+      <question>On the Nomination
+         </question>
+      <result>Confirmed</result>
+      <vote_tally>
+        <yeas>81</yeas>
+        <nays>12</nays>
+      </vote_tally>
+      <title>Confirmation: John Fitzgerald Kness, of Illinois, to be U.S. District Judge for the Northern District of Illinois</title>
+    </vote>
+    <vote>
+      <vote_number>00042</vote_number>
+      <vote_date>12-Feb</vote_date>
+      <issue>PN1327</issue>
+      <question>On the Nomination
+         </question>
+      <result>Confirmed</result>
+      <vote_tally>
+        <yeas>72</yeas>
+        <nays>23</nays>
+      </vote_tally>
+      <title>Confirmation: Matthew Thomas Schelp, of Missouri, to be U.S. District Judge for the Eastern District of Missouri</title>
+    </vote>
+    <vote>
+      <vote_number>00041</vote_number>
+      <vote_date>12-Feb</vote_date>
+      <issue>PN1326</issue>
+      <question>On the Nomination
+         </question>
+      <result>Confirmed</result>
+      <vote_tally>
+        <yeas>54</yeas>
+        <nays>41</nays>
+      </vote_tally>
+      <title>Confirmation: Joshua M. Kindred, of Alaska, to be U.S. District Judge for the District of Alaska</title>
+    </vote>
+    <vote>
+      <vote_number>00040</vote_number>
+      <vote_date>11-Feb</vote_date>
+      <issue>PN229</issue>
+      <question>On the Cloture Motion
+         </question>
+      <result>Agreed to</result>
+      <vote_tally>
+        <yeas>75</yeas>
+        <nays>18</nays>
+      </vote_tally>
+      <title>Motion to Invoke Cloture: Philip M. Halpern to be U.S. District Judge for the Southern District of New York</title>
+    </vote>
+    <vote>
+      <vote_number>00039</vote_number>
+      <vote_date>11-Feb</vote_date>
+      <issue>PN894</issue>
+      <question>On the Cloture Motion
+         </question>
+      <result>Agreed to</result>
+      <vote_tally>
+        <yeas>82</yeas>
+        <nays>12</nays>
+      </vote_tally>
+      <title>Motion to Invoke Cloture: John Fitzgerald Kness to be U.S. District Judge for the Northern District of Illinois</title>
+    </vote>
+    <vote>
+      <vote_number>00038</vote_number>
+      <vote_date>11-Feb</vote_date>
+      <issue>PN1327</issue>
+      <question>On the Cloture Motion
+         </question>
+      <result>Agreed to</result>
+      <vote_tally>
+        <yeas>72</yeas>
+        <nays>22</nays>
+      </vote_tally>
+      <title>Motion to Invoke Cloture: Matthew Thomas Schelp to be U.S. District Judge for the Eastern District of Missouri</title>
+    </vote>
+    <vote>
+      <vote_number>00037</vote_number>
+      <vote_date>11-Feb</vote_date>
+      <issue>PN1326</issue>
+      <question>On the Cloture Motion
+         </question>
+      <result>Agreed to</result>
+      <vote_tally>
+        <yeas>52</yeas>
+        <nays>41</nays>
+      </vote_tally>
+      <title>Motion to Invoke Cloture: Joshua M. Kindred to be U.S. District Judge for the District of Alaska</title>
+    </vote>
+    <vote>
+      <vote_number>00036</vote_number>
+      <vote_date>11-Feb</vote_date>
+      <issue>PN1325</issue>
+      <question>On the Nomination
+         </question>
+      <result>Confirmed</result>
+      <vote_tally>
+        <yeas>52</yeas>
+        <nays>43</nays>
+      </vote_tally>
+      <title>Confirmation: Andrew Lynn Brasher, of Alabama, to be U.S. Circuit Judge for the Eleventh Circuit</title>
+    </vote>
+    <vote>
+      <vote_number>00035</vote_number>
+      <vote_date>10-Feb</vote_date>
+      <issue>PN1325</issue>
+      <question>On the Cloture Motion
+         </question>
+      <result>Agreed to</result>
+      <vote_tally>
+        <yeas>46</yeas>
+        <nays>41</nays>
+      </vote_tally>
+      <title> Motion to Invoke Cloture: Andrew Lynn Brasher to be United States Circuit Judge for the Eleventh Circuit</title>
+    </vote>
+    <vote>
+      <vote_number>00034</vote_number>
+      <vote_date>05-Feb</vote_date>
+      <issue>H.Res. 755</issue>
+      <question>Guilty or Not Guilty
+         </question>
+      <result>Not Guilty</result>
+      <vote_tally>
+        <yeas>47</yeas>
+        <nays>53</nays>
+      </vote_tally>
+      <title>Article II, Articles of Impeachment Against President Donald John Trump; A resolution impeaching Donald John Trump, President of the United States, for high crimes and misdemeanors.</title>
+    </vote>
+    <vote>
+      <vote_number>00033</vote_number>
+      <vote_date>05-Feb</vote_date>
+      <issue>H.Res. 755</issue>
+      <question>Guilty or Not Guilty
+         </question>
+      <result>Not Guilty</result>
+      <vote_tally>
+        <yeas>48</yeas>
+        <nays>52</nays>
+      </vote_tally>
+      <title>Article I, Articles of Impeachment Against President Donald John Trump; A resolution impeaching Donald John Trump, President of the United States, for high crimes and misdemeanors.</title>
+    </vote>
+    <vote>
+      <vote_number>00032</vote_number>
+      <vote_date>31-Jan</vote_date>
+      <issue>S.Res. 488</issue>
+      <question>On the Resolution
+         </question>
+      <result>Agreed to</result>
+      <vote_tally>
+        <yeas>53</yeas>
+        <nays>47</nays>
+      </vote_tally>
+      <title>S. Res. 488; A resolution to provide for related procedures concerning the articles of impeachment against Donald John Trump, President of the United States.</title>
+    </vote>
+    <vote>
+      <vote_number>00031</vote_number>
+      <vote_date>31-Jan</vote_date>
+      <issue>S.Res. 488</issue>
+      <question>On the Motion to Table
+        <measure>S.Amdt. 1298</measure></question>
+      <result>Agreed to</result>
+      <vote_tally>
+        <yeas>53</yeas>
+        <nays>47</nays>
+      </vote_tally>
+      <title>Motion to Table Van Hollen Amdt. No. 1298; To help ensure impartial justice by requiring the Chief Justice of the United States to rule on motions to subpoena witnesses and documents and issues of privilege.</title>
+    </vote>
+    <vote>
+      <vote_number>00030</vote_number>
+      <vote_date>31-Jan</vote_date>
+      <issue>S.Res. 488</issue>
+      <question>On the Motion to Table
+        <measure>S.Amdt. 1297</measure></question>
+      <result>Agreed to</result>
+      <vote_tally>
+        <yeas>51</yeas>
+        <nays>49</nays>
+      </vote_tally>
+      <title>Motion to Table Schumer Amdt. No. 1297; To subpoena John Robert Bolton.</title>
+    </vote>
+    <vote>
+      <vote_number>00029</vote_number>
+      <vote_date>31-Jan</vote_date>
+      <issue>S.Res. 488</issue>
+      <question>On the Motion to Table
+        <measure>S.Amdt. 1296</measure></question>
+      <result>Agreed to</result>
+      <vote_tally>
+        <yeas>51</yeas>
+        <nays>49</nays>
+      </vote_tally>
+      <title>Motion to Table Schumer Amdt. No. 1296; To subpoena John Robert Bolton.</title>
+    </vote>
+    <vote>
+      <vote_number>00028</vote_number>
+      <vote_date>31-Jan</vote_date>
+      <issue>S.Res. 488</issue>
+      <question>On the Motion to Table
+        <measure>S.Amdt. 1295</measure></question>
+      <result>Agreed to</result>
+      <vote_tally>
+        <yeas>53</yeas>
+        <nays>47</nays>
+      </vote_tally>
+      <title>Motion to Table Schumer Amdt. No. 1295; To subpoena certain relevant witnesses and documents.</title>
+    </vote>
+    <vote>
+      <vote_number>00027</vote_number>
+      <vote_date>31-Jan</vote_date>
+      <issue>n/a</issue>
+      <question>On the Motion (Shall It Be In Order To Consider And Debate Any Motion To Subpoena Witnesses Or Documents)
+         </question>
+      <result>Rejected</result>
+      <vote_tally>
+        <yeas>49</yeas>
+        <nays>51</nays>
+      </vote_tally>
+      <title>Shall It Be In Order To Consider And Debate Any Motion To Subpoena Witnesses Or Documents</title>
+    </vote>
+    <vote>
+      <vote_number>00026</vote_number>
+      <vote_date>22-Jan</vote_date>
+      <issue>S.Res. 483</issue>
+      <question>On the Resolution
+         </question>
+      <result>Agreed to</result>
+      <vote_tally>
+        <yeas>53</yeas>
+        <nays>47</nays>
+      </vote_tally>
+      <title>S. Res. 483; A resolution to provide for related procedures concerning the articles of impeachment against Donald John Trump, President of the United States.</title>
+    </vote>
+    <vote>
+      <vote_number>00025</vote_number>
+      <vote_date>22-Jan</vote_date>
+      <issue>S.Res. 483</issue>
+      <question>On the Motion to Table
+        <measure>S.Amdt. 1294</measure></question>
+      <result>Agreed to</result>
+      <vote_tally>
+        <yeas>53</yeas>
+        <nays>47</nays>
+      </vote_tally>
+      <title>Motion to Table Schumer for Van Hollen Amdt. No. 1294; To help ensure impartial justice by requiring the Chief Justice of the United States to rule on motions to subpoena witnesses and documents.</title>
+    </vote>
+    <vote>
+      <vote_number>00024</vote_number>
+      <vote_date>22-Jan</vote_date>
+      <issue>S.Res. 483</issue>
+      <question>On the Motion to Table
+        <measure>S.Amdt. 1293</measure></question>
+      <result>Agreed to</result>
+      <vote_tally>
+        <yeas>52</yeas>
+        <nays>48</nays>
+      </vote_tally>
+      <title>Motion to Table Schumer Amdt. No. 1293; To allow additional time to file responses to motions.</title>
+    </vote>
+    <vote>
+      <vote_number>00023</vote_number>
+      <vote_date>22-Jan</vote_date>
+      <issue>S.Res. 483</issue>
+      <question>On the Motion to Table
+        <measure>S.Amdt. 1292</measure></question>
+      <result>Agreed to</result>
+      <vote_tally>
+        <yeas>53</yeas>
+        <nays>47</nays>
+      </vote_tally>
+      <title>Motion to Table Schumer Amdt. No. 1292; To provide that motions to subpoena witnesses or documents shall be in order after the question period.</title>
+    </vote>
+    <vote>
+      <vote_number>00022</vote_number>
+      <vote_date>22-Jan</vote_date>
+      <issue>S.Res. 483</issue>
+      <question>On the Motion to Table
+        <measure>S.Amdt. 1291</measure></question>
+      <result>Agreed to</result>
+      <vote_tally>
+        <yeas>53</yeas>
+        <nays>47</nays>
+      </vote_tally>
+      <title>Motion to Table Schumer Amdt. No. 1291; To subpoena John Robert Bolton.</title>
+    </vote>
+    <vote>
+      <vote_number>00021</vote_number>
+      <vote_date>21-Jan</vote_date>
+      <issue>S.Res. 483</issue>
+      <question>On the Motion to Table
+        <measure>S.Amdt. 1290</measure></question>
+      <result>Agreed to</result>
+      <vote_tally>
+        <yeas>53</yeas>
+        <nays>47</nays>
+      </vote_tally>
+      <title>Motion to Table Schumer Amdt. No. 1290; To prevent the selective admission of evidence and to provide for appropriate handling of classified and confidential materials.</title>
+    </vote>
+    <vote>
+      <vote_number>00020</vote_number>
+      <vote_date>21-Jan</vote_date>
+      <issue>S.Res. 483</issue>
+      <question>On the Motion to Table
+        <measure>S.Amdt. 1289</measure></question>
+      <result>Agreed to</result>
+      <vote_tally>
+        <yeas>53</yeas>
+        <nays>47</nays>
+      </vote_tally>
+      <title>Motion to Table Schumer Amdt. No. 1289; To subpoena Robert B. Blair and Michael P. Duffey.</title>
+    </vote>
+    <vote>
+      <vote_number>00019</vote_number>
+      <vote_date>21-Jan</vote_date>
+      <issue>S.Res. 483</issue>
+      <question>On the Motion to Table
+        <measure>S.Amdt. 1288</measure></question>
+      <result>Agreed to</result>
+      <vote_tally>
+        <yeas>53</yeas>
+        <nays>47</nays>
+      </vote_tally>
+      <title>Motion to Table Schumer Amdt. No. 1288; To subpoena certain Department of Defense documents and records.</title>
+    </vote>
+    <vote>
+      <vote_number>00018</vote_number>
+      <vote_date>21-Jan</vote_date>
+      <issue>S.Res. 483</issue>
+      <question>On the Motion to Table
+        <measure>S.Amdt. 1287</measure></question>
+      <result>Agreed to</result>
+      <vote_tally>
+        <yeas>53</yeas>
+        <nays>47</nays>
+      </vote_tally>
+      <title>Motion to Table Schumer Amdt. No.1287; To subpoena John Michael "Mick" Mulvaney.</title>
+    </vote>
+    <vote>
+      <vote_number>00017</vote_number>
+      <vote_date>21-Jan</vote_date>
+      <issue>S.Res. 483</issue>
+      <question>On the Motion to Table
+        <measure>S.Amdt. 1286</measure></question>
+      <result>Agreed to</result>
+      <vote_tally>
+        <yeas>53</yeas>
+        <nays>47</nays>
+      </vote_tally>
+      <title>Motion to Table Schumer Amdt. No. 1286; To subpoena certain Office of Management and Budget documents and records.</title>
+    </vote>
+    <vote>
+      <vote_number>00016</vote_number>
+      <vote_date>21-Jan</vote_date>
+      <issue>S.Res. 483</issue>
+      <question>On the Motion to Table
+        <measure>S.Amdt. 1285</measure></question>
+      <result>Agreed to</result>
+      <vote_tally>
+        <yeas>53</yeas>
+        <nays>47</nays>
+      </vote_tally>
+      <title>Motion to Table Schumer Amdt. No. 1285; To subpoena certain Department of State documents and records.</title>
+    </vote>
+    <vote>
+      <vote_number>00015</vote_number>
+      <vote_date>21-Jan</vote_date>
+      <issue>S.Res. 483</issue>
+      <question>On the Motion to Table
+        <measure>S.Amdt. 1284</measure></question>
+      <result>Agreed to</result>
+      <vote_tally>
+        <yeas>53</yeas>
+        <nays>47</nays>
+      </vote_tally>
+      <title>Motion to Table Schumer Amdt. No. 1284; To subpoena certain White House documents and records.</title>
+    </vote>
+    <vote>
+      <vote_number>00014</vote_number>
+      <vote_date>16-Jan</vote_date>
+      <issue>H.R. 5430</issue>
+      <question>On Passage of the Bill
+         </question>
+      <result>Passed</result>
+      <vote_tally>
+        <yeas>89</yeas>
+        <nays>10</nays>
+      </vote_tally>
+      <title>H.R. 5430; A bill to implement the Agreement between the United States of America, the United Mexican States, and Canada attached as an Annex to the Protocol Replacing the North American Free Trade Agreement.</title>
+    </vote>
+    <vote>
+      <vote_number>00013</vote_number>
+      <vote_date>16-Jan</vote_date>
+      <issue>H.R. 5430</issue>
+      <question>On the Motion
+         </question>
+      <result>Agreed to</result>
+      <vote_tally>
+        <yeas>78</yeas>
+        <nays>21</nays>
+      </vote_tally>
+      <title>Motion to Waive All Applicable Budgetary Discipline Re: H.R. 5430; A bill to implement the Agreement between the United States of America, the United Mexican States, and Canada attached as an Annex to the Protocol Replacing the North American Free Trade Agreement.</title>
+    </vote>
+    <vote>
+      <vote_number>00012</vote_number>
+      <vote_date>14-Jan</vote_date>
+      <issue>PN1165</issue>
+      <question>On the Nomination
+         </question>
+      <result>Confirmed</result>
+      <vote_tally>
+        <yeas>81</yeas>
+        <nays>8</nays>
+      </vote_tally>
+      <title>Confirmation: Peter Gaynor, of Rhode Island, to be Administrator of the Federal Emergency Management Agency, Department of Homeland Security</title>
+    </vote>
+    <vote>
+      <vote_number>00011</vote_number>
+      <vote_date>13-Jan</vote_date>
+      <issue>PN1165</issue>
+      <question>On the Cloture Motion
+         </question>
+      <result>Agreed to</result>
+      <vote_tally>
+        <yeas>76</yeas>
+        <nays>8</nays>
+      </vote_tally>
+      <title>Motion to Invoke Cloture: Peter Gaynor to be Administrator of the Federal Emergency Management Agency, Department of Homeland Security</title>
+    </vote>
+    <vote>
+      <vote_number>00010</vote_number>
+      <vote_date>09-Jan</vote_date>
+      <issue>PN1166</issue>
+      <question>On the Nomination
+         </question>
+      <result>Confirmed</result>
+      <vote_tally>
+        <yeas>50</yeas>
+        <nays>44</nays>
+      </vote_tally>
+      <title>Confirmation: Paul J. Ray, of Tennessee, to be Administrator of the Office of Information and Regulatory Affairs, Office of Management and Budget</title>
+    </vote>
+    <vote>
+      <vote_number>00009</vote_number>
+      <vote_date>09-Jan</vote_date>
+      <issue>PN1166</issue>
+      <question>On the Cloture Motion
+         </question>
+      <result>Agreed to</result>
+      <vote_tally>
+        <yeas>50</yeas>
+        <nays>45</nays>
+      </vote_tally>
+      <title>Motion to Invoke Cloture: Paul J. Ray to be Administrator of the Office of Information and Regulatory Affairs, Office of Management and Budget</title>
+    </vote>
+    <vote>
+      <vote_number>00008</vote_number>
+      <vote_date>08-Jan</vote_date>
+      <issue>PN966</issue>
+      <question>On the Nomination
+         </question>
+      <result>Confirmed</result>
+      <vote_tally>
+        <yeas>91</yeas>
+        <nays>7</nays>
+      </vote_tally>
+      <title>Confirmation: Michael George DeSombre, of Illinois, to be Ambassador of the United States of America to the Kingdom of Thailand</title>
+    </vote>
+    <vote>
+      <vote_number>00007</vote_number>
+      <vote_date>08-Jan</vote_date>
+      <issue>PN897</issue>
+      <question>On the Nomination
+         </question>
+      <result>Confirmed</result>
+      <vote_tally>
+        <yeas>51</yeas>
+        <nays>47</nays>
+      </vote_tally>
+      <title>Confirmation: Eleni Maria Roumel, of Maryland, to be a Judge for the U.S. Court of Federal Claims</title>
+    </vote>
+    <vote>
+      <vote_number>00006</vote_number>
+      <vote_date>08-Jan</vote_date>
+      <issue>PN455</issue>
+      <question>On the Nomination
+         </question>
+      <result>Confirmed</result>
+      <vote_tally>
+        <yeas>89</yeas>
+        <nays>8</nays>
+      </vote_tally>
+      <title>Confirmation: Matthew H. Solomson, of Maryland, to be a Judge of the U.S. Court of Federal Claims</title>
+    </vote>
+    <vote>
+      <vote_number>00005</vote_number>
+      <vote_date>08-Jan</vote_date>
+      <issue>PN966</issue>
+      <question>On the Cloture Motion
+         </question>
+      <result>Agreed to</result>
+      <vote_tally>
+        <yeas>64</yeas>
+        <nays>31</nays>
+      </vote_tally>
+      <title>Motion to Invoke Cloture: Michael George DeSombre to be Ambassador of the United States to the Kingdom of Thailand</title>
+    </vote>
+    <vote>
+      <vote_number>00004</vote_number>
+      <vote_date>08-Jan</vote_date>
+      <issue>PN897</issue>
+      <question>On the Cloture Motion
+         </question>
+      <result>Agreed to</result>
+      <vote_tally>
+        <yeas>51</yeas>
+        <nays>44</nays>
+      </vote_tally>
+      <title>Motion to Invoke Cloture: Eleni Maria Roumel to be a Judge of the U.S. Court of Federal Claims</title>
+    </vote>
+    <vote>
+      <vote_number>00003</vote_number>
+      <vote_date>08-Jan</vote_date>
+      <issue>PN455</issue>
+      <question>On the Cloture Motion
+         </question>
+      <result>Agreed to</result>
+      <vote_tally>
+        <yeas>88</yeas>
+        <nays>7</nays>
+      </vote_tally>
+      <title>Motion to Invoke Cloture: Matthew H. Solomsom to be a Judge for the U.S. Court of Federal Claims</title>
+    </vote>
+    <vote>
+      <vote_number>00002</vote_number>
+      <vote_date>07-Jan</vote_date>
+      <issue>PN1039</issue>
+      <question>On the Nomination
+         </question>
+      <result>Confirmed</result>
+      <vote_tally>
+        <yeas>88</yeas>
+        <nays>5</nays>
+      </vote_tally>
+      <title>Confirmation: Jovita Carranza, of Illinois, to be Administrator of the Small Business Administration</title>
+    </vote>
+    <vote>
+      <vote_number>00001</vote_number>
+      <vote_date>06-Jan</vote_date>
+      <issue>PN1039</issue>
+      <question>On the Cloture Motion
+         </question>
+      <result>Agreed to</result>
+      <vote_tally>
+        <yeas>86</yeas>
+        <nays>5</nays>
+      </vote_tally>
+      <title>Motion to Invoke Cloture on Jovita Carranza, of Illinois, to be Administrator of the Small Business Administration</title>
+    </vote>
+  </votes>
+</vote_summary>
